@@ -134,14 +134,14 @@ with st.form("predict_form"):
             'Gender': gender,
             'Sector': sector,
             'State': state,
-            'Startup': startup,
-            'TenorInDays': tenor,
+            'StartUp': startup,
+            'Tenor': tenor,
             'AmountGranted': amount,
             'InterestRate': rate,
             'MSMEAnnualTurnover': turnover,
             'Age': age,
             'NumberOfEmployees': employees,
-            'GreenEnergy': green
+            'green_energy/energy_efficiency': green
         }])
 
         for col in input_df.select_dtypes(include='object').columns:
