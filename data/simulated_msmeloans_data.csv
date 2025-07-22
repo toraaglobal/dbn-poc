@@ -1,0 +1,1001 @@
+Gender,State,Sector,CreditID,CusID,FullNames,CompanyName,BirthDate,Address,TelNo,EmailAddr,AmountGranted,EffectiveDate,Tenor,TenorType,Rate,ScheduleType,InterestRepayFreq,PrincipalRepayFreq,NatureOfBusiness,FirstTimeAccessToCredit,StartUp,MSMEAnnualTurnover,NumberOfEmployees,Age,age_group_id,ES_Rating,green_energy/energy_efficiency,TenorInDays,MaturityDate,InterestRepayStartDate,PrincipalRepayStartDate,DateAdded
+Male,Enugu,Health,CAM-100000,CUS-1000,Paul Bates,"Brown, Ritter and Gaines",1998-11-16,"PSC 1418, Box 0373
+APO AP 11453",(296)718-1504x183,ericadams@hotmail.com,6388997,2023-09-19,7,Yearly,15.04,Flat Rate,Quarterly,Monthly,Production,True,True,98913836,67,21,Youth,A,True,210,2024-04-16,2023-10-19,2023-11-18,2024-01-01
+Female,Rivers,Health,CAM-100001,CUS-1001,Gail Carpenter DDS,Barrera-Bell,2004-10-23,"408 Harrell Glens
+Debraton, NJ 31431",001-652-807-5595x596,voneal@porter.info,7444121,2023-10-22,28,Quarterly,7.78,Flat Rate,Monthly,Monthly,Services,True,False,78943867,87,10,Adult,B,False,840,2026-02-08,2023-11-21,2023-12-21,2024-01-01
+Male,Rivers,Health,CAM-100002,CUS-1002,Jason Gonzalez,Callahan-Adams,1999-10-05,"219 Frank Trail Suite 898
+Corymouth, AR 34375",700-620-3219x4404,patricia12@fox.com,6738795,2023-08-31,24,Quarterly,7.31,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,64779882,29,25,Adult,C,True,720,2025-08-20,2023-09-30,2023-10-30,2024-01-01
+Male,Enugu,Manufacturing,CAM-100003,CUS-1003,Gina Roberts,Greene-Rodriguez,1979-09-14,"78658 Tara Ranch
+North Shannonmouth, NJ 13667",+1-064-283-3934x8686,nnguyen@gibbs.info,5267348,2023-07-05,36,Yearly,8.09,Flat Rate,Monthly,Quarterly,Production,True,False,69252568,34,12,Adult,B,True,1080,2026-06-19,2023-08-04,2023-09-03,2024-01-01
+Male,Lagos,Manufacturing,CAM-100004,CUS-1004,Jennifer Franco,"Barrera, Prince and Morrow",2004-01-15,"455 Jo Lane Suite 372
+North Lauraview, LA 01108",+1-672-643-4320x065,srollins@yahoo.com,1216756,2023-09-03,56,Monthly,8.44,Reducing Balance,Monthly,Quarterly,Services,False,True,17366031,97,12,Adult,B,False,1680,2028-04-09,2023-10-03,2023-11-02,2024-01-01
+Female,Kano,Agriculture,CAM-100005,CUS-1005,Thomas Pruitt,"Boone, Jones and Watkins",1974-04-15,"0087 Davidson Forest
+South Juanhaven, CO 57938",112.911.0311x546,zflores@hotmail.com,8939834,2023-05-05,10,Monthly,17.76,Flat Rate,Monthly,Quarterly,Production,False,False,15723361,41,26,Youth,C,False,300,2024-02-29,2023-06-04,2023-07-04,2024-01-01
+Male,Abuja,Trade and Commerce,CAM-100006,CUS-1006,Alfred Harding,"Guerrero, Larson and Collins",2002-05-27,"90996 Scott Rest Suite 378
+Anthonymouth, KY 37625",001-985-835-8587,klineheather@lynch-golden.info,7290968,2023-09-25,24,Quarterly,19.82,Flat Rate,Monthly,Quarterly,Consulting,False,True,10454364,41,5,Adult,A,False,720,2025-09-14,2023-10-25,2023-11-24,2024-01-01
+Male,Lagos,Health,CAM-100007,CUS-1007,Laura Reyes,Davis-Smith,1969-10-01,"65642 Richard Gardens Suite 918
+Michaelville, SC 41221",304.650.2699x064,tiffanywalker@rodriguez.info,4251198,2023-05-11,39,Monthly,15.6,Reducing Balance,Quarterly,Quarterly,Wholesale,True,True,78864536,23,16,Youth,B,False,1170,2026-07-24,2023-06-10,2023-07-10,2024-01-01
+Male,Abuja,Trade and Commerce,CAM-100008,CUS-1008,Lindsey Cooper,Clark PLC,1995-03-31,"358 Jones Harbor Suite 681
+Jenniferview, OK 90917",2005389507,vwong@yahoo.com,7869434,2023-08-25,15,Yearly,21.58,Flat Rate,Monthly,Monthly,Consulting,True,False,64266549,71,1,Adult,B,False,450,2024-11-17,2023-09-24,2023-10-24,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100009,CUS-1009,Dylan Jones,Sawyer-Charles,1994-01-26,"310 Lauren Extension
+East Brendaville, SC 59980",(764)624-9267x214,brianrobinson@thomas-roberts.com,3638145,2023-01-18,30,Yearly,24.83,Flat Rate,Monthly,Monthly,Retail,True,False,31169138,3,28,Adult,C,False,900,2025-07-06,2023-02-17,2023-03-19,2024-01-01
+Male,Oyo,Agriculture,CAM-100010,CUS-1010,Mr. Scott Christensen,Schultz-Brock,1982-05-10,"67219 Teresa Highway Suite 671
+Walkermouth, DC 29080",148.150.4376x8745,ilawson@martinez.net,1726476,2023-02-09,7,Quarterly,21.4,Reducing Balance,Quarterly,Quarterly,Production,False,True,26669000,58,9,Youth,C,True,210,2023-09-07,2023-03-11,2023-04-10,2024-01-01
+Male,Abuja,Health,CAM-100011,CUS-1011,Terry Wilson,"Elliott, Small and Collins",1978-10-20,"3667 Barry Track Apt. 050
+North Carmenberg, TX 42850",(638)177-7711,russellhudson@brown.com,4684056,2023-01-21,16,Yearly,18.9,Flat Rate,Monthly,Monthly,Wholesale,True,True,43330304,32,12,Youth,C,False,480,2024-05-15,2023-02-20,2023-03-22,2024-01-01
+Male,Kano,Health,CAM-100012,CUS-1012,Jeff Allen,Santiago-Luna,1974-07-03,"Unit 4496 Box 5120
+DPO AP 69182",+1-876-757-5508x25591,ierickson@foster.com,9460820,2023-08-13,55,Yearly,15.65,Reducing Balance,Monthly,Quarterly,Production,False,False,66085033,31,5,Adult,C,True,1650,2028-02-18,2023-09-12,2023-10-12,2024-01-01
+Male,Oyo,ICT,CAM-100013,CUS-1013,Leah Long,Thomas-Johnson,1969-08-19,"557 Kristie Heights
+Kevinland, WA 66002",(231)219-9932x71100,kcowan@gmail.com,2000844,2023-12-21,36,Quarterly,13.98,Reducing Balance,Monthly,Quarterly,Production,False,True,37951072,82,22,Adult,C,False,1080,2026-12-05,2024-01-20,2024-02-19,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100014,CUS-1014,Caitlin Mitchell,Wallace-Patel,2001-12-06,"11391 Sierra Flat Suite 195
+Thomasside, LA 95785",915.446.0261x72571,corey73@yahoo.com,9817776,2023-10-09,20,Yearly,6.69,Reducing Balance,Monthly,Quarterly,Services,False,False,82735137,43,20,Youth,C,False,600,2025-05-31,2023-11-08,2023-12-08,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100015,CUS-1015,James Wilson,Bailey Inc,1980-07-22,"5382 Lisa Grove Suite 537
+Kimport, ND 45721",604-629-6418,danielle99@davis.com,3943609,2023-01-08,14,Yearly,12.99,Reducing Balance,Quarterly,Quarterly,Retail,False,False,49865579,7,22,Youth,A,True,420,2024-03-03,2023-02-07,2023-03-09,2024-01-01
+Female,Oyo,Manufacturing,CAM-100016,CUS-1016,Alex Pollard,Lopez Ltd,1999-12-20,"5509 Nicole Union Apt. 371
+Port Carlstad, MA 11903",(195)816-0920x44467,lisa57@hernandez.com,9252084,2023-04-10,28,Yearly,23.2,Reducing Balance,Monthly,Monthly,Production,True,True,42549223,1,28,Youth,B,False,840,2025-07-28,2023-05-10,2023-06-09,2024-01-01
+Female,Enugu,ICT,CAM-100017,CUS-1017,Nathan Lewis,Jackson-Sanchez,1978-11-05,"376 Christy Locks
+East Marcustown, NV 98024",(350)891-3841,morrisjanet@burke-mckenzie.com,1900283,2023-08-28,24,Monthly,21.16,Flat Rate,Quarterly,Quarterly,Consulting,False,False,43801105,61,24,Youth,A,False,720,2025-08-17,2023-09-27,2023-10-27,2024-01-01
+Female,Abuja,Manufacturing,CAM-100018,CUS-1018,Angel Sutton,"Thomas, Howe and Sutton",1995-08-18,"4321 Murphy Heights Apt. 724
+Mirandamouth, IN 16472",+1-743-698-3348x7844,lisaschmidt@hotmail.com,6427613,2023-03-28,14,Quarterly,9.32,Reducing Balance,Quarterly,Monthly,Consulting,True,True,3286188,14,3,Youth,A,True,420,2024-05-21,2023-04-27,2023-05-27,2024-01-01
+Male,Enugu,Manufacturing,CAM-100019,CUS-1019,Brian Pham,Martinez Ltd,1984-01-03,"4593 Christina Passage
+West Dylan, DE 82495",145.071.4680,cortezkatherine@gmail.com,1191757,2023-10-25,40,Quarterly,14.33,Reducing Balance,Monthly,Quarterly,Services,False,True,88972025,52,5,Adult,C,False,1200,2027-02-06,2023-11-24,2023-12-24,2024-01-01
+Female,Kano,Manufacturing,CAM-100020,CUS-1020,Daniel Simmons,Sullivan-Sanchez,1978-03-13,"44419 David Gateway
+Port Kevinfurt, KS 30994",001-739-646-0119x4802,nrichards@gmail.com,890719,2023-01-14,26,Quarterly,21.33,Flat Rate,Monthly,Quarterly,Retail,True,False,22945989,96,2,Adult,B,True,780,2025-03-04,2023-02-13,2023-03-15,2024-01-01
+Male,Abuja,Agriculture,CAM-100021,CUS-1021,Jessica Pope,"Sanchez, Douglas and Wallace",2002-03-30,"796 Ayala Rapid Suite 491
+New Ricardoton, ME 31703",001-079-535-2030x37494,gary76@campbell-martin.org,7354453,2023-11-30,14,Monthly,6.35,Flat Rate,Monthly,Quarterly,Retail,True,True,95075295,6,14,Adult,A,False,420,2025-01-23,2023-12-30,2024-01-29,2024-01-01
+Female,Abuja,Agriculture,CAM-100022,CUS-1022,Justin Campbell,Nguyen-Johnson,1996-12-06,"40703 Melissa Springs
+Lake Stevenhaven, RI 88613",676.964.6862x4313,kennethknight@yahoo.com,3837920,2023-01-02,33,Monthly,12.75,Flat Rate,Monthly,Monthly,Consulting,False,False,83779560,10,2,Adult,C,False,990,2025-09-18,2023-02-01,2023-03-03,2024-01-01
+Female,Abuja,Manufacturing,CAM-100023,CUS-1023,Anthony Castillo,"Sosa, Brown and Villanueva",2001-02-28,"6083 Laura River Suite 059
+Onealview, CO 34965",396.981.0591x7923,robert85@garcia.info,3796050,2023-10-20,51,Quarterly,22.04,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,83926191,71,13,Youth,C,True,1530,2027-12-28,2023-11-19,2023-12-19,2024-01-01
+Female,Lagos,ICT,CAM-100024,CUS-1024,Renee Flores,Hernandez-Smith,1973-06-03,"796 Paul Coves
+East Daniel, WY 63502",0020151391,adam45@smith-wilkerson.net,2618324,2023-11-21,56,Monthly,13.08,Reducing Balance,Quarterly,Quarterly,Services,False,False,92523114,90,7,Youth,B,False,1680,2028-06-27,2023-12-21,2024-01-20,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100025,CUS-1025,Alexandra Gomez,Henderson Ltd,1980-11-15,"771 Copeland Gardens
+Jacobtown, NV 30845",657.287.2907x01251,vanessa50@moore.com,7327299,2023-02-10,12,Quarterly,6.55,Reducing Balance,Quarterly,Quarterly,Services,True,True,20561310,98,10,Youth,A,True,360,2024-02-05,2023-03-12,2023-04-11,2024-01-01
+Female,Lagos,ICT,CAM-100026,CUS-1026,Corey Smith,Williams-Ray,1981-10-05,"8748 Hampton Forest
+Perezton, CA 33901",019.184.5979x608,nicholas06@haynes.org,6747794,2023-11-14,21,Monthly,15.85,Flat Rate,Monthly,Monthly,Consulting,False,False,68913257,30,13,Adult,A,True,630,2025-08-05,2023-12-14,2024-01-13,2024-01-01
+Female,Kano,Health,CAM-100027,CUS-1027,Donald Harris,Nelson-Phillips,1976-10-04,"16788 Key Square
+West Brandon, IA 16392",469.906.4906x50599,cortiz@cruz-ramirez.info,8417596,2023-11-12,21,Yearly,22.23,Reducing Balance,Quarterly,Monthly,Consulting,False,True,99371145,21,16,Youth,A,True,630,2025-08-03,2023-12-12,2024-01-11,2024-01-01
+Female,Oyo,Agriculture,CAM-100028,CUS-1028,Rodney Smith,Brooks-Houston,2005-03-05,"PSC 1029, Box 3054
+APO AE 03110",857.055.4003x40882,ujohnson@hudson.com,5402666,2023-04-21,38,Yearly,16.81,Flat Rate,Monthly,Monthly,Wholesale,True,False,79642269,60,26,Youth,C,False,1140,2026-06-04,2023-05-21,2023-06-20,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100029,CUS-1029,Donna Gonzalez,"Maxwell, Lam and Martin",2000-05-28,"2808 Richard Fork Suite 509
+Janiceshire, WY 60455",790-945-3957,zachary95@williams.biz,1376031,2023-01-14,9,Quarterly,9.53,Reducing Balance,Monthly,Quarterly,Wholesale,False,False,72770961,81,14,Adult,B,False,270,2023-10-11,2023-02-13,2023-03-15,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100030,CUS-1030,Joshua Nelson,Gonzalez-Davis,1975-10-17,"7499 Janet Dam
+Fischerhaven, DE 90055",+1-030-668-2083x186,alyssafrederick@gmail.com,6732739,2023-08-19,9,Monthly,12.68,Flat Rate,Monthly,Monthly,Retail,True,False,10737723,97,11,Adult,B,True,270,2024-05-15,2023-09-18,2023-10-18,2024-01-01
+Male,Abuja,Health,CAM-100031,CUS-1031,Alyssa Sanchez,Duncan and Sons,2001-09-20,"32043 Smith Shores
+Tracyside, RI 91236",(125)847-6761,bradshawjack@yahoo.com,1770896,2023-03-25,44,Monthly,14.0,Reducing Balance,Monthly,Quarterly,Services,False,True,64745175,74,10,Adult,A,False,1320,2026-11-04,2023-04-24,2023-05-24,2024-01-01
+Female,Enugu,Health,CAM-100032,CUS-1032,Kimberly Smith,Brooks-Nguyen,1970-06-23,"Unit 4004 Box 3524
+DPO AP 06777",(142)833-0312x801,karen29@wiggins.biz,1559622,2023-05-10,45,Yearly,16.59,Reducing Balance,Monthly,Monthly,Services,True,True,73405948,63,6,Youth,C,False,1350,2027-01-19,2023-06-09,2023-07-09,2024-01-01
+Female,Abuja,Manufacturing,CAM-100033,CUS-1033,Victoria Navarro,"Ortiz, Moore and Porter",1997-08-03,"482 Kelly Brook Suite 710
+Cohenfurt, CO 72997",(010)503-6268x7254,staffordmichael@yahoo.com,4922375,2023-08-19,22,Yearly,20.19,Reducing Balance,Quarterly,Monthly,Consulting,True,False,49628766,42,4,Youth,A,False,660,2025-06-09,2023-09-18,2023-10-18,2024-01-01
+Female,Kano,Agriculture,CAM-100034,CUS-1034,Jeremy Vasquez,Park-Torres,1997-09-24,"636 Freeman Forges Suite 661
+Lake Desiree, VA 73557",254.901.9408,gibsontyler@shepherd-king.com,878165,2023-11-22,42,Monthly,6.98,Flat Rate,Quarterly,Quarterly,Retail,False,False,61537422,51,21,Adult,B,True,1260,2027-05-05,2023-12-22,2024-01-21,2024-01-01
+Male,Abuja,Agriculture,CAM-100035,CUS-1035,Andrea Morris,Owens Ltd,1972-05-09,"986 Johnson Viaduct Suite 134
+Crystalmouth, RI 32569",(181)901-5603x4067,joshua41@hotmail.com,9597270,2023-05-25,44,Monthly,22.79,Flat Rate,Monthly,Monthly,Services,True,True,55477891,64,1,Adult,C,False,1320,2027-01-04,2023-06-24,2023-07-24,2024-01-01
+Female,Lagos,ICT,CAM-100036,CUS-1036,Jorge Pena,Howard LLC,1970-04-04,"0454 Kristie Camp Suite 243
+Lake Scottport, WY 93254",(220)451-4418x36655,jordanpowers@yahoo.com,4631479,2023-12-11,57,Monthly,5.25,Reducing Balance,Quarterly,Quarterly,Retail,False,True,86739239,76,7,Youth,A,True,1710,2028-08-16,2024-01-10,2024-02-09,2024-01-01
+Male,Rivers,Manufacturing,CAM-100037,CUS-1037,Michael Hernandez,Rogers-Rogers,1983-06-21,"858 Burke Trail
+Lake Dawn, KS 25763",+1-947-883-2170x4197,hillcrystal@miller.com,9900725,2023-01-28,34,Monthly,12.4,Reducing Balance,Monthly,Quarterly,Retail,False,True,56230536,56,24,Adult,A,False,1020,2025-11-13,2023-02-27,2023-03-29,2024-01-01
+Male,Kaduna,Manufacturing,CAM-100038,CUS-1038,Evelyn Fowler,Hoffman and Sons,1994-04-12,"906 Mary Wall Apt. 055
+West Yolanda, DE 67993",(263)653-1565x6778,russellmcpherson@gmail.com,9533796,2023-03-07,57,Monthly,5.55,Reducing Balance,Monthly,Monthly,Consulting,True,False,76757256,80,9,Youth,C,False,1710,2027-11-11,2023-04-06,2023-05-06,2024-01-01
+Male,Abuja,Manufacturing,CAM-100039,CUS-1039,Anne Hogan,"Ruiz, Davila and Gomez",1999-09-22,"2472 Atkinson Islands Suite 893
+Port Patrickbury, NE 90121",+1-170-810-4322x1643,laurajohnson@dalton-thomas.com,915008,2023-06-12,41,Monthly,12.86,Flat Rate,Monthly,Quarterly,Retail,False,True,54762777,41,8,Adult,B,True,1230,2026-10-24,2023-07-12,2023-08-11,2024-01-01
+Male,Enugu,Manufacturing,CAM-100040,CUS-1040,Steven Walsh,Castro Group,1977-02-03,"8980 Frey Keys
+Kimberlyfort, RI 43932",190-710-7033x5849,karen15@park-wood.biz,2131993,2023-08-17,43,Quarterly,15.52,Reducing Balance,Quarterly,Quarterly,Wholesale,True,False,70709584,32,5,Adult,C,False,1290,2027-02-27,2023-09-16,2023-10-16,2024-01-01
+Male,Lagos,Agriculture,CAM-100041,CUS-1041,Chris Walsh,Ross-Strong,1990-07-11,"817 Robert Tunnel Apt. 132
+Lake Daniel, NC 62258",+1-315-766-6410x054,zroy@yahoo.com,3851278,2023-09-18,44,Monthly,15.23,Reducing Balance,Monthly,Monthly,Wholesale,True,True,88491407,15,19,Adult,A,True,1320,2027-04-30,2023-10-18,2023-11-17,2024-01-01
+Female,Kaduna,Agriculture,CAM-100042,CUS-1042,David Salazar,"Butler, Stone and Matthews",1992-06-16,"13803 Baker Square Suite 727
+West Jill, CT 06417",4023515281,gkrause@yahoo.com,2842035,2023-06-13,55,Yearly,8.31,Reducing Balance,Monthly,Monthly,Production,True,False,89105678,62,10,Youth,A,False,1650,2027-12-19,2023-07-13,2023-08-12,2024-01-01
+Female,Rivers,Manufacturing,CAM-100043,CUS-1043,Brian Turner,Williams Group,2003-02-14,"43239 Valencia Street Suite 871
+Robertoside, IL 33288",+1-161-487-2289x61310,ptucker@yahoo.com,8478450,2023-10-28,42,Quarterly,17.91,Reducing Balance,Quarterly,Quarterly,Consulting,True,False,49980339,27,11,Youth,A,True,1260,2027-04-10,2023-11-27,2023-12-27,2024-01-01
+Female,Kaduna,ICT,CAM-100044,CUS-1044,Bryan Marsh,"Mcguire, Morgan and Harris",1975-11-03,"682 Suzanne Prairie
+Tammyborough, NC 81270",001-901-198-2653,kristen26@phillips.com,6203394,2023-10-30,57,Monthly,5.9,Flat Rate,Quarterly,Monthly,Production,True,False,85817540,28,25,Adult,A,False,1710,2028-07-05,2023-11-29,2023-12-29,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100045,CUS-1045,Robert Thomas,Brewer-Morgan,1970-07-16,"577 Michael Brooks
+New James, AK 88629",548.347.5852x754,ewilliams@gmail.com,7740947,2023-10-14,40,Yearly,20.24,Flat Rate,Quarterly,Quarterly,Wholesale,True,True,92274038,81,15,Youth,B,False,1200,2027-01-26,2023-11-13,2023-12-13,2024-01-01
+Female,Oyo,Trade and Commerce,CAM-100046,CUS-1046,Angela Miller,Brown-Anderson,1986-11-27,"574 Mark Wells Apt. 234
+North Christine, NV 15409",024-560-8497x7430,mharmon@gmail.com,3268362,2023-01-10,12,Quarterly,23.93,Reducing Balance,Monthly,Quarterly,Production,True,True,29135236,64,6,Adult,B,False,360,2024-01-05,2023-02-09,2023-03-11,2024-01-01
+Male,Oyo,ICT,CAM-100047,CUS-1047,Theresa Norris,"Oneal, King and Adams",1995-08-05,"98043 Franco Overpass Suite 507
+Evanston, CT 20382",164-969-2138,garciaalex@cunningham.com,1670365,2023-07-14,32,Yearly,11.8,Reducing Balance,Monthly,Monthly,Consulting,True,True,10979219,59,15,Adult,A,True,960,2026-02-28,2023-08-13,2023-09-12,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100048,CUS-1048,David Sutton,Deleon-Byrd,1988-08-23,"2658 Michael Branch
+Margaretmouth, MN 10465",001-474-918-0535x66398,meredithboyd@matthews-reynolds.biz,9568026,2023-04-28,33,Monthly,15.34,Flat Rate,Quarterly,Monthly,Consulting,False,False,31107857,58,5,Youth,B,True,990,2026-01-12,2023-05-28,2023-06-27,2024-01-01
+Female,Kano,Agriculture,CAM-100049,CUS-1049,William Pena,Ramirez Inc,1979-03-02,"569 Kimberly Burgs
+West James, PA 56632",007.205.7458,zphillips@cochran.org,6431161,2023-09-27,27,Monthly,12.58,Flat Rate,Monthly,Monthly,Retail,False,False,48875246,2,29,Youth,B,True,810,2025-12-15,2023-10-27,2023-11-26,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100050,CUS-1050,Pamela Knight,Hunter-Cox,1992-02-24,"670 Austin Walk Suite 092
+New Angela, NH 58957",148.958.9564x2397,todd55@petersen.com,7290593,2023-03-21,19,Monthly,5.13,Reducing Balance,Quarterly,Monthly,Services,True,True,99996545,36,19,Youth,B,False,570,2024-10-11,2023-04-20,2023-05-20,2024-01-01
+Female,Enugu,Health,CAM-100051,CUS-1051,Jonathan Hoffman,"Scott, Martinez and Elliott",1977-12-27,"772 Marcus Estates Suite 174
+Jasminefort, IN 14490",+1-775-679-8414x45592,thomas75@yahoo.com,5351188,2023-04-03,12,Monthly,12.72,Flat Rate,Quarterly,Quarterly,Retail,False,False,17371868,71,22,Youth,A,True,360,2024-03-28,2023-05-03,2023-06-02,2024-01-01
+Male,Kaduna,Health,CAM-100052,CUS-1052,Emily Barnes,"Campbell, Stone and Williams",1987-11-11,"875 Garcia Plains
+Lake Suzanne, AZ 57592",001-871-213-1171x61550,franciscathy@marshall-hampton.biz,3221864,2023-09-23,42,Quarterly,20.83,Flat Rate,Monthly,Quarterly,Consulting,False,False,83369859,13,19,Adult,C,True,1260,2027-03-06,2023-10-23,2023-11-22,2024-01-01
+Female,Abuja,ICT,CAM-100053,CUS-1053,Paul Bailey,Howard PLC,1976-09-26,"73527 Anthony Rapid Suite 265
+Mariastad, DC 04017",152.578.1863,kingalexis@atkinson-spence.org,4447208,2023-11-28,27,Quarterly,16.92,Reducing Balance,Monthly,Monthly,Wholesale,False,False,75735788,15,10,Youth,C,True,810,2026-02-15,2023-12-28,2024-01-27,2024-01-01
+Male,Abuja,Manufacturing,CAM-100054,CUS-1054,Brittany Manning,Clark and Sons,1998-06-28,"4036 Joshua Spurs Suite 562
+South Candice, CA 48874",(376)004-8263x13537,morgancathy@haynes-conrad.com,7484720,2023-12-16,10,Yearly,7.03,Flat Rate,Quarterly,Monthly,Wholesale,False,True,8045001,89,12,Youth,C,True,300,2024-10-11,2024-01-15,2024-02-14,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100055,CUS-1055,Maria Coleman,"Mitchell, Hall and Ross",2002-02-28,"81230 Joseph Springs Apt. 298
+Kiarachester, NE 82792",057-071-5806,samantha27@yahoo.com,8233308,2023-12-27,7,Monthly,21.94,Flat Rate,Quarterly,Quarterly,Retail,False,False,91763004,87,22,Adult,A,True,210,2024-07-24,2024-01-26,2024-02-25,2024-01-01
+Female,Enugu,Manufacturing,CAM-100056,CUS-1056,Marcus Warren,Schmidt-Henry,1994-12-28,"83422 Monique Road
+North Michael, ME 81618",970.264.7160x029,bgarrett@stewart.org,4375754,2023-09-14,32,Yearly,15.62,Reducing Balance,Quarterly,Quarterly,Consulting,False,True,27646174,60,4,Adult,B,True,960,2026-05-01,2023-10-14,2023-11-13,2024-01-01
+Male,Oyo,Trade and Commerce,CAM-100057,CUS-1057,Crystal Parker,"Tyler, Larson and Taylor",1992-12-23,"PSC 2096, Box 1445
+APO AP 12760",(572)477-5219x104,abrewer@yahoo.com,3204999,2023-05-13,26,Quarterly,21.83,Reducing Balance,Quarterly,Quarterly,Wholesale,True,True,36050664,22,18,Adult,B,True,780,2025-07-01,2023-06-12,2023-07-12,2024-01-01
+Male,Kano,ICT,CAM-100058,CUS-1058,Ryan Kane,"Chavez, Hampton and Holloway",1983-08-12,"PSC 8882, Box 3973
+APO AP 97229",(468)598-8569,gregoryphillips@gmail.com,5798217,2023-10-03,59,Monthly,16.6,Flat Rate,Monthly,Quarterly,Consulting,False,True,22411399,63,16,Adult,A,True,1770,2028-08-07,2023-11-02,2023-12-02,2024-01-01
+Male,Lagos,ICT,CAM-100059,CUS-1059,James Adams,"Hurley, Lopez and Payne",1982-02-19,"USS Harrison
+FPO AE 86352",001-552-888-3851x3341,cindymatthews@holmes-carlson.net,1824070,2023-09-21,43,Monthly,16.19,Reducing Balance,Quarterly,Monthly,Wholesale,False,True,59933890,90,8,Youth,A,True,1290,2027-04-03,2023-10-21,2023-11-20,2024-01-01
+Male,Abuja,Health,CAM-100060,CUS-1060,Mary Fleming,Spears-Daniels,1976-11-15,"PSC 8137, Box 0296
+APO AP 95923",+1-493-669-1316,jcochran@gmail.com,7864386,2023-06-20,20,Quarterly,7.11,Flat Rate,Quarterly,Quarterly,Consulting,False,True,79184495,97,4,Youth,C,True,600,2025-02-09,2023-07-20,2023-08-19,2024-01-01
+Male,Enugu,Manufacturing,CAM-100061,CUS-1061,Hailey Harmon,Jones-Wagner,1992-04-29,"778 John Ford Apt. 728
+Coleland, VT 51676",464.268.1688,jamielarsen@frank-smith.info,6287749,2023-01-01,26,Quarterly,8.35,Reducing Balance,Quarterly,Quarterly,Production,False,False,33109310,75,25,Adult,C,False,780,2025-02-19,2023-01-31,2023-03-02,2024-01-01
+Male,Oyo,Health,CAM-100062,CUS-1062,Mark Harper,Kennedy-Smith,2004-01-06,"2772 Russell Square Apt. 815
+New Anneview, AK 35245",+1-764-258-8101,robinsonrodney@yahoo.com,2161793,2023-11-09,15,Quarterly,24.44,Flat Rate,Monthly,Monthly,Consulting,True,True,54960621,74,23,Adult,A,False,450,2025-02-01,2023-12-09,2024-01-08,2024-01-01
+Male,Rivers,Manufacturing,CAM-100063,CUS-1063,Jose Jones,"Wolf, Boyer and Salazar",1971-06-12,"5363 Philip Ranch Suite 545
+Smallburgh, WA 55846",+1-092-092-1902x264,iwright@gmail.com,7076651,2023-03-05,28,Quarterly,9.57,Reducing Balance,Monthly,Quarterly,Consulting,True,True,98145928,25,12,Youth,C,True,840,2025-06-22,2023-04-04,2023-05-04,2024-01-01
+Male,Oyo,Health,CAM-100064,CUS-1064,Todd Wilson,Foster-Herrera,1999-07-09,"97773 Orr Glens Suite 997
+Marcville, WY 22177",001-153-179-0016x8678,ogreen@kennedy.com,7367218,2023-10-11,44,Quarterly,24.55,Flat Rate,Quarterly,Quarterly,Retail,True,True,56244317,48,2,Youth,B,False,1320,2027-05-23,2023-11-10,2023-12-10,2024-01-01
+Female,Abuja,Agriculture,CAM-100065,CUS-1065,Miranda Malone,Gonzales Ltd,1999-11-29,"99694 Allison Road Suite 943
+West Misty, TX 94431",2027961137,porterdaniel@yahoo.com,9504644,2023-05-01,10,Monthly,15.64,Flat Rate,Monthly,Monthly,Production,True,False,28592372,43,4,Youth,A,False,300,2024-02-25,2023-05-31,2023-06-30,2024-01-01
+Female,Abuja,Agriculture,CAM-100066,CUS-1066,Michael Conrad,Hayes-Brown,1996-12-31,"679 Charles Points Suite 865
+East Stephen, WY 20702",034.082.1979,rtate@jones.com,7966027,2023-04-17,6,Quarterly,7.72,Flat Rate,Monthly,Monthly,Services,False,False,5991818,38,5,Youth,A,True,180,2023-10-14,2023-05-17,2023-06-16,2024-01-01
+Male,Oyo,Agriculture,CAM-100067,CUS-1067,Sherry Henderson,Barnett-Doyle,1993-05-09,"PSC 2637, Box 2533
+APO AE 04401",001-740-558-5096,ronaldnelson@yahoo.com,5487696,2023-06-24,18,Monthly,6.99,Reducing Balance,Monthly,Monthly,Retail,True,False,10164962,41,3,Youth,B,True,540,2024-12-15,2023-07-24,2023-08-23,2024-01-01
+Female,Lagos,Agriculture,CAM-100068,CUS-1068,Sabrina Martinez,Murphy-Banks,1976-08-12,"PSC 5040, Box 7863
+APO AE 34837",+1-787-824-8364,lisa26@daniel.com,928988,2023-07-23,26,Monthly,9.18,Reducing Balance,Quarterly,Quarterly,Services,True,False,58372732,45,9,Adult,B,True,780,2025-09-10,2023-08-22,2023-09-21,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100069,CUS-1069,Jamie Harris,"Mcbride, Waller and Shepherd",1983-01-05,"550 Hannah Tunnel Apt. 604
+Garrisonberg, WY 34100",317-344-1297x600,olsonchristina@gmail.com,4584752,2023-06-14,31,Quarterly,23.51,Flat Rate,Quarterly,Quarterly,Wholesale,True,True,67978252,88,29,Adult,B,False,930,2025-12-30,2023-07-14,2023-08-13,2024-01-01
+Female,Abuja,Agriculture,CAM-100070,CUS-1070,Michael Wright,Chase Ltd,1999-09-18,"3707 Hopkins Lodge Suite 073
+Savannahborough, MN 65430",(419)195-3108,mckinneykeith@yahoo.com,4874857,2023-11-01,55,Quarterly,13.28,Flat Rate,Monthly,Monthly,Services,True,True,96299299,40,21,Adult,C,True,1650,2028-05-08,2023-12-01,2023-12-31,2024-01-01
+Female,Oyo,ICT,CAM-100071,CUS-1071,Tammy Barnes,Stewart-Lopez,1971-09-03,"691 Kim Underpass
+Carrollstad, SC 38348",+1-611-128-9918x21280,xjohnston@hotmail.com,3477590,2023-04-30,50,Monthly,12.91,Reducing Balance,Quarterly,Monthly,Consulting,False,False,2250231,97,18,Adult,A,False,1500,2027-06-08,2023-05-30,2023-06-29,2024-01-01
+Male,Enugu,ICT,CAM-100072,CUS-1072,Justin Torres,"Andrews, Murphy and Riggs",1994-01-31,"139 Perkins Island Suite 419
+Pearsonfurt, MT 02755",037-192-1566,xsutton@robinson.com,8099600,2023-02-13,26,Quarterly,11.26,Reducing Balance,Quarterly,Quarterly,Services,True,False,45004556,17,11,Youth,C,True,780,2025-04-03,2023-03-15,2023-04-14,2024-01-01
+Female,Oyo,Trade and Commerce,CAM-100073,CUS-1073,Rachel Callahan,"Smith, Luna and Murphy",1993-12-06,"3610 Payne Key
+South Kelly, SD 37159",875.463.2879x123,graybarbara@yahoo.com,7110734,2023-11-08,58,Quarterly,7.94,Reducing Balance,Monthly,Monthly,Retail,False,False,82071947,88,3,Adult,B,False,1740,2028-08-13,2023-12-08,2024-01-07,2024-01-01
+Male,Kano,Agriculture,CAM-100074,CUS-1074,Nathan Fernandez,Evans-Watts,1990-05-03,"9258 Cynthia Spur
+South Johnbury, AZ 91710",(939)666-6674x34464,zrichardson@hotmail.com,3797291,2023-06-05,23,Quarterly,14.76,Reducing Balance,Monthly,Monthly,Retail,True,False,57067172,57,25,Youth,C,False,690,2025-04-25,2023-07-05,2023-08-04,2024-01-01
+Female,Kaduna,Agriculture,CAM-100075,CUS-1075,Henry Thompson,"Hebert, Harris and Hughes",1980-05-12,"0868 Lee Crest
+Lake Bailey, WI 84023",728.642.4022,foxjohn@brown.com,5394287,2023-07-26,42,Yearly,7.6,Reducing Balance,Quarterly,Monthly,Services,False,True,89258185,2,23,Youth,B,True,1260,2027-01-06,2023-08-25,2023-09-24,2024-01-01
+Female,Rivers,Agriculture,CAM-100076,CUS-1076,Jorge Peters,Bradford LLC,1984-09-13,"20187 Ramos Cape Suite 139
+Michaelfurt, ND 03376",+1-196-968-9257,joneskevin@smith.com,8454647,2023-04-18,50,Monthly,21.71,Reducing Balance,Monthly,Quarterly,Retail,False,False,25518715,96,2,Youth,C,True,1500,2027-05-27,2023-05-18,2023-06-17,2024-01-01
+Female,Lagos,Health,CAM-100077,CUS-1077,Lisa Jackson,Brown PLC,1987-07-25,"432 Parsons Skyway
+New Annaside, AZ 25875",(276)029-4554,amyrodriguez@gmail.com,2990706,2023-09-08,37,Yearly,12.41,Flat Rate,Quarterly,Quarterly,Retail,True,False,36533367,62,9,Youth,C,False,1110,2026-09-22,2023-10-08,2023-11-07,2024-01-01
+Male,Rivers,Manufacturing,CAM-100078,CUS-1078,Joseph Smith,Jones-Perez,2004-08-16,"PSC 6678, Box 0090
+APO AE 35915",001-125-851-2965x73563,tinataylor@bender-fernandez.com,8042535,2023-11-30,41,Quarterly,12.5,Reducing Balance,Quarterly,Quarterly,Services,True,False,40821960,88,14,Youth,B,False,1230,2027-04-13,2023-12-30,2024-01-29,2024-01-01
+Female,Kaduna,Health,CAM-100079,CUS-1079,Kimberly Li,Smith and Sons,1996-07-08,"74992 Raymond Avenue Apt. 382
+Lake Lindseyview, RI 93105",+1-469-745-2837x18357,ggomez@hotmail.com,8547252,2023-05-10,22,Yearly,14.48,Flat Rate,Monthly,Quarterly,Production,True,False,44973491,9,4,Youth,C,True,660,2025-02-28,2023-06-09,2023-07-09,2024-01-01
+Male,Kaduna,Manufacturing,CAM-100080,CUS-1080,Emily Bridges,Bailey Group,1999-05-05,"6202 Kimberly Port Suite 097
+Guzmanberg, OR 14735",683-507-7784x85524,wwalker@yahoo.com,5754224,2023-10-20,40,Quarterly,13.88,Reducing Balance,Quarterly,Quarterly,Production,True,False,54461766,68,29,Youth,A,True,1200,2027-02-01,2023-11-19,2023-12-19,2024-01-01
+Female,Kaduna,Agriculture,CAM-100081,CUS-1081,Thomas Hart,"Anthony, Day and Hoover",1992-07-13,"88699 Bryant Skyway
+Gallegosberg, NE 37687",001-713-843-1375x99826,uscott@hotmail.com,6715140,2023-01-20,54,Yearly,24.9,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,2420993,81,9,Adult,C,False,1620,2027-06-28,2023-02-19,2023-03-21,2024-01-01
+Male,Rivers,Agriculture,CAM-100082,CUS-1082,Brittany Schwartz,"Green, Martinez and Howard",1989-07-11,"8305 Wilson Passage
+Lake Erinburgh, PA 64139",(469)035-4920,danieldixon@yahoo.com,4237973,2023-10-09,16,Quarterly,15.91,Flat Rate,Monthly,Monthly,Retail,False,False,21038007,17,13,Youth,C,True,480,2025-01-31,2023-11-08,2023-12-08,2024-01-01
+Female,Enugu,Health,CAM-100083,CUS-1083,Caleb Mason,Gordon-Gonzalez,1990-05-08,"56508 Barnett Mountain Apt. 916
+Byrdstad, HI 62775",+1-608-764-7499x941,rbrown@johnson.com,2702575,2023-10-12,26,Yearly,6.76,Flat Rate,Monthly,Quarterly,Services,True,True,97306518,50,18,Adult,A,False,780,2025-11-30,2023-11-11,2023-12-11,2024-01-01
+Male,Kaduna,Health,CAM-100084,CUS-1084,Jose Johnson,Wade-Smith,2000-07-10,"134 Jackson Crescent Suite 742
+Wilsonfort, TX 39149",950-498-2991x474,jgoodwin@ponce.net,7111653,2023-01-01,57,Yearly,17.14,Reducing Balance,Monthly,Quarterly,Retail,True,True,35548071,94,15,Adult,B,True,1710,2027-09-07,2023-01-31,2023-03-02,2024-01-01
+Male,Oyo,Manufacturing,CAM-100085,CUS-1085,Brittney Taylor,Thompson-Little,1984-04-21,"42257 Julia Flats
+Jeantown, DC 99098",+1-868-770-7693x3393,schroederbrian@yahoo.com,964071,2023-04-29,58,Yearly,8.03,Flat Rate,Quarterly,Monthly,Consulting,False,True,98659263,40,28,Youth,A,True,1740,2028-02-02,2023-05-29,2023-06-28,2024-01-01
+Female,Rivers,ICT,CAM-100086,CUS-1086,Christian Craig,Campbell PLC,1988-01-16,"621 Bauer Valleys Apt. 212
+Port Markberg, MO 73053",+1-391-610-0918x548,morenonicholas@kennedy.com,4881137,2023-02-04,31,Monthly,5.62,Flat Rate,Monthly,Quarterly,Retail,True,True,90487398,58,10,Youth,C,True,930,2025-08-22,2023-03-06,2023-04-05,2024-01-01
+Male,Kaduna,Manufacturing,CAM-100087,CUS-1087,Dana Lee,Padilla-Clark,1982-11-20,"311 John Lodge
+West Rachel, MS 47038",127.278.3495x67293,vanessa23@spence-castillo.com,5412216,2023-07-17,9,Yearly,24.41,Flat Rate,Monthly,Quarterly,Retail,False,True,93160404,75,16,Adult,B,False,270,2024-04-12,2023-08-16,2023-09-15,2024-01-01
+Female,Oyo,Health,CAM-100088,CUS-1088,Ashley Jones,"Miller, Nelson and Jackson",1988-07-02,"317 Webb Throughway
+Foleyberg, PA 68812",721-277-5826,watersvictoria@ballard.com,9664043,2023-09-02,39,Monthly,20.47,Flat Rate,Monthly,Monthly,Production,True,True,48984860,85,12,Adult,C,True,1170,2026-11-15,2023-10-02,2023-11-01,2024-01-01
+Female,Enugu,Health,CAM-100089,CUS-1089,David Bauer,"Thomas, Klein and Rodriguez",1980-03-15,"87016 Adam Loop Apt. 098
+Kimfort, IN 25165",7571804938,bowmanjoseph@gmail.com,8097626,2023-02-28,57,Quarterly,24.6,Reducing Balance,Monthly,Monthly,Services,False,False,97071437,21,20,Adult,C,False,1710,2027-11-04,2023-03-30,2023-04-29,2024-01-01
+Female,Kano,Trade and Commerce,CAM-100090,CUS-1090,Tiffany Harrell,Henry LLC,1994-08-28,"5944 Rachael Squares
+Floresview, ID 82629",470-395-2650x77080,herreraevan@garcia.net,3998472,2023-11-21,53,Yearly,14.56,Flat Rate,Quarterly,Monthly,Retail,False,False,4752690,18,5,Adult,A,True,1590,2028-03-29,2023-12-21,2024-01-20,2024-01-01
+Female,Enugu,Health,CAM-100091,CUS-1091,Richard Donovan,Morgan-Costa,1983-01-05,"996 Casey Courts
+Lake Paulside, KS 61743",001-397-443-6912,djefferson@yahoo.com,8869689,2023-06-10,23,Quarterly,15.65,Reducing Balance,Quarterly,Quarterly,Production,False,True,50482500,55,2,Youth,A,False,690,2025-04-30,2023-07-10,2023-08-09,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100092,CUS-1092,Lauren Ramirez,"Hughes, Knapp and King",1982-08-24,"9374 Gibbs Haven Suite 975
+Port Michaelburgh, AK 71684",752.858.6853,mileslinda@weber-holt.com,2064718,2023-06-28,45,Quarterly,8.37,Reducing Balance,Monthly,Monthly,Wholesale,False,False,70112374,29,10,Youth,B,False,1350,2027-03-09,2023-07-28,2023-08-27,2024-01-01
+Female,Rivers,ICT,CAM-100093,CUS-1093,Dave Chavez,Bailey LLC,1979-06-09,"27077 David Forks Apt. 073
+North Brittney, AL 22666",3511984002,riddlegabriela@gmail.com,5639743,2023-07-25,40,Yearly,9.94,Reducing Balance,Quarterly,Quarterly,Production,False,True,19848408,24,1,Youth,B,True,1200,2026-11-06,2023-08-24,2023-09-23,2024-01-01
+Female,Abuja,Manufacturing,CAM-100094,CUS-1094,Jordan Kennedy,Chambers and Sons,1977-10-10,"463 Patrick Square
+Lake Glennburgh, MD 09723",+1-592-196-7785,turnersteven@hotmail.com,4313270,2023-01-12,46,Monthly,21.77,Reducing Balance,Monthly,Quarterly,Production,True,False,70969235,74,7,Adult,B,False,1380,2026-10-23,2023-02-11,2023-03-13,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100095,CUS-1095,Nathan West,Howard LLC,1985-05-15,"212 Burke Ridge
+Gonzalesburgh, NY 40762",(366)937-9529x0096,dennis86@baker.com,5306425,2023-10-03,34,Yearly,12.12,Flat Rate,Monthly,Quarterly,Production,False,False,81694571,17,26,Youth,C,False,1020,2026-07-19,2023-11-02,2023-12-02,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100096,CUS-1096,Stephen Bell,"Collier, Trevino and Kelly",1981-08-12,"268 Lee Vista Suite 093
+Julieview, IN 63823",422.685.4002x6319,norristina@hotmail.com,7109876,2023-06-30,57,Quarterly,21.54,Flat Rate,Quarterly,Quarterly,Retail,True,False,26555728,18,17,Adult,A,False,1710,2028-03-05,2023-07-30,2023-08-29,2024-01-01
+Female,Oyo,Manufacturing,CAM-100097,CUS-1097,Karen Ellis,Morgan PLC,1976-01-16,"007 Smith Fall
+Calvinborough, MA 36514",110-085-0435x7464,roy13@hotmail.com,2878837,2023-08-30,34,Quarterly,19.18,Reducing Balance,Quarterly,Monthly,Retail,False,False,68395265,42,16,Youth,A,False,1020,2026-06-15,2023-09-29,2023-10-29,2024-01-01
+Female,Kano,Health,CAM-100098,CUS-1098,Michael Tucker,"Morales, George and Duncan",1988-02-05,"610 Rita Way
+Port Mary, CA 28683",(969)049-2122x4746,gonzalezrachel@buck-bryan.net,6623769,2023-08-04,43,Yearly,8.54,Reducing Balance,Monthly,Monthly,Wholesale,False,False,47353996,84,27,Adult,A,True,1290,2027-02-14,2023-09-03,2023-10-03,2024-01-01
+Male,Lagos,Agriculture,CAM-100099,CUS-1099,Kimberly Daniels,Mosley-Bowman,1988-06-18,"2343 Michael Gardens
+Mccarthymouth, ME 67679",205.926.6591x83839,hernandezstephanie@snyder.info,2024102,2023-09-08,47,Monthly,15.15,Reducing Balance,Monthly,Quarterly,Consulting,True,False,96205561,45,27,Youth,B,True,1410,2027-07-19,2023-10-08,2023-11-07,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100100,CUS-1100,Charles Smith DVM,Gonzales Ltd,2001-09-27,"95602 Mackenzie Shores Apt. 443
+Russellburgh, NM 99490",001-876-897-2896x61525,lindasmith@hotmail.com,9552788,2023-10-26,26,Monthly,18.55,Reducing Balance,Quarterly,Monthly,Consulting,True,True,55947238,82,24,Youth,A,True,780,2025-12-14,2023-11-25,2023-12-25,2024-01-01
+Female,Kano,Manufacturing,CAM-100101,CUS-1101,Ashlee Wright,"Cox, Williams and Long",1969-08-19,"407 Johnson Ranch
+North Chelseaville, GA 62098",(084)545-3304x4957,rollinserik@stewart-eaton.com,2883366,2023-05-06,47,Quarterly,9.7,Flat Rate,Monthly,Quarterly,Consulting,True,True,32147291,17,3,Adult,A,False,1410,2027-03-16,2023-06-05,2023-07-05,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100102,CUS-1102,Ryan Richards,"Martinez, Simmons and Miller",2004-08-22,"89132 Zhang Mountains
+Charlesmouth, OH 07819",+1-172-666-2414x1570,robersoncrystal@winters-lloyd.info,2535848,2023-08-05,18,Quarterly,21.61,Reducing Balance,Quarterly,Quarterly,Wholesale,True,False,84969705,73,14,Adult,A,False,540,2025-01-26,2023-09-04,2023-10-04,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100103,CUS-1103,Cassandra Greer,"Gomez, Sampson and Burch",1987-10-03,"0063 Collins Common
+Ryanbury, LA 31788",+1-428-745-7200,ramirezsheila@yahoo.com,5622930,2023-11-02,54,Monthly,15.9,Flat Rate,Monthly,Quarterly,Consulting,False,True,33616374,14,10,Adult,B,True,1620,2028-04-09,2023-12-02,2024-01-01,2024-01-01
+Female,Enugu,Agriculture,CAM-100104,CUS-1104,Maria Rodriguez,Edwards-Russell,1993-02-07,"807 Jenna Drive
+Grahammouth, IN 03460",(978)945-6365x36237,michael56@phillips.org,9093223,2023-10-12,46,Yearly,8.3,Reducing Balance,Monthly,Monthly,Consulting,True,False,21138117,49,22,Adult,A,True,1380,2027-07-23,2023-11-11,2023-12-11,2024-01-01
+Female,Abuja,Health,CAM-100105,CUS-1105,Patrick Castillo,Green-Waters,1973-08-11,"9506 Williams Alley
+New John, WY 36749",812.878.8082,fhenson@hotmail.com,7191409,2023-07-04,22,Quarterly,16.66,Reducing Balance,Quarterly,Quarterly,Production,False,True,97464546,29,7,Adult,B,False,660,2025-04-24,2023-08-03,2023-09-02,2024-01-01
+Female,Rivers,Trade and Commerce,CAM-100106,CUS-1106,Laura Gonzales,"Jordan, Phillips and Webb",1985-07-12,"089 Elizabeth Centers
+Patrickshire, NY 35841",001-067-476-2308x3224,jonesvirginia@hotmail.com,1338003,2023-02-08,14,Monthly,24.99,Reducing Balance,Quarterly,Quarterly,Retail,True,False,93124305,95,26,Youth,A,True,420,2024-04-03,2023-03-10,2023-04-09,2024-01-01
+Female,Abuja,Manufacturing,CAM-100107,CUS-1107,John Jones,Jones-Koch,1972-02-28,"3488 Lawrence Gateway Apt. 101
+Juantown, UT 66517",001-382-251-7694x0835,cisneroselizabeth@phillips.biz,3933382,2023-08-11,46,Quarterly,8.01,Reducing Balance,Quarterly,Monthly,Retail,True,True,83952330,4,17,Adult,A,True,1380,2027-05-22,2023-09-10,2023-10-10,2024-01-01
+Female,Rivers,ICT,CAM-100108,CUS-1108,Mrs. Melissa Gomez,"Burke, White and Maddox",1987-07-24,"8083 Walker Mews Apt. 367
+Kennethland, NY 23522",840-349-2431x6780,judithnelson@waters-sexton.biz,9170178,2023-07-03,6,Yearly,21.34,Flat Rate,Quarterly,Monthly,Production,False,False,88838133,82,6,Youth,A,False,180,2023-12-30,2023-08-02,2023-09-01,2024-01-01
+Male,Oyo,Trade and Commerce,CAM-100109,CUS-1109,Lisa Ryan,"Jennings, Powell and Moran",1990-10-03,"8990 Norman Rest
+West Rachael, KS 74796",740.561.7691x5967,kjenkins@kennedy-turner.com,3895049,2023-06-27,7,Monthly,9.15,Flat Rate,Quarterly,Monthly,Production,False,True,5291987,20,23,Youth,B,True,210,2024-01-23,2023-07-27,2023-08-26,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100110,CUS-1110,Debra Miller,Hester Inc,1997-05-19,"95415 White Bypass Apt. 310
+Port Joshua, NJ 45603",924-306-0133,stephaniecarr@stevens.com,566150,2023-10-21,53,Quarterly,20.65,Flat Rate,Quarterly,Monthly,Production,True,False,49538500,47,22,Youth,B,False,1590,2028-02-27,2023-11-20,2023-12-20,2024-01-01
+Male,Enugu,Agriculture,CAM-100111,CUS-1111,Jessica Robles,Lee-Johnson,1989-08-26,"49782 Lawson Dale Suite 110
+Salazarstad, MT 70821",(869)842-2800x70101,kbrooks@watkins.com,8451632,2023-12-06,34,Yearly,19.69,Reducing Balance,Quarterly,Quarterly,Retail,False,True,59873362,9,4,Youth,A,True,1020,2026-09-21,2024-01-05,2024-02-04,2024-01-01
+Female,Lagos,Health,CAM-100112,CUS-1112,Cheryl Skinner,"Dunlap, Patel and Cruz",2001-09-12,"655 Carol Circle Suite 101
+North Tarashire, CT 14837",001-143-568-1015,donnasullivan@yahoo.com,7929645,2023-05-31,38,Quarterly,11.01,Reducing Balance,Monthly,Monthly,Consulting,False,False,31268923,77,17,Youth,C,False,1140,2026-07-14,2023-06-30,2023-07-30,2024-01-01
+Female,Kaduna,ICT,CAM-100113,CUS-1113,Evelyn Garcia,Brown-Gallagher,1976-04-04,"5988 Anthony Run
+East Sergiobury, SC 36412",(183)961-5807x696,louis65@gmail.com,6581687,2023-05-06,15,Yearly,11.52,Flat Rate,Monthly,Quarterly,Production,False,False,84298322,79,27,Adult,B,False,450,2024-07-29,2023-06-05,2023-07-05,2024-01-01
+Male,Rivers,Manufacturing,CAM-100114,CUS-1114,Nicole Walker,"Moses, White and Brown",1996-12-10,"527 Michelle Dam
+South Susan, AZ 78023",156.950.6121x6220,samanthajackson@yahoo.com,9448331,2023-10-28,55,Yearly,20.85,Flat Rate,Monthly,Monthly,Wholesale,False,False,49809902,27,9,Adult,B,False,1650,2028-05-04,2023-11-27,2023-12-27,2024-01-01
+Female,Lagos,ICT,CAM-100115,CUS-1115,Mrs. Crystal Medina,Williams-Watson,1973-04-09,"274 Sanchez Ramp Suite 023
+Millertown, KS 49695",443-711-7452x436,jennifercook@gmail.com,3047500,2023-11-04,45,Monthly,14.23,Reducing Balance,Quarterly,Monthly,Production,False,True,67555773,15,4,Youth,A,False,1350,2027-07-16,2023-12-04,2024-01-03,2024-01-01
+Male,Abuja,Manufacturing,CAM-100116,CUS-1116,Jesus Brooks,Smith Group,1973-04-29,"27914 Lindsey Pike Suite 884
+New Seanhaven, VT 84658",131-194-3512,kristi00@gmail.com,9888162,2023-12-02,26,Yearly,19.62,Reducing Balance,Quarterly,Monthly,Services,False,True,11179279,92,7,Youth,C,False,780,2026-01-20,2024-01-01,2024-01-31,2024-01-01
+Female,Abuja,Health,CAM-100117,CUS-1117,Tina Barajas,"Hunt, Norman and Norman",1978-03-17,"18108 Petersen Lodge Suite 668
+North Joyfurt, AZ 36812",009-255-9983x95742,billy95@gmail.com,4693060,2023-08-22,33,Quarterly,7.96,Flat Rate,Quarterly,Monthly,Production,False,True,14896471,19,23,Adult,A,True,990,2026-05-08,2023-09-21,2023-10-21,2024-01-01
+Female,Lagos,Manufacturing,CAM-100118,CUS-1118,Sarah Johnson,"Ramirez, Mays and Sanchez",1989-08-29,"908 Jared Isle Apt. 131
+Andrewmouth, MI 19018",+1-378-582-8018,djackson@hall.com,634055,2023-01-08,16,Yearly,22.05,Reducing Balance,Monthly,Monthly,Retail,False,False,56594920,90,2,Adult,B,True,480,2024-05-02,2023-02-07,2023-03-09,2024-01-01
+Male,Enugu,Agriculture,CAM-100119,CUS-1119,James Hodges,"Fisher, Arnold and Owens",1997-05-12,"958 Zachary Parks
+Jeromechester, IA 89562",510.402.3187,revans@bryant-fox.com,9564630,2023-12-07,39,Yearly,19.22,Reducing Balance,Quarterly,Monthly,Production,True,True,61304974,52,17,Youth,B,True,1170,2027-02-19,2024-01-06,2024-02-05,2024-01-01
+Female,Abuja,Agriculture,CAM-100120,CUS-1120,Matthew Lambert,"Maldonado, Singh and Barron",1989-08-16,"Unit 7805 Box 7898
+DPO AA 37341",452.251.9756,wareanthony@jackson.biz,9698550,2023-05-09,13,Monthly,23.14,Flat Rate,Quarterly,Quarterly,Services,False,False,7492952,26,24,Adult,A,False,390,2024-06-02,2023-06-08,2023-07-08,2024-01-01
+Male,Oyo,Agriculture,CAM-100121,CUS-1121,Kristi Jordan,Kirby-Ramirez,2002-04-16,"823 Malone Street
+Johnsberg, VA 56414",236.966.3461x3707,porterbrittany@yahoo.com,9584966,2023-09-21,27,Yearly,7.65,Reducing Balance,Monthly,Monthly,Wholesale,True,True,50236011,89,8,Adult,A,True,810,2025-12-09,2023-10-21,2023-11-20,2024-01-01
+Female,Oyo,Agriculture,CAM-100122,CUS-1122,Dustin Russo,House PLC,1976-11-18,"9824 Carl Valleys
+South Emily, IN 38729",411.086.5243x939,matthew49@gmail.com,2341648,2023-06-06,13,Yearly,16.86,Flat Rate,Quarterly,Monthly,Consulting,False,True,96469046,26,23,Adult,C,False,390,2024-06-30,2023-07-06,2023-08-05,2024-01-01
+Male,Lagos,ICT,CAM-100123,CUS-1123,Douglas Potter,Bentley Inc,1981-09-28,"5758 David Row Suite 247
+West Kylechester, RI 06512",3623102799,fosterjustin@gmail.com,7632508,2023-12-18,54,Quarterly,16.98,Reducing Balance,Monthly,Monthly,Production,False,True,67256994,26,15,Youth,C,False,1620,2028-05-25,2024-01-17,2024-02-16,2024-01-01
+Male,Rivers,Health,CAM-100124,CUS-1124,Marc Jones,Raymond PLC,1997-11-16,"09638 Singleton Loaf
+East Brandonshire, ND 06829",001-130-176-9056x8500,matthew12@gmail.com,6937845,2023-12-24,20,Monthly,12.07,Flat Rate,Monthly,Monthly,Services,False,True,12197174,46,15,Adult,B,True,600,2025-08-15,2024-01-23,2024-02-22,2024-01-01
+Female,Rivers,Manufacturing,CAM-100125,CUS-1125,Matthew Smith,"Delgado, Bailey and Mitchell",1973-03-26,"330 Maddox Pike
+Larryland, NH 92850",+1-037-997-9197x38828,jenkinstina@odonnell.com,4328433,2023-01-05,22,Monthly,14.17,Reducing Balance,Quarterly,Quarterly,Services,False,False,80002445,92,8,Youth,C,False,660,2024-10-26,2023-02-04,2023-03-06,2024-01-01
+Female,Lagos,Manufacturing,CAM-100126,CUS-1126,Meagan Perez,Edwards-Moore,1985-01-03,"68324 Andre Street
+New Kathryn, MA 36813",8236963991,epatton@marshall.com,3235264,2023-03-27,28,Monthly,5.76,Flat Rate,Quarterly,Monthly,Wholesale,True,True,8297042,49,16,Youth,C,True,840,2025-07-14,2023-04-26,2023-05-26,2024-01-01
+Male,Rivers,Agriculture,CAM-100127,CUS-1127,Connor Lowe,Thompson-Smith,1978-10-11,"42319 Ramirez Lock Apt. 639
+Johnberg, VT 60378",+1-660-730-0402x641,jonathan27@gmail.com,4948748,2023-06-24,29,Yearly,19.92,Flat Rate,Quarterly,Monthly,Retail,True,True,82710501,82,19,Youth,B,False,870,2025-11-10,2023-07-24,2023-08-23,2024-01-01
+Female,Enugu,Agriculture,CAM-100128,CUS-1128,Linda Moody,"Watson, Phelps and Flowers",1972-04-11,"7830 Patterson Turnpike
+Kochberg, KS 45035",520.408.5662x94508,martinjoseph@delgado-peterson.biz,7652747,2023-10-17,50,Monthly,15.99,Flat Rate,Monthly,Monthly,Production,False,False,73161443,96,11,Youth,B,False,1500,2027-11-25,2023-11-16,2023-12-16,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100129,CUS-1129,Katherine Simpson,Bolton and Sons,1979-01-23,"069 Kenneth Estates
+Amandaville, MO 73074",(939)691-2866x916,cole72@harris.com,4637270,2023-07-12,24,Yearly,6.15,Flat Rate,Monthly,Monthly,Services,True,False,9200262,53,2,Youth,B,True,720,2025-07-01,2023-08-11,2023-09-10,2024-01-01
+Female,Rivers,Health,CAM-100130,CUS-1130,Cathy Trujillo,Alvarado-Gomez,1970-12-14,"283 Christine Ports
+Timothymouth, AR 96852",429.014.4459,weissaaron@wong-schneider.com,4817922,2023-11-07,10,Yearly,18.62,Reducing Balance,Monthly,Quarterly,Wholesale,False,True,30862768,3,23,Adult,B,False,300,2024-09-02,2023-12-07,2024-01-06,2024-01-01
+Male,Oyo,ICT,CAM-100131,CUS-1131,Cody Acosta,Brady Ltd,1998-12-03,"936 Michael Meadow Suite 047
+South Brittanyside, CA 76125",589.053.0581x511,larry56@gmail.com,9347905,2023-04-29,37,Quarterly,14.34,Reducing Balance,Quarterly,Monthly,Consulting,False,True,76834030,66,24,Youth,A,True,1110,2026-05-13,2023-05-29,2023-06-28,2024-01-01
+Male,Rivers,Manufacturing,CAM-100132,CUS-1132,William Holland,"Michael, Morton and Smith",1984-09-13,"5938 Parker Union
+Port Nicholas, VA 53526",659-301-9892x191,buckleyadam@mcgee.org,7965373,2023-08-06,49,Quarterly,5.69,Flat Rate,Quarterly,Quarterly,Services,True,False,76798069,97,17,Youth,B,False,1470,2027-08-15,2023-09-05,2023-10-05,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100133,CUS-1133,Wayne Villegas,Johnston-Clark,1981-02-14,"3700 Munoz Overpass Apt. 897
+Walkerstad, ND 89338",279.584.6144,cgibson@mahoney-shaw.com,1520154,2023-04-24,6,Quarterly,24.39,Reducing Balance,Quarterly,Monthly,Wholesale,True,False,67556711,42,28,Youth,B,True,180,2023-10-21,2023-05-24,2023-06-23,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100134,CUS-1134,Jonathan Stone,Kelly and Sons,1981-09-30,"52534 Antonio Dale
+Port Amandaville, LA 18243",(610)899-2655,devin82@payne-lamb.com,8570924,2023-05-25,28,Quarterly,23.98,Reducing Balance,Quarterly,Quarterly,Retail,False,False,87495505,19,26,Adult,B,False,840,2025-09-11,2023-06-24,2023-07-24,2024-01-01
+Male,Kaduna,Manufacturing,CAM-100135,CUS-1135,Karen Estes,Lara-Ramirez,1993-09-05,"7339 Kirk Drives Suite 455
+Melissachester, NM 03733",001-350-554-2857x3305,jamesroach@carson.info,7343532,2023-01-26,42,Quarterly,15.26,Reducing Balance,Monthly,Quarterly,Retail,False,True,21080923,17,16,Adult,C,True,1260,2026-07-09,2023-02-25,2023-03-27,2024-01-01
+Male,Abuja,ICT,CAM-100136,CUS-1136,Catherine Blake,Peterson-Hill,1993-11-07,"1703 Michael Underpass Suite 614
+Williammouth, MS 45930",+1-021-712-6573,emoreno@moreno.com,5445169,2023-05-16,13,Yearly,6.87,Reducing Balance,Monthly,Monthly,Services,True,True,28705487,33,25,Adult,B,True,390,2024-06-09,2023-06-15,2023-07-15,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100137,CUS-1137,Kimberly Arellano,Fitzgerald-Sanchez,1998-01-31,"5826 Anna Tunnel
+South Laurenstad, TX 61547",(547)309-2476x7866,hbridges@solis.info,7233215,2023-10-30,18,Yearly,20.09,Reducing Balance,Monthly,Monthly,Services,False,True,74571474,76,15,Adult,A,False,540,2025-04-22,2023-11-29,2023-12-29,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100138,CUS-1138,Catherine Calhoun,Mitchell and Sons,1995-11-03,"80617 West Harbors Suite 681
+Hayesbury, IL 72799",245.928.5382x779,cbrooks@johnson.com,8695810,2023-08-20,13,Monthly,14.84,Flat Rate,Monthly,Quarterly,Production,True,False,4098729,49,13,Adult,A,True,390,2024-09-13,2023-09-19,2023-10-19,2024-01-01
+Male,Oyo,Health,CAM-100139,CUS-1139,Kayla Pearson,"Warner, Velez and Watkins",1994-09-04,"58857 Catherine Field
+Lake Rachelstad, SC 63511",0212525587,fhatfield@gmail.com,8404294,2023-03-17,28,Yearly,11.05,Flat Rate,Quarterly,Quarterly,Wholesale,False,False,65022352,56,15,Adult,B,False,840,2025-07-04,2023-04-16,2023-05-16,2024-01-01
+Female,Lagos,ICT,CAM-100140,CUS-1140,Jennifer Huerta,Wilson-Mccann,2005-04-04,"41219 Wayne Coves
+Lake Susan, SD 50424",(813)568-0797x75443,jacquelineshort@yahoo.com,7685197,2023-11-24,48,Yearly,14.83,Flat Rate,Quarterly,Monthly,Services,False,False,93123390,63,27,Adult,A,False,1440,2027-11-03,2023-12-24,2024-01-23,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100141,CUS-1141,Taylor Moon,Watkins Group,1971-08-08,"045 Brian Rapids Apt. 159
+Gateston, WA 08980",536.799.2624x17093,xmason@hotmail.com,8671548,2023-12-11,6,Quarterly,15.45,Flat Rate,Quarterly,Quarterly,Production,True,True,87706924,3,4,Youth,C,True,180,2024-06-08,2024-01-10,2024-02-09,2024-01-01
+Female,Oyo,ICT,CAM-100142,CUS-1142,Amanda Flores,Hull-Benitez,1993-06-15,"8126 Flowers Lake
+Port Scott, OH 98028",+1-495-688-2032,debbie79@foster.org,7214301,2023-10-29,50,Yearly,16.25,Reducing Balance,Monthly,Quarterly,Production,True,False,66201676,49,16,Youth,B,True,1500,2027-12-07,2023-11-28,2023-12-28,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100143,CUS-1143,Heather Sullivan,Richardson and Sons,1983-12-31,"94220 Ramos Glens
+Port Donald, KS 96298",6088098587,michellejohnson@nunez.com,9758731,2023-10-16,56,Quarterly,13.82,Reducing Balance,Monthly,Quarterly,Services,True,True,59900186,55,12,Adult,A,True,1680,2028-05-22,2023-11-15,2023-12-15,2024-01-01
+Female,Rivers,Agriculture,CAM-100144,CUS-1144,Kimberly Perkins,Johnson Group,1975-11-20,"638 Jones Rapids Suite 196
+Kevinborough, SD 38215",984-689-9987,mirandagloria@hotmail.com,8469693,2023-01-01,29,Monthly,17.12,Flat Rate,Quarterly,Monthly,Retail,False,False,18465417,26,4,Youth,A,True,870,2025-05-20,2023-01-31,2023-03-02,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100145,CUS-1145,Jeffery Bernard,Gonzales-Allen,1975-06-07,"8345 Matthew Fields Suite 043
+Davishaven, SD 10828",432-067-1353x68310,aguilarisaac@hotmail.com,2359582,2023-05-27,40,Monthly,23.37,Reducing Balance,Quarterly,Quarterly,Wholesale,False,True,64925345,99,3,Youth,B,True,1200,2026-09-08,2023-06-26,2023-07-26,2024-01-01
+Male,Lagos,Health,CAM-100146,CUS-1146,Valerie Campbell,Johnston-Williams,1972-06-17,"8650 Danielle Corner Suite 534
+Williestad, CT 79100",+1-050-667-1849,psmith@hughes.com,8244064,2023-10-14,29,Yearly,12.25,Reducing Balance,Monthly,Quarterly,Wholesale,False,True,95179800,72,22,Adult,A,False,870,2026-03-02,2023-11-13,2023-12-13,2024-01-01
+Male,Oyo,Manufacturing,CAM-100147,CUS-1147,Logan Flynn,Adkins-Gutierrez,1991-07-20,"12206 Carla Lane Apt. 528
+Lake Dennisberg, ME 51120",798.005.9107,sheathomas@davis-schmidt.info,2629885,2023-05-22,22,Monthly,19.51,Flat Rate,Quarterly,Quarterly,Retail,False,False,25917061,52,17,Youth,B,True,660,2025-03-12,2023-06-21,2023-07-21,2024-01-01
+Male,Oyo,ICT,CAM-100148,CUS-1148,Crystal Lee,Cox Ltd,2000-08-19,"1171 Cruz Junction Apt. 042
+Allentown, NJ 68778",(701)002-6102x210,angelagarner@gmail.com,5220642,2023-02-22,10,Yearly,22.89,Reducing Balance,Monthly,Monthly,Services,True,True,14124055,7,22,Youth,A,False,300,2023-12-19,2023-03-24,2023-04-23,2024-01-01
+Female,Oyo,Manufacturing,CAM-100149,CUS-1149,Keith Sanchez,"Nelson, Adams and Foley",1984-11-11,"698 Michael Vista
+Alexisshire, NC 37046",+1-204-099-4241x80842,murphyevan@gmail.com,1049239,2023-10-31,25,Monthly,14.12,Flat Rate,Monthly,Monthly,Wholesale,False,False,18139153,46,18,Adult,C,True,750,2025-11-19,2023-11-30,2023-12-30,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100150,CUS-1150,Dr. Taylor Logan DVM,Guerrero-Moreno,1975-05-05,"5907 Ann Point
+West John, AR 77012",+1-341-519-9827x718,sethjones@yahoo.com,9445309,2023-03-10,26,Quarterly,13.87,Flat Rate,Monthly,Quarterly,Services,False,True,34315606,46,25,Youth,A,True,780,2025-04-28,2023-04-09,2023-05-09,2024-01-01
+Male,Rivers,ICT,CAM-100151,CUS-1151,Chris Rodriguez,Mata-Graves,1989-04-24,"9309 Christopher Mission
+Lake Robert, WA 00661",+1-640-309-3695x8035,wesley27@gmail.com,5908753,2023-12-27,45,Quarterly,17.04,Reducing Balance,Quarterly,Monthly,Services,False,False,43142405,16,18,Adult,A,True,1350,2027-09-07,2024-01-26,2024-02-25,2024-01-01
+Male,Kaduna,Agriculture,CAM-100152,CUS-1152,Michael Summers,"Porter, Brown and Blackwell",1974-10-21,"285 Christopher Springs Apt. 056
+New Laurenview, CT 14960",(362)323-3729,monicaowens@gmail.com,3547569,2023-03-31,36,Quarterly,16.83,Reducing Balance,Quarterly,Quarterly,Production,True,False,69259517,24,23,Adult,B,False,1080,2026-03-15,2023-04-30,2023-05-30,2024-01-01
+Male,Abuja,Manufacturing,CAM-100153,CUS-1153,Jennifer Fitzgerald,"Davis, Long and Christensen",1970-03-10,"97672 Charles Row Apt. 056
+Amandaville, AZ 63278",+1-220-476-7801,cindy78@lee.net,1285332,2023-08-08,51,Quarterly,21.13,Flat Rate,Monthly,Monthly,Retail,False,True,84106264,61,28,Youth,A,True,1530,2027-10-16,2023-09-07,2023-10-07,2024-01-01
+Male,Abuja,Trade and Commerce,CAM-100154,CUS-1154,Scott Williams,Sharp-Valenzuela,2001-09-12,"9205 Debra Walk Suite 354
+Laurieberg, AR 44151",963.900.6424,acruz@yahoo.com,9656558,2023-07-11,41,Yearly,14.53,Flat Rate,Quarterly,Monthly,Services,False,False,98732598,54,17,Youth,B,False,1230,2026-11-22,2023-08-10,2023-09-09,2024-01-01
+Female,Rivers,Health,CAM-100155,CUS-1155,Christopher Jones,Brandt-Mann,1994-05-23,"Unit 3612 Box 5629
+DPO AP 48226",(971)689-2459x7015,hallmelissa@yahoo.com,9055080,2023-03-04,16,Monthly,24.92,Reducing Balance,Monthly,Quarterly,Consulting,True,True,4488144,62,12,Youth,C,False,480,2024-06-26,2023-04-03,2023-05-03,2024-01-01
+Male,Enugu,ICT,CAM-100156,CUS-1156,Dawn Ramirez,Rose LLC,1982-11-07,"27684 Katherine River Apt. 646
+North Joshuaburgh, VT 23469",611-297-2179x115,michaelbryan@gmail.com,897710,2023-03-14,57,Yearly,6.19,Flat Rate,Monthly,Monthly,Retail,False,False,58294061,1,23,Adult,B,False,1710,2027-11-18,2023-04-13,2023-05-13,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100157,CUS-1157,Danielle Austin,Eaton PLC,1999-04-24,"43101 Taylor Spring Apt. 266
+Vincentmouth, UT 27884",937-148-6016,josephperez@hotmail.com,7003216,2023-06-10,20,Quarterly,5.06,Flat Rate,Monthly,Monthly,Wholesale,False,False,91013399,49,21,Adult,B,True,600,2025-01-30,2023-07-10,2023-08-09,2024-01-01
+Male,Lagos,Manufacturing,CAM-100158,CUS-1158,Mary Brown,Rios LLC,1988-03-15,"24017 Gonzalez Fall Suite 513
+Tinaview, AL 20595",069-443-8381,yjordan@scott-wilson.com,4817048,2023-06-18,24,Yearly,17.8,Flat Rate,Monthly,Monthly,Production,True,False,55815626,25,24,Adult,A,False,720,2025-06-07,2023-07-18,2023-08-17,2024-01-01
+Female,Oyo,Agriculture,CAM-100159,CUS-1159,Stephen Wiggins,Walker and Sons,1977-03-01,"Unit 4538 Box 9283
+DPO AP 91630",+1-379-248-9841x384,lesliepowell@hotmail.com,3688729,2023-03-30,12,Monthly,10.97,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,47399577,10,4,Youth,C,True,360,2024-03-24,2023-04-29,2023-05-29,2024-01-01
+Male,Oyo,Agriculture,CAM-100160,CUS-1160,Jonathan Coleman,"Howell, Miller and James",1993-06-03,"79663 Jose Turnpike
+Port Alfredchester, WY 13420",+1-043-267-3726x532,wilsoncrystal@williams.biz,5285956,2023-06-25,56,Yearly,9.81,Flat Rate,Monthly,Monthly,Wholesale,False,True,7088539,80,12,Youth,B,False,1680,2028-01-30,2023-07-25,2023-08-24,2024-01-01
+Male,Rivers,Health,CAM-100161,CUS-1161,Cynthia Smith,Harris-Sullivan,1970-07-24,"995 Sandra Stravenue Apt. 215
+Yvetteland, ME 69682",001-347-388-0275x64390,kylepatterson@ayers.net,5605724,2023-09-26,33,Monthly,11.24,Reducing Balance,Monthly,Monthly,Retail,False,False,92821506,16,26,Adult,A,True,990,2026-06-12,2023-10-26,2023-11-25,2024-01-01
+Female,Enugu,Health,CAM-100162,CUS-1162,David Byrd,Liu Group,1990-02-24,"128 Garza Rue
+Laurenburgh, AL 84604",001-414-931-2906x8785,cherylgallegos@hotmail.com,5525764,2023-03-14,56,Yearly,10.12,Flat Rate,Quarterly,Quarterly,Wholesale,True,False,91666634,58,23,Youth,A,False,1680,2027-10-19,2023-04-13,2023-05-13,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100163,CUS-1163,Diane Weiss,Williams Inc,1983-06-05,"135 Nelson Views Apt. 638
+Coryhaven, MI 43211",001-258-639-9870x28422,njohnson@hotmail.com,8496198,2023-09-02,48,Monthly,5.62,Reducing Balance,Monthly,Monthly,Services,False,True,77883685,72,22,Youth,B,True,1440,2027-08-12,2023-10-02,2023-11-01,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100164,CUS-1164,Stephen Nguyen,Miller-Frank,1992-02-27,"507 Vasquez Locks
+Chrischester, NY 08298",(405)218-3547x980,xramos@yahoo.com,1410775,2023-03-18,10,Monthly,24.43,Flat Rate,Monthly,Monthly,Wholesale,False,True,24074556,29,21,Adult,A,True,300,2024-01-12,2023-04-17,2023-05-17,2024-01-01
+Male,Oyo,Health,CAM-100165,CUS-1165,Tina Anderson MD,"Anderson, Palmer and Snow",1979-12-12,"Unit 4744 Box 3062
+DPO AE 89534",001-053-663-1012x260,fernandezsally@yahoo.com,6454878,2023-06-08,10,Quarterly,9.41,Reducing Balance,Quarterly,Monthly,Production,True,True,54828237,92,20,Adult,B,True,300,2024-04-03,2023-07-08,2023-08-07,2024-01-01
+Female,Rivers,Health,CAM-100166,CUS-1166,Victoria Richardson,Newman-Anderson,1985-04-14,"8645 Rhonda Square
+Steventown, AR 38865",955-403-5352x407,william73@gmail.com,6427997,2023-11-20,35,Monthly,19.68,Reducing Balance,Quarterly,Monthly,Production,True,True,35971122,6,15,Youth,B,False,1050,2026-10-05,2023-12-20,2024-01-19,2024-01-01
+Male,Kaduna,ICT,CAM-100167,CUS-1167,Robert Martinez,Reynolds Ltd,1973-06-06,"Unit 7335 Box 4506
+DPO AE 13551",875.144.0257,ryates@yahoo.com,1058924,2023-04-08,59,Quarterly,20.25,Reducing Balance,Quarterly,Monthly,Consulting,False,True,65938137,16,23,Adult,B,False,1770,2028-02-11,2023-05-08,2023-06-07,2024-01-01
+Male,Abuja,Agriculture,CAM-100168,CUS-1168,Katherine Tate,Singleton-Hernandez,1998-12-02,"PSC 9611, Box 4968
+APO AP 57286",001-257-972-6406x2637,thorntonnancy@yahoo.com,4381185,2023-04-12,37,Quarterly,23.59,Flat Rate,Monthly,Quarterly,Production,False,True,95438639,20,28,Youth,C,True,1110,2026-04-26,2023-05-12,2023-06-11,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100169,CUS-1169,Joseph Warren,Myers Group,1977-09-28,"627 Edward Lodge
+East Tiffanytown, TN 12631",895.091.2089x70705,wjohnson@bryant.com,5504998,2023-05-12,13,Quarterly,5.61,Flat Rate,Quarterly,Quarterly,Wholesale,False,False,72105108,80,16,Adult,B,False,390,2024-06-05,2023-06-11,2023-07-11,2024-01-01
+Female,Enugu,Agriculture,CAM-100170,CUS-1170,Steven Cooper,"Flores, Ramirez and Cunningham",1979-02-12,"409 Black Loaf
+Jadeport, ND 70972",1337879408,maria73@gmail.com,5666650,2023-04-12,15,Yearly,22.44,Flat Rate,Quarterly,Monthly,Production,False,True,28043575,71,5,Adult,A,False,450,2024-07-05,2023-05-12,2023-06-11,2024-01-01
+Male,Abuja,Agriculture,CAM-100171,CUS-1171,Scott Mueller,"Haney, Parks and Hancock",1988-04-13,"306 Amy Cove
+South Stephen, WA 38549",001-029-689-1869x1351,andersonjackie@white.com,6193075,2023-01-19,43,Yearly,15.54,Reducing Balance,Monthly,Monthly,Retail,True,False,74468326,78,21,Adult,C,False,1290,2026-08-01,2023-02-18,2023-03-20,2024-01-01
+Male,Abuja,Health,CAM-100172,CUS-1172,Dana Fowler,Rojas-Herrera,1981-05-24,"40450 Charlene Fort Suite 274
+Barronbury, ID 49466",768.155.2019x5043,williserik@saunders.com,8609916,2023-03-23,52,Yearly,17.65,Flat Rate,Monthly,Monthly,Production,False,True,9838941,43,15,Youth,A,False,1560,2027-06-30,2023-04-22,2023-05-22,2024-01-01
+Female,Kano,ICT,CAM-100173,CUS-1173,Christine Smith,Sullivan Inc,1994-11-08,"9788 Christopher Islands
+Michaelfurt, NM 46530",3416331245,kathrynmcintosh@gmail.com,5693278,2023-10-06,37,Yearly,17.89,Reducing Balance,Monthly,Quarterly,Services,True,False,28088250,26,17,Youth,C,False,1110,2026-10-20,2023-11-05,2023-12-05,2024-01-01
+Female,Abuja,Manufacturing,CAM-100174,CUS-1174,Alyssa Myers,"Hughes, Mccarthy and Allen",1974-07-07,"72249 Yolanda Row
+Port Dennisfurt, NM 58744",264-517-6456x2201,jackie73@west-nguyen.com,931413,2023-12-05,53,Monthly,21.4,Flat Rate,Monthly,Quarterly,Retail,True,False,37432211,90,18,Adult,C,False,1590,2028-04-12,2024-01-04,2024-02-03,2024-01-01
+Female,Lagos,ICT,CAM-100175,CUS-1175,Laurie Anderson,Smith PLC,1993-01-20,"9068 Christine Bypass
+Vanessafurt, KS 66069",849.707.6146x4397,obrooks@gmail.com,4665100,2023-12-31,33,Monthly,11.67,Reducing Balance,Monthly,Monthly,Consulting,False,False,37179631,78,5,Adult,C,False,990,2026-09-16,2024-01-30,2024-02-29,2024-01-01
+Male,Rivers,ICT,CAM-100176,CUS-1176,Victoria Marquez,Johnson-Snyder,1990-01-20,"244 William Harbors Suite 742
+West Craig, SD 37823",7722683268,norman15@hotmail.com,1363561,2023-11-27,22,Yearly,19.66,Reducing Balance,Quarterly,Monthly,Services,False,True,3801951,71,13,Adult,C,True,660,2025-09-17,2023-12-27,2024-01-26,2024-01-01
+Male,Rivers,Agriculture,CAM-100177,CUS-1177,Kevin Larson,Anderson-Gill,1981-08-26,"80310 Brian Ranch Apt. 617
+Smithland, MD 98422",698-495-3395x4411,weavermelissa@green.org,802186,2023-05-09,36,Monthly,15.57,Reducing Balance,Quarterly,Quarterly,Wholesale,True,True,10441557,33,19,Youth,A,True,1080,2026-04-23,2023-06-08,2023-07-08,2024-01-01
+Male,Kaduna,ICT,CAM-100178,CUS-1178,Martha Carr,Grant-Zimmerman,1989-02-12,"2307 Susan Port Suite 064
+Jasontown, DE 93622",760-552-6873x8404,rachelmontgomery@gmail.com,3707393,2023-12-10,13,Monthly,20.87,Flat Rate,Quarterly,Monthly,Wholesale,True,True,65378490,26,13,Adult,B,False,390,2025-01-03,2024-01-09,2024-02-08,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100179,CUS-1179,William Chan,"Sanchez, Little and Brown",2001-07-25,"082 Michael Street
+New Ronnieside, MT 21067",+1-605-123-0437x3985,laura43@walls.com,5989464,2023-11-06,45,Quarterly,24.81,Flat Rate,Monthly,Quarterly,Wholesale,False,True,96467398,45,18,Adult,A,True,1350,2027-07-18,2023-12-06,2024-01-05,2024-01-01
+Male,Abuja,Agriculture,CAM-100180,CUS-1180,Jessica Johnson,Wong-Bird,1993-05-13,"111 Macdonald Lane Suite 146
+Moranland, MN 37078",456-917-9272,tiffanyyoung@flores-huynh.com,7956985,2023-03-30,30,Quarterly,9.01,Flat Rate,Monthly,Quarterly,Services,True,False,30720008,84,14,Adult,B,True,900,2025-09-15,2023-04-29,2023-05-29,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100181,CUS-1181,Nicholas Jones,Bennett LLC,1993-06-21,"8543 John Valleys Apt. 841
+Christinafurt, TX 93215",(794)713-7316,tjohnson@mann.com,7267528,2023-08-01,14,Quarterly,24.89,Reducing Balance,Monthly,Monthly,Services,False,True,78506732,63,4,Adult,A,True,420,2024-09-24,2023-08-31,2023-09-30,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100182,CUS-1182,Jordan Lyons MD,Hart-Williams,1971-12-22,"06336 Mcgee Walks Apt. 985
+Zunigashire, IN 13000",(889)198-5354,andersonbrian@gmail.com,1526553,2023-05-23,7,Quarterly,6.8,Reducing Balance,Quarterly,Quarterly,Services,False,False,77337600,67,4,Youth,C,False,210,2023-12-19,2023-06-22,2023-07-22,2024-01-01
+Male,Kano,Agriculture,CAM-100183,CUS-1183,Emma Villanueva,"Ramirez, Hayes and Tanner",1996-05-01,"Unit 3906 Box 3873
+DPO AE 81841",001-484-570-0107x5379,balljennifer@duncan.biz,9033879,2023-03-06,20,Monthly,5.05,Flat Rate,Quarterly,Monthly,Retail,True,False,19566364,52,20,Youth,C,False,600,2024-10-26,2023-04-05,2023-05-05,2024-01-01
+Male,Kaduna,Manufacturing,CAM-100184,CUS-1184,Troy Jackson,Wheeler-Johnson,1995-07-30,"665 Wagner Hollow
+Byrdport, WI 25828",001-190-942-9174x1010,sanchezmorgan@kennedy.info,4243797,2023-03-17,55,Yearly,5.88,Flat Rate,Monthly,Monthly,Retail,True,True,85604679,68,20,Adult,B,False,1650,2027-09-22,2023-04-16,2023-05-16,2024-01-01
+Male,Kaduna,Agriculture,CAM-100185,CUS-1185,Mary Reyes,Smith-Mcguire,1989-12-30,"953 Tiffany Crescent Apt. 204
+Campbellchester, VA 69275",001-057-290-9278x6478,lwilliams@hotmail.com,2014542,2023-07-18,8,Monthly,11.84,Flat Rate,Quarterly,Monthly,Wholesale,False,True,94226871,26,19,Youth,B,False,240,2024-03-14,2023-08-17,2023-09-16,2024-01-01
+Female,Abuja,Health,CAM-100186,CUS-1186,Mary Cox,Vargas and Sons,1985-04-20,"48227 Michael Falls Suite 496
+West Keith, NJ 69332",(126)082-4366x47744,cstevens@gmail.com,6857718,2023-05-23,54,Monthly,17.66,Reducing Balance,Monthly,Monthly,Production,True,True,95790197,75,13,Youth,A,False,1620,2027-10-29,2023-06-22,2023-07-22,2024-01-01
+Male,Kano,ICT,CAM-100187,CUS-1187,Linda Durham,Holland and Sons,1972-08-26,"6145 Andrea Manors Suite 625
+South Wayne, ID 07510",803.916.8389,daniel30@lamb.info,4680656,2023-11-12,41,Monthly,6.38,Reducing Balance,Quarterly,Monthly,Wholesale,False,False,11941699,2,12,Youth,B,True,1230,2027-03-26,2023-12-12,2024-01-11,2024-01-01
+Male,Kaduna,Health,CAM-100188,CUS-1188,Randall Evans,Reynolds and Sons,1977-09-19,"299 Mendez Isle
+Theresabury, IL 31176",(957)048-8733x01798,jessica16@gmail.com,8965506,2023-04-03,9,Quarterly,5.11,Reducing Balance,Quarterly,Monthly,Consulting,False,True,59340290,14,7,Adult,A,False,270,2023-12-29,2023-05-03,2023-06-02,2024-01-01
+Female,Lagos,Manufacturing,CAM-100189,CUS-1189,Russell Butler,Perry Group,1999-04-20,"1092 Dominic Springs
+South Jeffrey, CA 04131",603-372-6518,william10@trujillo.com,7346192,2023-11-01,19,Quarterly,23.74,Reducing Balance,Quarterly,Quarterly,Retail,False,False,56152949,30,25,Youth,B,True,570,2025-05-24,2023-12-01,2023-12-31,2024-01-01
+Male,Lagos,ICT,CAM-100190,CUS-1190,Debra Perez,"Smith, Fisher and Wyatt",1976-01-23,"19055 Woods Lakes Suite 914
+East Lorifort, OR 36202",(495)825-7797x3179,plowe@silva.com,9176924,2023-08-12,46,Quarterly,21.44,Reducing Balance,Monthly,Quarterly,Services,True,True,98141927,49,12,Youth,B,False,1380,2027-05-23,2023-09-11,2023-10-11,2024-01-01
+Male,Rivers,Agriculture,CAM-100191,CUS-1191,Seth Hoffman,Graham and Sons,1989-12-09,"0085 Ethan Isle
+Davidfurt, OH 32792",(341)022-5676x264,davisjaclyn@le.biz,7847689,2023-10-18,46,Yearly,21.18,Flat Rate,Quarterly,Quarterly,Retail,False,False,70417030,12,21,Youth,B,True,1380,2027-07-29,2023-11-17,2023-12-17,2024-01-01
+Male,Kano,ICT,CAM-100192,CUS-1192,Julie Hoover,Cook PLC,1992-03-20,"254 Denise Haven
+Christinestad, SC 80316",001-295-330-3173,williamwatson@ball-martin.org,2329553,2023-04-12,30,Monthly,22.69,Reducing Balance,Quarterly,Quarterly,Services,False,True,96369792,90,4,Adult,C,False,900,2025-09-28,2023-05-12,2023-06-11,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100193,CUS-1193,Veronica Williams,Lee-Hernandez,2000-11-09,"77908 Burnett Burgs
+Tiffanyburgh, DC 51627",846.938.5026x74614,faithswanson@hotmail.com,3541341,2023-09-24,55,Yearly,19.0,Reducing Balance,Monthly,Monthly,Consulting,False,True,30886746,44,27,Adult,C,False,1650,2028-03-31,2023-10-24,2023-11-23,2024-01-01
+Male,Rivers,ICT,CAM-100194,CUS-1194,Brandon Copeland,Singleton-Li,1996-05-30,"805 Shelton Ferry
+Port Sharonland, NM 75129",(824)688-7460,fgomez@hotmail.com,1539504,2023-12-21,15,Quarterly,7.09,Reducing Balance,Quarterly,Quarterly,Consulting,False,False,24969573,33,2,Youth,A,False,450,2025-03-15,2024-01-20,2024-02-19,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100195,CUS-1195,Karen Jones,Beard-Logan,1986-05-31,"77105 Douglas Center
+Port Michaelhaven, ND 84678",(373)678-9843,marthamyers@park-hood.com,7166455,2023-04-20,26,Yearly,12.98,Reducing Balance,Monthly,Quarterly,Retail,False,True,38065451,13,2,Youth,B,False,780,2025-06-08,2023-05-20,2023-06-19,2024-01-01
+Female,Kano,ICT,CAM-100196,CUS-1196,Alicia Lopez,"Santos, Decker and Holmes",1970-08-24,"72133 Chapman Plains Apt. 166
+East Roberto, WY 89268",8613542834,jameshumphrey@shaw.com,8163589,2023-11-26,41,Monthly,19.46,Reducing Balance,Monthly,Quarterly,Services,False,True,32215254,78,5,Adult,A,False,1230,2027-04-09,2023-12-26,2024-01-25,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100197,CUS-1197,Gloria Graham,Holt-Wyatt,1977-01-17,"397 Robert Walk
+Kingburgh, DC 92133",+1-240-463-6142x76473,mfrancis@collins.com,8418348,2023-09-22,17,Monthly,10.61,Flat Rate,Monthly,Monthly,Consulting,False,True,53662376,88,23,Adult,B,False,510,2025-02-13,2023-10-22,2023-11-21,2024-01-01
+Male,Lagos,Manufacturing,CAM-100198,CUS-1198,Kimberly Snyder,Barnett Inc,1982-04-27,"74219 Hawkins Grove
+South Lisa, GA 51379",001-188-766-2633x3988,thompsonjason@gmail.com,5488023,2023-01-03,32,Quarterly,18.75,Reducing Balance,Monthly,Quarterly,Wholesale,False,True,36583674,98,10,Youth,C,True,960,2025-08-20,2023-02-02,2023-03-04,2024-01-01
+Male,Abuja,Health,CAM-100199,CUS-1199,Christopher Miranda,"Williams, Hubbard and Rhodes",1991-03-06,"87652 Williamson Vista
+Sarahburgh, HI 85158",3668704228,collinschristopher@gmail.com,8135836,2023-03-26,45,Quarterly,5.49,Reducing Balance,Monthly,Monthly,Wholesale,False,True,89594281,26,10,Youth,C,False,1350,2026-12-05,2023-04-25,2023-05-25,2024-01-01
+Male,Kano,Agriculture,CAM-100200,CUS-1200,Allison Ryan,Marquez Ltd,1977-11-21,"047 Jordan Village Suite 405
+Smithborough, MT 69081",001-612-504-1610x54328,craig10@abbott.com,8309006,2023-10-09,7,Yearly,11.12,Reducing Balance,Quarterly,Quarterly,Services,False,True,77847540,21,9,Adult,B,True,210,2024-05-06,2023-11-08,2023-12-08,2024-01-01
+Female,Kaduna,ICT,CAM-100201,CUS-1201,Daniel Hicks,Gibson and Sons,1975-07-23,"723 Jacqueline Port Apt. 001
+Lake Michael, ID 45805",440.169.0271x409,juliahernandez@phillips.com,2175843,2023-11-24,59,Quarterly,15.98,Flat Rate,Monthly,Monthly,Retail,False,True,49447968,28,13,Adult,B,False,1770,2028-09-28,2023-12-24,2024-01-23,2024-01-01
+Male,Rivers,Health,CAM-100202,CUS-1202,Michael Hill,"Fox, Robertson and Nunez",1974-01-28,"26717 Sanders Fork
+Fredhaven, HI 22328",886-959-8189,richhannah@gmail.com,8923309,2023-10-31,18,Quarterly,17.64,Flat Rate,Monthly,Monthly,Consulting,True,False,9283377,48,7,Youth,C,True,540,2025-04-23,2023-11-30,2023-12-30,2024-01-01
+Male,Rivers,Agriculture,CAM-100203,CUS-1203,Andrea Cook,"Edwards, Jones and Simpson",1992-11-02,"284 Rush Branch Apt. 434
+Blackburgh, UT 90603",3418910028,christinaaustin@wright.net,3729028,2023-04-27,58,Monthly,16.54,Flat Rate,Monthly,Quarterly,Retail,False,False,9017955,40,5,Adult,C,True,1740,2028-01-31,2023-05-27,2023-06-26,2024-01-01
+Female,Kaduna,Agriculture,CAM-100204,CUS-1204,Jason Hammond,"Craig, Evans and Cole",1973-04-24,"35594 Smith Points
+Lake Tonyshire, CT 76160",+1-023-229-1366,cervanteskathleen@hotmail.com,7556993,2023-08-09,37,Quarterly,18.96,Reducing Balance,Monthly,Monthly,Wholesale,False,True,67833124,66,26,Youth,A,True,1110,2026-08-23,2023-09-08,2023-10-08,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100205,CUS-1205,Brad Williamson,"Reed, Moore and Ramirez",1998-11-02,"134 Robert Square
+Curryville, IL 48567",527.637.5045,brownmarie@gmail.com,2221610,2023-06-03,36,Quarterly,5.12,Flat Rate,Quarterly,Monthly,Consulting,False,True,49732712,73,10,Youth,C,True,1080,2026-05-18,2023-07-03,2023-08-02,2024-01-01
+Female,Oyo,Manufacturing,CAM-100206,CUS-1206,Laurie Hunt,Simpson LLC,1972-05-19,"381 Vicki Glens
+Tammyhaven, AR 95648",(682)058-9177x38636,john83@yahoo.com,2839767,2023-06-02,21,Monthly,7.02,Reducing Balance,Monthly,Quarterly,Retail,True,True,47367678,87,10,Youth,B,True,630,2025-02-21,2023-07-02,2023-08-01,2024-01-01
+Female,Abuja,Manufacturing,CAM-100207,CUS-1207,Yvette Lopez,Manning-Mason,2002-12-24,"9781 Raymond Plains
+West Robert, OH 88496",+1-129-937-1179x24392,roblesanthony@woods-cooper.net,3114235,2023-01-12,37,Monthly,22.38,Reducing Balance,Quarterly,Quarterly,Production,False,False,38292816,79,6,Adult,A,True,1110,2026-01-26,2023-02-11,2023-03-13,2024-01-01
+Female,Rivers,Health,CAM-100208,CUS-1208,Mark Evans,Johnson-Gonzalez,1971-01-17,"607 Gilmore Ports
+Jasonville, IA 38246",(877)997-3325x20437,wilsonallison@hotmail.com,991036,2023-05-13,37,Yearly,18.63,Flat Rate,Monthly,Quarterly,Services,True,False,52736559,77,27,Youth,B,False,1110,2026-05-27,2023-06-12,2023-07-12,2024-01-01
+Male,Kano,Manufacturing,CAM-100209,CUS-1209,Rebecca Odom,Doyle PLC,1981-11-09,"02879 Angela Squares Suite 089
+Pearsonberg, CA 81545",(310)355-6025x9985,michaellong@yahoo.com,9215912,2023-10-31,39,Quarterly,7.26,Reducing Balance,Quarterly,Monthly,Services,False,True,71617028,23,28,Youth,A,True,1170,2027-01-13,2023-11-30,2023-12-30,2024-01-01
+Male,Abuja,ICT,CAM-100210,CUS-1210,Matthew Roberts,Bennett-Miller,1979-06-04,"673 Randy Locks Suite 288
+Thomasside, LA 31940",630.891.8373x841,marklopez@yahoo.com,6546914,2023-10-20,16,Monthly,21.84,Reducing Balance,Monthly,Monthly,Production,False,False,55650991,81,19,Adult,B,False,480,2025-02-11,2023-11-19,2023-12-19,2024-01-01
+Male,Kano,Manufacturing,CAM-100211,CUS-1211,Sarah Spencer DVM,"Ray, Cooper and Eaton",1999-07-18,"4443 Rebecca Mews
+Hansenport, CA 82921",096.650.1163x4331,margaretdixon@yahoo.com,3210241,2023-10-27,15,Yearly,9.84,Reducing Balance,Monthly,Monthly,Wholesale,True,True,75283807,48,21,Adult,C,False,450,2025-01-19,2023-11-26,2023-12-26,2024-01-01
+Male,Enugu,Health,CAM-100212,CUS-1212,Samuel Farley,Carroll-Ortiz,1994-04-09,"USNV Carter
+FPO AP 34907",059-933-9363,ypowers@gmail.com,1642953,2023-08-16,20,Yearly,14.57,Flat Rate,Quarterly,Quarterly,Consulting,False,True,96011763,2,8,Youth,B,True,600,2025-04-07,2023-09-15,2023-10-15,2024-01-01
+Male,Lagos,Manufacturing,CAM-100213,CUS-1213,Danny Mckinney,"Moreno, Barnett and Jimenez",1978-11-27,"75968 Russell Isle
+West Christinahaven, OR 36642",241-208-6442,deleonmichelle@benitez.com,4461352,2023-09-28,22,Quarterly,7.9,Reducing Balance,Monthly,Monthly,Services,True,True,52042301,84,1,Youth,A,True,660,2025-07-19,2023-10-28,2023-11-27,2024-01-01
+Male,Abuja,ICT,CAM-100214,CUS-1214,Julie Lewis,King PLC,1999-06-20,"75628 Scott Lane
+North Emily, NC 53184",001-436-479-3745x61785,tiffany09@yahoo.com,4478702,2023-02-12,45,Quarterly,19.2,Reducing Balance,Quarterly,Monthly,Production,True,True,2171277,20,28,Adult,B,False,1350,2026-10-24,2023-03-14,2023-04-13,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100215,CUS-1215,Karen Brown,Taylor and Sons,1996-01-13,"9775 Perez Locks Suite 215
+Johnport, NY 62244",+1-925-119-4848x2824,conwayjoshua@sanders.info,8668984,2023-12-09,23,Yearly,18.34,Flat Rate,Monthly,Monthly,Production,False,False,65406526,59,17,Adult,A,True,690,2025-10-29,2024-01-08,2024-02-07,2024-01-01
+Female,Abuja,Health,CAM-100216,CUS-1216,Jerry Oneill,Fletcher Group,1971-03-26,"5767 Alicia Oval
+East David, VA 84382",001-888-117-5725,ycasey@collins-romero.com,826916,2023-11-22,14,Monthly,9.22,Reducing Balance,Quarterly,Monthly,Wholesale,False,False,79890927,46,7,Adult,B,True,420,2025-01-15,2023-12-22,2024-01-21,2024-01-01
+Male,Abuja,Trade and Commerce,CAM-100217,CUS-1217,Elizabeth Johns,Murray Inc,1995-07-04,"USNV Hartman
+FPO AA 60955",(676)032-4737,cmarquez@stephens.info,4097706,2023-10-29,30,Yearly,22.27,Reducing Balance,Monthly,Monthly,Wholesale,False,True,42905980,3,14,Youth,C,True,900,2026-04-16,2023-11-28,2023-12-28,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100218,CUS-1218,Stephanie Macdonald,Fuentes-Butler,1970-09-30,"63403 Brooks Pass
+Wilsonton, AK 10351",+1-733-694-9950x2955,ydavis@tate-anderson.org,5006554,2023-12-30,45,Quarterly,13.03,Flat Rate,Monthly,Monthly,Retail,False,False,70470076,55,21,Youth,C,True,1350,2027-09-10,2024-01-29,2024-02-28,2024-01-01
+Male,Oyo,Trade and Commerce,CAM-100219,CUS-1219,Michael Medina,Wheeler Group,1994-09-28,"7421 Christopher Groves Suite 059
+Knoxmouth, MN 47930",001-136-189-8825x412,phamalexis@vaughan.org,1105409,2023-01-21,19,Monthly,10.85,Reducing Balance,Quarterly,Monthly,Services,True,False,84604446,12,21,Youth,B,True,570,2024-08-13,2023-02-20,2023-03-22,2024-01-01
+Male,Abuja,Agriculture,CAM-100220,CUS-1220,William Allen,"Dudley, Clements and Lucero",1988-10-26,"91640 Cherry Via Suite 309
+Perezberg, UT 35412",530-033-7214,shelbyhernandez@floyd-ortiz.com,9962743,2023-04-17,30,Monthly,8.05,Reducing Balance,Monthly,Quarterly,Retail,True,True,74989790,40,17,Adult,B,True,900,2025-10-03,2023-05-17,2023-06-16,2024-01-01
+Male,Kano,Agriculture,CAM-100221,CUS-1221,Joseph Schultz,Moore-Medina,1972-01-12,"8464 Gary Street
+Port Gwendolyntown, KS 66817",3459410753,davidrobertson@hotmail.com,7349486,2023-12-02,55,Yearly,10.32,Reducing Balance,Monthly,Quarterly,Production,False,False,20380560,66,9,Youth,B,True,1650,2028-06-08,2024-01-01,2024-01-31,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100222,CUS-1222,Ross Pearson,Day-Rice,1975-01-13,"2511 Daniel Islands Suite 261
+North Meghanmouth, NJ 37015",(622)750-1852,jenniferhayes@novak.net,5550405,2023-10-30,27,Quarterly,5.44,Reducing Balance,Monthly,Quarterly,Consulting,True,True,30439575,78,17,Adult,A,False,810,2026-01-17,2023-11-29,2023-12-29,2024-01-01
+Female,Enugu,Health,CAM-100223,CUS-1223,Troy Powell,Bradford-Pham,1996-03-08,"090 Higgins Forge Suite 224
+Anaview, WY 53956",+1-742-760-0449x307,rosariodonna@yahoo.com,8837735,2023-04-27,57,Yearly,16.67,Reducing Balance,Monthly,Monthly,Consulting,True,True,63189747,16,5,Youth,B,True,1710,2028-01-01,2023-05-27,2023-06-26,2024-01-01
+Female,Kaduna,ICT,CAM-100224,CUS-1224,Steven Johnson,Martin Inc,1989-10-01,"47555 Norman Shores Suite 462
+New Patricia, HI 35825",904-352-3083x910,jessicagreen@dillon.com,2225690,2023-05-04,35,Yearly,21.84,Flat Rate,Monthly,Monthly,Wholesale,False,True,82919190,83,26,Adult,B,False,1050,2026-03-19,2023-06-03,2023-07-03,2024-01-01
+Female,Abuja,ICT,CAM-100225,CUS-1225,Jason Estrada,Simon-Benjamin,1990-06-02,"32853 Cassidy Brook Suite 855
+North Johnton, WY 30390",053.990.7391x813,lopeztammie@gmail.com,3780772,2023-10-08,25,Yearly,15.98,Flat Rate,Monthly,Quarterly,Consulting,True,True,80419793,34,25,Youth,A,False,750,2025-10-27,2023-11-07,2023-12-07,2024-01-01
+Male,Rivers,Manufacturing,CAM-100226,CUS-1226,Mary Smith,"Hernandez, Romero and Stein",1999-02-23,"451 Durham Hollow Apt. 789
+Lake Gregoryville, HI 69391",109.016.1462,alexandrarangel@boyd.biz,8697295,2023-10-19,26,Monthly,9.39,Flat Rate,Quarterly,Monthly,Consulting,True,False,8562865,44,20,Youth,C,False,780,2025-12-07,2023-11-18,2023-12-18,2024-01-01
+Female,Abuja,Health,CAM-100227,CUS-1227,Deborah Martin,Taylor-Stevens,1969-09-10,"0007 Lin Corners
+Port Ashley, VT 41688",755-949-6373,james41@watson.com,6309041,2023-07-22,49,Monthly,5.67,Flat Rate,Quarterly,Quarterly,Consulting,False,True,50878285,6,29,Adult,B,False,1470,2027-07-31,2023-08-21,2023-09-20,2024-01-01
+Male,Rivers,Agriculture,CAM-100228,CUS-1228,Rebecca Sullivan,Williams-Thompson,2003-01-17,"020 Boyd Stream
+Daviesbury, KY 22138",+1-901-530-9009x6514,bgross@yahoo.com,5587268,2023-02-20,37,Quarterly,9.29,Reducing Balance,Quarterly,Monthly,Production,True,False,60445297,77,8,Adult,B,True,1110,2026-03-06,2023-03-22,2023-04-21,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100229,CUS-1229,Thomas Edwards,Griffin Group,2002-12-03,"78856 Martha Trail
+Ruizside, WI 56075",392.231.5993,lopeztiffany@gmail.com,6655579,2023-09-28,56,Quarterly,13.32,Reducing Balance,Monthly,Monthly,Consulting,False,True,70490574,64,6,Youth,C,False,1680,2028-05-04,2023-10-28,2023-11-27,2024-01-01
+Female,Rivers,Manufacturing,CAM-100230,CUS-1230,Lauren Collier,"Carr, Wilson and Wilson",2001-01-04,"948 Huber Islands Apt. 565
+Lake Jerry, TN 90551",001-571-645-1629x2049,erica16@gmail.com,903119,2023-11-20,51,Yearly,20.19,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,38146254,22,11,Adult,C,False,1530,2028-01-28,2023-12-20,2024-01-19,2024-01-01
+Female,Kaduna,ICT,CAM-100231,CUS-1231,Pam Dodson,Larsen PLC,2000-06-10,"852 Jennifer Hill Suite 176
+North Erikton, MI 51941",865-330-2516x14197,andrew41@white.org,8712420,2023-10-04,54,Yearly,8.76,Reducing Balance,Monthly,Quarterly,Consulting,False,False,27967642,18,19,Adult,A,False,1620,2028-03-11,2023-11-03,2023-12-03,2024-01-01
+Female,Lagos,Agriculture,CAM-100232,CUS-1232,Kayla Moore MD,Mejia LLC,1987-12-09,"7782 Johnson Spring
+New Jason, MT 72290",+1-206-132-6635x82121,johnanthony@martinez.net,902732,2023-05-21,26,Yearly,19.4,Reducing Balance,Monthly,Quarterly,Retail,True,True,82515633,12,4,Youth,B,False,780,2025-07-09,2023-06-20,2023-07-20,2024-01-01
+Female,Rivers,Agriculture,CAM-100233,CUS-1233,Michelle Little,"Hays, Wilkins and Dean",1991-05-05,"060 Jesus Viaduct
+Port Kaitlintown, OH 63928",782-995-6873x72223,knorton@howard-evans.com,1006079,2023-10-02,40,Quarterly,22.34,Flat Rate,Monthly,Quarterly,Production,True,False,29384611,52,18,Adult,B,False,1200,2027-01-14,2023-11-01,2023-12-01,2024-01-01
+Female,Rivers,Trade and Commerce,CAM-100234,CUS-1234,Jonathan Wright,Johnson Inc,1971-04-02,"661 Jensen Wall Suite 481
+North Kimberly, NC 70509",072-064-0860,jperez@yahoo.com,2450013,2023-10-17,37,Monthly,14.08,Flat Rate,Monthly,Quarterly,Wholesale,False,False,63516022,94,1,Youth,A,True,1110,2026-10-31,2023-11-16,2023-12-16,2024-01-01
+Female,Lagos,ICT,CAM-100235,CUS-1235,Christina Gross,"Adams, Alvarez and Thomas",2002-03-20,"51828 Martin Passage
+West Lorifurt, LA 67554",+1-690-213-6691x7738,amberparker@wilson-wu.com,1632658,2023-11-30,35,Monthly,21.43,Reducing Balance,Quarterly,Monthly,Retail,False,True,90301319,51,13,Youth,C,True,1050,2026-10-15,2023-12-30,2024-01-29,2024-01-01
+Female,Kaduna,Health,CAM-100236,CUS-1236,Alisha Martin,Sawyer Ltd,1977-09-07,"57055 Nguyen Ports
+Laurabury, MD 84962",001-288-690-5970,gonzaleswilliam@shannon.com,2485209,2023-02-21,44,Yearly,16.09,Reducing Balance,Monthly,Monthly,Services,False,True,35017422,71,14,Adult,A,False,1320,2026-10-03,2023-03-23,2023-04-22,2024-01-01
+Female,Abuja,Agriculture,CAM-100237,CUS-1237,Adrian Daniel,Norton-Lindsey,1977-03-22,"518 April Drives
+South Justinbury, MD 82508",772.831.9978,davidrobbins@patel-briggs.org,4822626,2023-01-27,54,Yearly,17.74,Reducing Balance,Quarterly,Monthly,Production,False,True,21878589,96,24,Adult,C,True,1620,2027-07-05,2023-02-26,2023-03-28,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100238,CUS-1238,Mr. Phillip Knox,"Graham, Williams and Allen",2005-06-19,"519 Carey Walks
+West Tammytown, VT 35639",+1-190-907-3944x87446,hsoto@gmail.com,1156951,2023-06-06,17,Yearly,15.53,Flat Rate,Monthly,Quarterly,Production,True,True,21577390,48,1,Youth,A,True,510,2024-10-28,2023-07-06,2023-08-05,2024-01-01
+Female,Lagos,Health,CAM-100239,CUS-1239,Catherine Benson,Johnson-Elliott,1997-03-30,"992 Andrew Rue
+New Rachel, WY 97018",633-611-7953x131,bconway@thomas.com,8899911,2023-08-27,46,Yearly,14.26,Reducing Balance,Quarterly,Quarterly,Services,True,True,86759500,19,29,Youth,C,False,1380,2027-06-07,2023-09-26,2023-10-26,2024-01-01
+Female,Kano,ICT,CAM-100240,CUS-1240,Cindy Kelly,"Gutierrez, Reid and Bailey",1976-10-06,"039 Anthony Trafficway Suite 286
+East Dawn, MI 17998",(103)191-6906x738,cpatterson@brown-williams.com,3979591,2023-06-05,52,Quarterly,9.69,Reducing Balance,Quarterly,Quarterly,Services,True,True,75110888,6,11,Youth,A,False,1560,2027-09-12,2023-07-05,2023-08-04,2024-01-01
+Male,Lagos,Agriculture,CAM-100241,CUS-1241,Mitchell Kennedy,"Jenkins, Goodwin and Moran",2002-08-15,"49319 Timothy Roads
+Port Stephen, AK 68417",(679)331-2242,perrylindsey@gmail.com,5703916,2023-10-18,23,Monthly,11.06,Reducing Balance,Quarterly,Quarterly,Services,False,False,33301473,84,17,Youth,C,False,690,2025-09-07,2023-11-17,2023-12-17,2024-01-01
+Female,Kano,Health,CAM-100242,CUS-1242,Jacqueline Mitchell,Brandt Ltd,1996-04-15,"1003 Powell Lake Apt. 031
+South Austin, CT 77482",(404)748-9408,jenniferbrown@hotmail.com,6526988,2023-05-16,26,Yearly,10.8,Flat Rate,Quarterly,Quarterly,Wholesale,True,False,39967335,27,4,Youth,C,True,780,2025-07-04,2023-06-15,2023-07-15,2024-01-01
+Male,Kaduna,Health,CAM-100243,CUS-1243,Angela Schultz,"Garcia, Rice and Johnson",1983-06-25,"1963 Porter Dam Suite 900
+Port Heidi, OR 37477",169-467-5467x570,ntaylor@yahoo.com,7926263,2023-05-24,18,Quarterly,16.27,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,79832543,53,26,Youth,C,False,540,2024-11-14,2023-06-23,2023-07-23,2024-01-01
+Male,Abuja,Health,CAM-100244,CUS-1244,Justin Kim,Castillo PLC,1976-05-02,"793 Clark Falls
+Rebeccaborough, DC 50769",(019)008-0591x3595,tracijohnson@cook-peters.biz,2866610,2023-04-16,26,Yearly,7.4,Flat Rate,Quarterly,Monthly,Production,False,False,88451900,48,12,Adult,C,True,780,2025-06-04,2023-05-16,2023-06-15,2024-01-01
+Female,Lagos,Agriculture,CAM-100245,CUS-1245,Dennis Castro,"Gross, Ward and Stewart",1978-10-16,"372 Rivas Mountain Suite 063
+Lake Paul, NY 99340",611.883.9414,moranheather@gmail.com,4680303,2023-06-07,13,Yearly,23.34,Flat Rate,Monthly,Monthly,Consulting,False,False,63220767,7,10,Adult,C,True,390,2024-07-01,2023-07-07,2023-08-06,2024-01-01
+Male,Enugu,Agriculture,CAM-100246,CUS-1246,Rachel Mullen,Williams and Sons,2002-01-08,"62966 Deborah Landing
+West Nancyview, IL 04328",001-075-879-2606,william37@martin-weber.com,9956807,2023-05-26,51,Monthly,19.41,Flat Rate,Quarterly,Monthly,Consulting,True,True,48021853,59,6,Adult,B,True,1530,2027-08-03,2023-06-25,2023-07-25,2024-01-01
+Male,Enugu,Manufacturing,CAM-100247,CUS-1247,Matthew Davis,Mcgrath Group,1992-05-13,"87081 John Fields
+Tannerland, NE 69420",(564)106-0212x95653,dfleming@hernandez.com,5184346,2023-01-02,45,Yearly,13.03,Flat Rate,Monthly,Monthly,Services,False,True,24611827,69,25,Youth,C,False,1350,2026-09-13,2023-02-01,2023-03-03,2024-01-01
+Male,Oyo,ICT,CAM-100248,CUS-1248,Tyler Buck,Harrell Group,1974-05-05,"0048 Nelson Grove Apt. 662
+Leeport, MA 15464",(082)181-3462x3105,noah45@wiggins.info,958298,2023-03-18,51,Monthly,8.17,Flat Rate,Quarterly,Monthly,Wholesale,True,False,57866096,11,1,Adult,B,True,1530,2027-05-26,2023-04-17,2023-05-17,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100249,CUS-1249,Charles Smith,Harris-Jenkins,1998-12-14,"2722 Rodriguez Views Apt. 960
+Riversview, MA 02998",001-593-852-2883x8520,yharding@hotmail.com,1547343,2023-05-12,12,Monthly,22.64,Flat Rate,Monthly,Quarterly,Retail,True,True,13885324,15,7,Youth,C,False,360,2024-05-06,2023-06-11,2023-07-11,2024-01-01
+Female,Kaduna,Health,CAM-100250,CUS-1250,Mrs. Hannah Garcia,Arnold-Wilson,1978-04-29,"199 Price Cove
+Port Briana, LA 66010",9306035204,matthew38@yahoo.com,6219720,2023-03-31,28,Monthly,21.48,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,32188544,64,26,Youth,B,False,840,2025-07-18,2023-04-30,2023-05-30,2024-01-01
+Male,Lagos,Manufacturing,CAM-100251,CUS-1251,Zachary King,Cochran-Munoz,1979-06-07,"384 Michael Green
+Chelseachester, WV 74495",001-470-102-4100x678,mmcclure@rodriguez.biz,8993836,2023-12-11,49,Quarterly,19.43,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,26219726,3,27,Adult,B,False,1470,2027-12-20,2024-01-10,2024-02-09,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100252,CUS-1252,Nicole Mcpherson,Collins-Wade,1993-09-13,"299 Costa Coves Apt. 364
+East Edward, ND 99580",+1-943-492-2125x05646,msanchez@yahoo.com,5120650,2023-12-16,37,Quarterly,10.43,Reducing Balance,Monthly,Quarterly,Wholesale,False,False,59734379,69,21,Youth,A,False,1110,2026-12-30,2024-01-15,2024-02-14,2024-01-01
+Male,Rivers,Manufacturing,CAM-100253,CUS-1253,Maria Maldonado,Herrera Ltd,1984-07-15,"8378 Ray Wall
+Lewisberg, MS 16179",865-163-5155x910,evelyn80@johnson.com,2255692,2023-09-20,16,Monthly,13.05,Flat Rate,Quarterly,Quarterly,Services,False,False,3467256,23,28,Youth,C,False,480,2025-01-12,2023-10-20,2023-11-19,2024-01-01
+Male,Enugu,Agriculture,CAM-100254,CUS-1254,Paula Holmes,Bruce-Brown,1987-09-30,"17880 Johnson Curve Apt. 789
+West Michaelside, ME 36895",(071)824-8218x76045,lfloyd@pitts.com,9772664,2023-12-17,27,Yearly,7.05,Reducing Balance,Quarterly,Quarterly,Retail,True,False,67912156,53,16,Youth,A,True,810,2026-03-06,2024-01-16,2024-02-15,2024-01-01
+Male,Lagos,Health,CAM-100255,CUS-1255,David Brooks,"Conner, Long and Clarke",1978-12-01,"89982 Patricia Manor Suite 838
+Brownland, ND 46014",562-203-4503x79379,tfitzgerald@yahoo.com,2230228,2023-04-18,27,Monthly,8.78,Flat Rate,Quarterly,Monthly,Services,True,False,90235105,37,24,Youth,A,True,810,2025-07-06,2023-05-18,2023-06-17,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100256,CUS-1256,Elizabeth Ramos,Yang-Adams,1997-03-08,"88199 Meagan Lock
+Andrewsville, KS 23336",976.354.9388,wilsonmichelle@andrews.com,2446793,2023-03-15,48,Yearly,20.66,Flat Rate,Monthly,Quarterly,Retail,True,True,50145489,9,14,Youth,C,True,1440,2027-02-22,2023-04-14,2023-05-14,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100257,CUS-1257,Whitney Giles,"Bell, Obrien and Bishop",1978-06-08,"1193 Ritter Forest
+West Kristine, WI 85364",+1-133-196-4692,sarachase@yahoo.com,2069123,2023-02-08,30,Monthly,19.3,Flat Rate,Quarterly,Quarterly,Consulting,False,True,15593077,15,23,Youth,A,True,900,2025-07-27,2023-03-10,2023-04-09,2024-01-01
+Female,Oyo,Trade and Commerce,CAM-100258,CUS-1258,Cassandra Cochran,"Salazar, Cameron and Long",2004-06-08,"PSC 4493, Box 4202
+APO AE 92771",001-310-462-0906x288,kaylacaldwell@myers.biz,6615518,2023-06-08,27,Yearly,16.87,Reducing Balance,Monthly,Quarterly,Retail,True,False,23108188,3,20,Adult,C,True,810,2025-08-26,2023-07-08,2023-08-07,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100259,CUS-1259,Linda Mann,Cervantes-Jackson,1982-05-09,"791 Jennifer Corner
+East Theodore, MS 10471",+1-887-684-5531x19263,courtney43@smith.info,7893979,2023-03-12,33,Quarterly,22.91,Flat Rate,Quarterly,Quarterly,Retail,False,False,10667126,93,20,Youth,A,False,990,2025-11-26,2023-04-11,2023-05-11,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100260,CUS-1260,Frederick Edwards,"Webster, Clark and Lewis",1975-03-07,"PSC 4864, Box 1269
+APO AE 32759",001-689-894-8385,erikakennedy@hotmail.com,8937482,2023-11-08,34,Yearly,16.67,Flat Rate,Quarterly,Monthly,Retail,False,True,25711646,70,6,Youth,C,False,1020,2026-08-24,2023-12-08,2024-01-07,2024-01-01
+Female,Oyo,Manufacturing,CAM-100261,CUS-1261,Melissa Mccann,Meyer-Bradford,1985-06-26,"USS Perkins
+FPO AE 82203",548.489.0312x079,pughmatthew@wilcox.com,2122572,2023-08-29,18,Monthly,14.34,Reducing Balance,Monthly,Monthly,Wholesale,True,True,35319676,17,22,Youth,C,True,540,2025-02-19,2023-09-28,2023-10-28,2024-01-01
+Male,Kaduna,Health,CAM-100262,CUS-1262,Mark Wallace,Patterson and Sons,1980-11-16,"6934 Moreno Falls Apt. 691
+Port Austinville, DE 12698",+1-270-966-8588x160,ojones@carr.com,3720281,2023-10-25,23,Quarterly,11.81,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,43280408,26,25,Youth,C,True,690,2025-09-14,2023-11-24,2023-12-24,2024-01-01
+Male,Lagos,Agriculture,CAM-100263,CUS-1263,Rebecca Roth,"Kelly, Bennett and Watkins",1995-06-17,"42385 Orozco Prairie Apt. 125
+South John, NE 40798",+1-054-372-6452x2471,jessica66@wright.biz,3189784,2023-02-05,7,Yearly,23.81,Flat Rate,Quarterly,Monthly,Consulting,True,False,59430565,21,28,Adult,B,True,210,2023-09-03,2023-03-07,2023-04-06,2024-01-01
+Male,Oyo,Agriculture,CAM-100264,CUS-1264,Allison Mccormick,Contreras-Weber,1970-04-04,"8327 Miller Drives
+Hernandezville, DE 15692",562-433-8938x9458,nancydillon@stephens.info,8675602,2023-03-25,34,Yearly,6.65,Flat Rate,Monthly,Monthly,Retail,True,False,4705421,72,5,Adult,A,False,1020,2026-01-08,2023-04-24,2023-05-24,2024-01-01
+Female,Rivers,Agriculture,CAM-100265,CUS-1265,Katherine Abbott,"Garner, Allen and Arellano",1989-03-04,"USNS Phillips
+FPO AP 11254",241.134.1530x85405,rspence@maldonado-haley.biz,1209662,2023-09-20,26,Yearly,23.62,Reducing Balance,Quarterly,Quarterly,Production,True,False,62084615,21,24,Youth,B,False,780,2025-11-08,2023-10-20,2023-11-19,2024-01-01
+Female,Kano,Agriculture,CAM-100266,CUS-1266,Michelle Erickson,Haas Group,1984-05-20,"838 Gonzalez Junction Apt. 077
+South Carlberg, SD 06544",960.508.5558x82450,david96@ross.biz,7363382,2023-11-06,20,Yearly,21.53,Reducing Balance,Monthly,Quarterly,Consulting,True,False,95437274,11,21,Youth,A,False,600,2025-06-28,2023-12-06,2024-01-05,2024-01-01
+Female,Kano,Manufacturing,CAM-100267,CUS-1267,Donna Gregory,Morales-Ford,2005-06-24,"67901 Houston Stravenue
+Castilloburgh, TN 16063",+1-862-623-0271x3179,thomasbilly@gmail.com,5821129,2023-06-21,57,Yearly,7.6,Reducing Balance,Monthly,Quarterly,Retail,True,True,24575489,38,18,Youth,A,True,1710,2028-02-25,2023-07-21,2023-08-20,2024-01-01
+Male,Lagos,ICT,CAM-100268,CUS-1268,Angela Thomas,"Lewis, Adams and Mills",1975-06-29,"8750 Bennett Junction
+Grahamberg, NC 23864",085.857.9881x826,onorris@scott-brooks.org,9359060,2023-06-22,32,Quarterly,16.3,Flat Rate,Monthly,Quarterly,Retail,True,False,48660816,72,15,Adult,A,True,960,2026-02-06,2023-07-22,2023-08-21,2024-01-01
+Male,Kaduna,Health,CAM-100269,CUS-1269,Peggy Casey,Gomez and Sons,1989-07-20,"83588 Fisher Valley Suite 183
+Laurieview, UT 93378",+1-382-218-3541x83418,nelsonmelissa@gmail.com,6172605,2023-12-28,55,Quarterly,22.33,Reducing Balance,Quarterly,Quarterly,Wholesale,True,True,61127140,88,6,Adult,B,True,1650,2028-07-04,2024-01-27,2024-02-26,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100270,CUS-1270,Allison Cross,Willis Ltd,1972-11-01,"133 Adrian Walk
+South Brianberg, AL 42329",(064)176-7557x7544,halljeffrey@johnson.biz,3092670,2023-02-16,36,Quarterly,16.44,Reducing Balance,Monthly,Monthly,Consulting,False,True,31619149,35,25,Adult,A,True,1080,2026-01-31,2023-03-18,2023-04-17,2024-01-01
+Female,Rivers,ICT,CAM-100271,CUS-1271,Julia Coleman,Miller Group,1988-07-12,"422 Miller Tunnel
+Jonesmouth, TX 49110",001-485-112-9664x3896,dayrebecca@james.com,5310833,2023-05-21,20,Quarterly,23.14,Reducing Balance,Monthly,Quarterly,Retail,True,True,8942263,14,29,Adult,B,False,600,2025-01-10,2023-06-20,2023-07-20,2024-01-01
+Female,Lagos,Agriculture,CAM-100272,CUS-1272,Laura Nunez,"Becker, Kelley and Mora",1989-06-21,"55274 Thomas Fork
+South Lydiachester, CO 97892",838.917.4978,hwhite@harris.com,7203459,2023-04-28,56,Monthly,23.86,Flat Rate,Quarterly,Quarterly,Retail,False,False,40206556,14,19,Youth,C,True,1680,2027-12-03,2023-05-28,2023-06-27,2024-01-01
+Female,Kano,ICT,CAM-100273,CUS-1273,David Mitchell,Hayden-Martinez,1983-07-04,"16671 Karen Harbors
+South Davidton, ME 85044",+1-350-860-9618x570,davidtran@owen.net,6917665,2023-10-04,28,Quarterly,13.45,Reducing Balance,Monthly,Quarterly,Consulting,False,True,70471380,10,1,Adult,A,True,840,2026-01-21,2023-11-03,2023-12-03,2024-01-01
+Male,Kaduna,Health,CAM-100274,CUS-1274,Megan Hines,Fox-Dunlap,1994-09-26,"551 Peterson Drive Suite 500
+Hernandezhaven, AL 40763",+1-651-053-2916x466,paulbanks@abbott.biz,942061,2023-08-02,29,Yearly,12.55,Reducing Balance,Quarterly,Monthly,Production,False,True,21152316,12,1,Adult,A,True,870,2025-12-19,2023-09-01,2023-10-01,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100275,CUS-1275,Richard Gutierrez,"Schaefer, Freeman and Martin",2002-01-04,"320 Edwards Shoal Apt. 790
+Lake Alyssa, VA 99330",(059)270-0508x3645,shannonwalker@allison.org,4261675,2023-08-08,49,Yearly,23.73,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,18380660,38,13,Youth,C,False,1470,2027-08-17,2023-09-07,2023-10-07,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100276,CUS-1276,Jacob Rangel,"Davis, Hall and Davis",1992-10-10,"558 Lance Wall Apt. 369
+East Karen, IL 10552",875.846.4235x07959,tara93@taylor-fox.net,7915745,2023-01-26,18,Quarterly,18.5,Reducing Balance,Quarterly,Quarterly,Consulting,False,True,24004757,34,3,Youth,C,False,540,2024-07-19,2023-02-25,2023-03-27,2024-01-01
+Female,Kaduna,Health,CAM-100277,CUS-1277,Andrew Booth,Palmer Ltd,1999-04-13,"97864 Dennis Lakes
+Lake Garyborough, OR 39865",5867499604,johnsoncole@hotmail.com,8582655,2023-01-09,27,Yearly,7.32,Reducing Balance,Quarterly,Quarterly,Production,False,False,37272994,41,10,Adult,A,True,810,2025-03-29,2023-02-08,2023-03-10,2024-01-01
+Male,Oyo,Health,CAM-100278,CUS-1278,Casey Dennis,Sims Inc,1992-04-22,"19670 Mason Views
+Port Andrewberg, AZ 72906",7889900802,allisonlopez@hendricks.com,9377580,2023-09-28,48,Quarterly,5.85,Flat Rate,Monthly,Monthly,Consulting,True,False,88142436,10,21,Adult,C,False,1440,2027-09-07,2023-10-28,2023-11-27,2024-01-01
+Female,Enugu,Agriculture,CAM-100279,CUS-1279,Michelle Herrera,Marshall-Harris,1976-09-05,"62488 Powell Lodge Suite 670
+Terryside, AZ 31429",808.818.0828x3311,mary26@jones-johnson.com,3581328,2023-01-10,42,Yearly,16.29,Flat Rate,Monthly,Quarterly,Retail,True,True,35300239,17,3,Adult,B,False,1260,2026-06-23,2023-02-09,2023-03-11,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100280,CUS-1280,Susan Ramirez,"Johnson, Steele and Haynes",1976-06-22,"44346 Katherine Glen
+Latoyamouth, ME 99496",7778757463,gabriel88@yahoo.com,5871112,2023-05-01,38,Monthly,23.6,Flat Rate,Monthly,Quarterly,Consulting,False,True,42769841,17,9,Adult,B,False,1140,2026-06-14,2023-05-31,2023-06-30,2024-01-01
+Female,Kano,ICT,CAM-100281,CUS-1281,Jonathan Anderson,Robinson LLC,1976-02-08,"82819 Henry Extensions Apt. 019
+Larsonfort, IN 18676",+1-186-999-2264x6771,martinezjason@gmail.com,9051646,2023-05-05,8,Monthly,21.88,Reducing Balance,Monthly,Quarterly,Production,True,False,76288255,67,8,Youth,A,False,240,2023-12-31,2023-06-04,2023-07-04,2024-01-01
+Female,Abuja,Manufacturing,CAM-100282,CUS-1282,Rachel Ross,Wilson-Washington,1984-05-21,"USNS Charles
+FPO AP 49977",3003906536,zscott@hotmail.com,7781505,2023-06-19,59,Quarterly,18.52,Flat Rate,Monthly,Monthly,Services,True,False,56631024,62,3,Youth,B,False,1770,2028-04-23,2023-07-19,2023-08-18,2024-01-01
+Male,Enugu,Manufacturing,CAM-100283,CUS-1283,Tiffany Lewis,"Mcconnell, Brown and Jones",1979-06-05,"00344 Graham Manor
+West Christopher, MT 36104",825.897.1199x16708,jonathan00@hotmail.com,5624795,2023-03-13,24,Quarterly,7.78,Flat Rate,Quarterly,Quarterly,Consulting,True,False,55093290,95,25,Adult,B,True,720,2025-03-02,2023-04-12,2023-05-12,2024-01-01
+Female,Rivers,Health,CAM-100284,CUS-1284,Regina Erickson,"Roberts, Carter and Delgado",1989-12-22,"30183 Samuel Extensions
+Romeroton, WY 92638",864-680-0529x919,guerrerofred@yahoo.com,5911263,2023-06-01,28,Quarterly,10.08,Flat Rate,Monthly,Quarterly,Wholesale,True,True,90169744,1,13,Adult,A,True,840,2025-09-18,2023-07-01,2023-07-31,2024-01-01
+Male,Rivers,Agriculture,CAM-100285,CUS-1285,Linda Lewis,"Tyler, Flores and Johnson",1984-10-22,"400 Linda Mills
+Whiteshire, IN 21447",(717)634-2408,sherriserrano@grant-lawrence.net,4463735,2023-07-27,34,Yearly,22.51,Reducing Balance,Monthly,Quarterly,Retail,False,False,30549561,12,6,Adult,C,True,1020,2026-05-12,2023-08-26,2023-09-25,2024-01-01
+Male,Kano,Manufacturing,CAM-100286,CUS-1286,Daniel Branch,Lee and Sons,1993-09-24,"5964 Jerry Ridge Apt. 073
+Ryantown, NJ 33580",+1-561-981-2951x679,ajohnson@boyd-farley.net,6993509,2023-02-18,35,Quarterly,8.66,Reducing Balance,Monthly,Monthly,Retail,True,True,65621622,4,13,Adult,A,False,1050,2026-01-03,2023-03-20,2023-04-19,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100287,CUS-1287,Peter Gomez,"Bell, Moreno and James",1992-02-10,"75932 Huerta Route
+Darlenestad, CA 54291",451-846-2115x4092,psmith@hotmail.com,9489138,2023-06-03,44,Monthly,10.57,Flat Rate,Quarterly,Quarterly,Wholesale,True,True,11080961,42,23,Adult,B,False,1320,2027-01-13,2023-07-03,2023-08-02,2024-01-01
+Male,Lagos,Health,CAM-100288,CUS-1288,Paige Evans,Williams PLC,1994-08-15,"999 Lisa Mall
+South Rickyfurt, AZ 32331",(387)164-0540,rebekahmitchell@kaufman.net,9966441,2023-12-13,49,Yearly,7.59,Flat Rate,Quarterly,Quarterly,Wholesale,True,False,57296596,13,20,Youth,A,False,1470,2027-12-22,2024-01-12,2024-02-11,2024-01-01
+Female,Kaduna,ICT,CAM-100289,CUS-1289,Timothy Deleon,Martin-Collins,1980-11-23,"2706 Haas Avenue Apt. 826
+Erinborough, MA 07700",001-000-722-0771x306,cpatel@hotmail.com,9324031,2023-10-20,52,Quarterly,18.52,Reducing Balance,Monthly,Quarterly,Consulting,False,True,21535782,98,20,Youth,A,False,1560,2028-01-27,2023-11-19,2023-12-19,2024-01-01
+Male,Kano,Health,CAM-100290,CUS-1290,John Fisher,Tate-Wood,1991-06-03,"2588 Lauren Inlet Suite 754
+Port Thomaschester, PA 75832",481-621-2586,crystalwhitney@goodman-gordon.com,1692929,2023-03-09,30,Yearly,23.88,Reducing Balance,Quarterly,Monthly,Wholesale,False,False,37882465,85,12,Youth,B,True,900,2025-08-25,2023-04-08,2023-05-08,2024-01-01
+Male,Rivers,ICT,CAM-100291,CUS-1291,David Arellano,Jones-Lewis,1983-03-16,"014 Anderson Cove Suite 959
+Lake Christophermouth, NJ 35898",(311)750-4422x17207,khoward@may-bridges.com,9211998,2023-02-19,42,Yearly,10.38,Flat Rate,Monthly,Monthly,Services,True,True,11878917,86,13,Adult,B,True,1260,2026-08-02,2023-03-21,2023-04-20,2024-01-01
+Male,Kaduna,Health,CAM-100292,CUS-1292,Jeffrey Miller,"Henderson, West and George",1982-07-04,"6597 Tara Point
+New Elizabethshire, IL 99403",906.115.3897,rpatterson@collier.net,7055035,2023-06-01,52,Quarterly,14.51,Reducing Balance,Monthly,Quarterly,Production,True,False,10175576,4,2,Adult,A,True,1560,2027-09-08,2023-07-01,2023-07-31,2024-01-01
+Female,Rivers,Health,CAM-100293,CUS-1293,Michelle Martinez,"Scott, Cortez and Chapman",1995-04-06,"710 Terry Plaza
+Pricechester, WI 25459",(221)462-0465,raymond81@lopez.com,4568316,2023-01-19,13,Yearly,17.69,Flat Rate,Quarterly,Monthly,Wholesale,False,True,43245764,82,21,Youth,B,True,390,2024-02-13,2023-02-18,2023-03-20,2024-01-01
+Female,Enugu,Health,CAM-100294,CUS-1294,Brian Roberson,"Johnson, Gross and Donaldson",1988-09-19,"1358 Martin Hills Suite 866
+Port Christinaport, MS 28772",527-428-4180,sethmiranda@mitchell.com,8567987,2023-04-10,47,Monthly,24.99,Reducing Balance,Quarterly,Monthly,Wholesale,True,True,64025363,69,24,Youth,B,True,1410,2027-02-18,2023-05-10,2023-06-09,2024-01-01
+Female,Lagos,ICT,CAM-100295,CUS-1295,James Campbell,"Davis, Morse and Washington",1994-08-01,"53581 Mary Forks
+Lake Sabrinashire, OR 50520",136-806-5332x61727,beltrandeborah@stephens.com,2156671,2023-03-01,21,Monthly,7.1,Flat Rate,Monthly,Monthly,Services,True,False,9059903,19,23,Adult,B,True,630,2024-11-20,2023-03-31,2023-04-30,2024-01-01
+Female,Enugu,ICT,CAM-100296,CUS-1296,Jennifer Allen,"Spencer, Scott and Adams",1970-02-05,"017 Moore Corners Apt. 706
+Lindseyville, SC 35081",773.489.9707x3320,rodriguezricky@collins.com,6181635,2023-06-16,13,Yearly,14.97,Flat Rate,Monthly,Quarterly,Retail,False,False,7441039,2,16,Youth,B,False,390,2024-07-10,2023-07-16,2023-08-15,2024-01-01
+Male,Rivers,Health,CAM-100297,CUS-1297,Raven Abbott,Sanders Inc,2003-01-10,"063 Kelley Lane
+Schmidtbury, NM 43180",+1-092-258-1402x1037,mariekim@gmail.com,6645265,2023-07-21,6,Quarterly,12.7,Reducing Balance,Quarterly,Quarterly,Retail,True,False,8077234,12,23,Adult,B,False,180,2024-01-17,2023-08-20,2023-09-19,2024-01-01
+Male,Rivers,Manufacturing,CAM-100298,CUS-1298,Kathy Williams,Navarro Ltd,1996-01-07,"72255 Mccoy Corners
+South Brenda, AZ 04965",(843)390-3951,charlesevans@hotmail.com,9027171,2023-12-11,49,Yearly,22.32,Flat Rate,Monthly,Monthly,Consulting,True,False,37482788,81,6,Adult,B,True,1470,2027-12-20,2024-01-10,2024-02-09,2024-01-01
+Female,Abuja,Agriculture,CAM-100299,CUS-1299,Tracey Anderson,Mack Ltd,2001-05-13,"29360 Ruiz Vista Apt. 061
+Greenehaven, NC 37178",001-525-935-8699x552,rodriguezjustin@ferrell.com,1283066,2023-05-26,10,Monthly,14.52,Flat Rate,Quarterly,Monthly,Services,False,True,73906791,74,19,Youth,C,False,300,2024-03-21,2023-06-25,2023-07-25,2024-01-01
+Male,Abuja,Agriculture,CAM-100300,CUS-1300,Edgar Acevedo,Dixon Ltd,1992-07-12,"341 Brandon Ridge Suite 106
+Tylerfort, DC 77452",2253942894,collinsdavid@silva.com,5399856,2023-06-13,8,Yearly,7.22,Flat Rate,Monthly,Monthly,Production,False,False,44755784,98,21,Youth,A,True,240,2024-02-08,2023-07-13,2023-08-12,2024-01-01
+Male,Enugu,Agriculture,CAM-100301,CUS-1301,Mandy Morris,Lee Group,1997-07-19,"106 Richard Locks Suite 000
+Danielleside, KS 76705",682.086.0559,robert06@kent.com,6740779,2023-08-30,6,Yearly,17.69,Reducing Balance,Quarterly,Quarterly,Production,True,False,55451460,6,13,Youth,B,True,180,2024-02-26,2023-09-29,2023-10-29,2024-01-01
+Male,Oyo,ICT,CAM-100302,CUS-1302,Danny Kennedy,Hall-Sullivan,1985-01-06,"1698 Greene Fords Apt. 983
+Hodgeton, ID 16917",694-114-5909x429,edgargibbs@hotmail.com,4555957,2023-03-10,9,Monthly,20.42,Reducing Balance,Monthly,Quarterly,Services,False,True,80710185,8,17,Adult,A,False,270,2023-12-05,2023-04-09,2023-05-09,2024-01-01
+Female,Enugu,ICT,CAM-100303,CUS-1303,Carlos Braun,Smith-Mills,1979-09-14,"782 Cooper Motorway Apt. 632
+South Ariel, IL 24899",(277)826-3711x095,thomastraci@yahoo.com,7117488,2023-06-24,45,Yearly,5.06,Reducing Balance,Monthly,Monthly,Production,True,False,5800760,51,23,Adult,C,True,1350,2027-03-05,2023-07-24,2023-08-23,2024-01-01
+Female,Abuja,Manufacturing,CAM-100304,CUS-1304,David Marsh,Sullivan Group,1978-11-01,"1792 Sharon Radial Apt. 877
+South Vincent, HI 67040",+1-709-716-5529x3729,dunncorey@long.net,1097897,2023-02-18,40,Yearly,22.18,Flat Rate,Quarterly,Monthly,Retail,True,False,52059073,11,9,Youth,B,True,1200,2026-06-02,2023-03-20,2023-04-19,2024-01-01
+Male,Rivers,Agriculture,CAM-100305,CUS-1305,Hannah Evans,Griffin LLC,1996-03-06,"PSC 2712, Box 1436
+APO AA 05764",(604)180-8193x8599,jennifersalazar@garcia-steele.com,4441237,2023-04-18,37,Quarterly,8.72,Reducing Balance,Monthly,Monthly,Production,True,True,2975112,63,17,Adult,A,True,1110,2026-05-02,2023-05-18,2023-06-17,2024-01-01
+Female,Kano,Agriculture,CAM-100306,CUS-1306,Brian Rose,"Harper, Lewis and Henderson",2001-10-11,"9611 Michael Walks
+Heidimouth, FL 91681",+1-090-982-7628x4032,berryjennifer@gmail.com,9661408,2023-08-14,47,Quarterly,16.04,Flat Rate,Monthly,Monthly,Production,False,False,98952170,57,29,Adult,B,False,1410,2027-06-24,2023-09-13,2023-10-13,2024-01-01
+Female,Enugu,Health,CAM-100307,CUS-1307,Randall Rodriguez,"Johnson, Copeland and Cook",1979-12-05,"2061 Mckinney Burg
+New Leah, DE 53629",(223)773-2204x4990,xhines@yahoo.com,2542999,2023-06-10,39,Monthly,13.32,Flat Rate,Quarterly,Quarterly,Services,False,False,39587555,12,2,Adult,B,False,1170,2026-08-23,2023-07-10,2023-08-09,2024-01-01
+Female,Rivers,ICT,CAM-100308,CUS-1308,Amy Rasmussen,Hicks-Huynh,1982-03-10,"474 Bryan Flat
+North April, RI 60520",+1-104-654-6395x30220,brianhall@hotmail.com,4159985,2023-04-29,48,Monthly,19.39,Reducing Balance,Monthly,Monthly,Services,True,False,57745877,73,19,Youth,B,False,1440,2027-04-08,2023-05-29,2023-06-28,2024-01-01
+Female,Kano,Agriculture,CAM-100309,CUS-1309,Mandy Ramirez DDS,"Blake, Bush and Ruiz",1978-09-07,"680 Chloe Loop Apt. 381
+East Marc, SC 41584",130.175.8946,sleon@gmail.com,2402897,2023-05-29,30,Monthly,12.42,Reducing Balance,Monthly,Quarterly,Production,True,False,2555839,2,19,Adult,B,False,900,2025-11-14,2023-06-28,2023-07-28,2024-01-01
+Female,Kano,Manufacturing,CAM-100310,CUS-1310,Jade Smith,Martinez Group,1974-01-17,"8021 Sabrina Fields Apt. 202
+South Raymond, ME 25315",+1-497-290-3762,deborah76@norris.com,8519213,2023-05-30,15,Quarterly,22.4,Flat Rate,Monthly,Monthly,Wholesale,False,False,2614101,8,24,Youth,B,True,450,2024-08-22,2023-06-29,2023-07-29,2024-01-01
+Male,Abuja,Manufacturing,CAM-100311,CUS-1311,Mrs. Cynthia Stafford,Graham-Mills,1970-02-18,"79836 Coleman Run
+West Margaretfort, NV 80848",960-730-2895,donaldyang@holmes.com,4076511,2023-10-20,26,Monthly,19.61,Flat Rate,Quarterly,Monthly,Services,False,False,43781921,11,7,Youth,B,False,780,2025-12-08,2023-11-19,2023-12-19,2024-01-01
+Female,Enugu,Agriculture,CAM-100312,CUS-1312,Steven Garcia,Hudson PLC,1991-08-12,"810 Michael Stravenue
+Ramirezborough, AR 54128",001-836-290-1512x1554,meyernancy@maxwell.org,1663950,2023-05-23,51,Monthly,17.95,Reducing Balance,Quarterly,Monthly,Consulting,False,True,51669558,53,22,Adult,B,False,1530,2027-07-31,2023-06-22,2023-07-22,2024-01-01
+Male,Kaduna,ICT,CAM-100313,CUS-1313,Kevin Mccoy,"Brown, Ho and Kelly",1985-01-16,"18623 Holland Valley Suite 591
+Elizabethfurt, DC 85758",+1-660-638-5785x9974,phillipsmartin@lawrence-tran.info,1049148,2023-06-09,44,Monthly,20.92,Reducing Balance,Quarterly,Monthly,Consulting,True,False,14234908,10,10,Youth,C,False,1320,2027-01-19,2023-07-09,2023-08-08,2024-01-01
+Male,Lagos,Manufacturing,CAM-100314,CUS-1314,Mr. Carlos Murray DDS,Jones-Leonard,1974-02-14,"44453 Ross Mountain Apt. 242
+Port Carlos, VT 36377",(211)656-6491x7376,kmunoz@yahoo.com,3273707,2023-01-11,32,Quarterly,20.08,Reducing Balance,Monthly,Monthly,Retail,False,True,62598522,85,10,Adult,C,True,960,2025-08-28,2023-02-10,2023-03-12,2024-01-01
+Female,Abuja,Health,CAM-100315,CUS-1315,Terry Miller,Meadows-Hernandez,1973-03-01,"9136 Joshua Turnpike
+Phillipsbury, NC 43018",+1-441-321-9658x96757,gwarren@hotmail.com,5568002,2023-05-18,32,Yearly,5.72,Flat Rate,Monthly,Quarterly,Production,False,True,23924717,84,27,Youth,B,False,960,2026-01-02,2023-06-17,2023-07-17,2024-01-01
+Male,Abuja,Manufacturing,CAM-100316,CUS-1316,Michelle Stein,"Hubbard, Tran and Holmes",1983-01-24,"77598 Foley Turnpike Suite 445
+Reedland, AR 14887",(619)789-9088x1385,louisweiss@mann.com,3273939,2023-03-19,7,Monthly,12.89,Flat Rate,Monthly,Monthly,Wholesale,True,True,7121632,8,20,Youth,B,False,210,2023-10-15,2023-04-18,2023-05-18,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100317,CUS-1317,Taylor Howell,Guzman LLC,1995-04-02,"4044 Williams Court Suite 741
+New Tracy, OK 82969",959.924.6268,joshuadunn@dunn-davis.org,2435740,2023-03-18,46,Yearly,23.62,Flat Rate,Monthly,Monthly,Retail,True,True,24673937,36,9,Adult,C,True,1380,2026-12-27,2023-04-17,2023-05-17,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100318,CUS-1318,Ronald Davis,"Dyer, Cordova and Campbell",1996-12-04,"9195 Sandra Islands Suite 633
+West Monica, KS 15874",001-809-637-2066x92347,phillipsbenjamin@hotmail.com,3934955,2023-09-11,53,Monthly,7.51,Flat Rate,Quarterly,Monthly,Production,True,False,19328454,93,17,Youth,C,True,1590,2028-01-18,2023-10-11,2023-11-10,2024-01-01
+Female,Rivers,ICT,CAM-100319,CUS-1319,Michelle Murray,Williams-Le,1990-12-25,"3388 Hannah Ferry
+Landryfort, MA 87283",001-241-381-0420x461,lgutierrez@yahoo.com,5436710,2023-09-15,18,Yearly,19.74,Flat Rate,Monthly,Quarterly,Services,False,False,98885696,76,27,Youth,C,True,540,2025-03-08,2023-10-15,2023-11-14,2024-01-01
+Female,Oyo,Agriculture,CAM-100320,CUS-1320,Emily Williams,"Carter, Mathews and Hunter",1981-06-18,"194 Jessica Station
+Aprilton, PA 54525",(500)164-8875,matthew25@yahoo.com,5655872,2023-11-16,14,Quarterly,24.49,Reducing Balance,Monthly,Quarterly,Consulting,True,False,58226686,14,15,Youth,B,True,420,2025-01-09,2023-12-16,2024-01-15,2024-01-01
+Male,Enugu,ICT,CAM-100321,CUS-1321,Carlos Bullock,"Evans, Jenkins and Harris",1994-04-26,"200 Scott Manor Apt. 840
+East William, ME 96942",(563)046-4899x89622,mhughes@owens.org,3677326,2023-10-18,57,Quarterly,6.04,Reducing Balance,Monthly,Quarterly,Wholesale,True,True,79578752,54,2,Adult,A,False,1710,2028-06-23,2023-11-17,2023-12-17,2024-01-01
+Female,Oyo,ICT,CAM-100322,CUS-1322,Melinda Guzman,"Lee, Hill and Sloan",1998-01-09,"68206 Christine Shoals Suite 700
+Stewartmouth, FL 81677",001-982-120-2318x245,jmoses@yahoo.com,2054510,2023-09-20,41,Monthly,18.64,Flat Rate,Quarterly,Quarterly,Consulting,True,False,55226755,85,4,Adult,A,True,1230,2027-02-01,2023-10-20,2023-11-19,2024-01-01
+Female,Rivers,ICT,CAM-100323,CUS-1323,Emily Duncan,Williams-Freeman,1990-01-23,"72295 Moyer Motorway Apt. 252
+Port Nicole, PA 90196",+1-014-123-3692x42904,kcalderon@carter.biz,4263122,2023-03-26,27,Yearly,14.36,Flat Rate,Monthly,Monthly,Services,True,False,23826641,86,19,Youth,A,False,810,2025-06-13,2023-04-25,2023-05-25,2024-01-01
+Female,Abuja,ICT,CAM-100324,CUS-1324,Sean Cortez,Pham-Moss,1991-09-15,"17363 Dennis Springs
+Port Natashaville, WV 15060",276.996.4912,swilliamson@gmail.com,4921590,2023-05-26,47,Quarterly,16.58,Reducing Balance,Monthly,Monthly,Production,False,False,47112602,21,17,Youth,A,False,1410,2027-04-05,2023-06-25,2023-07-25,2024-01-01
+Female,Lagos,Health,CAM-100325,CUS-1325,Michael Spence,"Peterson, Mason and Wheeler",1980-08-14,"0801 Moore Radial Suite 871
+Port Albertmouth, IA 74567",(342)043-8565x66371,mark30@howard.com,3034937,2023-11-19,31,Monthly,6.71,Reducing Balance,Monthly,Monthly,Services,True,True,69643497,50,5,Youth,B,False,930,2026-06-06,2023-12-19,2024-01-18,2024-01-01
+Male,Abuja,Health,CAM-100326,CUS-1326,Brooke Johnson,Contreras PLC,1986-04-21,"6578 James Square Apt. 037
+West Laurenville, UT 47952",052.852.3020x70829,jennifercoleman@gmail.com,1312461,2023-02-11,59,Monthly,5.86,Reducing Balance,Monthly,Quarterly,Services,False,True,74385640,94,7,Adult,A,False,1770,2027-12-17,2023-03-13,2023-04-12,2024-01-01
+Male,Kano,Manufacturing,CAM-100327,CUS-1327,Megan Allen,Ingram and Sons,1982-02-24,"9404 Amanda Summit
+Blackside, CO 67887",2372040477,brandonnelson@stein-jimenez.org,4927036,2023-05-05,17,Quarterly,18.34,Reducing Balance,Monthly,Monthly,Consulting,False,False,20641123,39,18,Adult,C,False,510,2024-09-26,2023-06-04,2023-07-04,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100328,CUS-1328,Sharon Nash,Hill PLC,2004-05-05,"305 Chris Burg
+Oneillview, NJ 42549",(111)009-0644x25236,benjaminbanks@hotmail.com,2218224,2023-06-16,22,Quarterly,21.47,Flat Rate,Quarterly,Monthly,Wholesale,False,True,51782459,20,21,Youth,C,True,660,2025-04-06,2023-07-16,2023-08-15,2024-01-01
+Female,Abuja,ICT,CAM-100329,CUS-1329,Blake Joseph,Miller-Stewart,1979-01-25,"40826 Friedman Grove
+Port Sarah, OR 62009",047-514-1623,peterslisa@gmail.com,3210626,2023-08-29,19,Monthly,20.64,Reducing Balance,Monthly,Quarterly,Services,True,True,63327677,88,22,Adult,A,False,570,2025-03-21,2023-09-28,2023-10-28,2024-01-01
+Male,Rivers,Manufacturing,CAM-100330,CUS-1330,Elizabeth White,"Humphrey, Campos and Shaw",1997-06-11,"349 Acevedo Plains Suite 716
+North Michael, NY 29785",+1-863-102-9324x49408,michael17@yahoo.com,9812652,2023-10-07,19,Yearly,15.88,Flat Rate,Monthly,Quarterly,Consulting,False,False,62036559,87,27,Adult,C,False,570,2025-04-29,2023-11-06,2023-12-06,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100331,CUS-1331,Alan Jones,Snyder-Blackburn,2005-05-19,"USNS Ortiz
+FPO AE 94904",(325)126-9329x8474,sherry24@johnson.com,8406166,2023-07-07,39,Yearly,7.0,Reducing Balance,Monthly,Quarterly,Wholesale,True,True,61642657,7,7,Adult,B,False,1170,2026-09-19,2023-08-06,2023-09-05,2024-01-01
+Female,Rivers,Agriculture,CAM-100332,CUS-1332,Mr. Carlos Williams,Washington PLC,1979-10-17,"Unit 2638 Box 8880
+DPO AE 68468",130-431-9759x5420,qabbott@gmail.com,7810108,2023-10-29,58,Yearly,18.76,Reducing Balance,Monthly,Monthly,Production,True,True,98982614,9,17,Adult,A,True,1740,2028-08-03,2023-11-28,2023-12-28,2024-01-01
+Male,Oyo,Health,CAM-100333,CUS-1333,Dustin Turner,Hernandez-Powell,1990-06-10,"607 Mcintosh Fall Suite 173
+Michealfort, KS 54038",242-407-7260x8035,gouldgabrielle@yahoo.com,6940010,2023-01-19,25,Monthly,9.84,Reducing Balance,Monthly,Monthly,Production,True,False,3120113,1,7,Youth,A,False,750,2025-02-07,2023-02-18,2023-03-20,2024-01-01
+Female,Kano,Trade and Commerce,CAM-100334,CUS-1334,Seth Brown,Francis Group,1969-09-09,"7667 Daniel Club
+Nancystad, AK 24641",001-498-736-2297x400,rfox@gmail.com,9174163,2023-03-09,16,Quarterly,23.22,Flat Rate,Monthly,Quarterly,Retail,False,True,12201961,26,4,Adult,B,False,480,2024-07-01,2023-04-08,2023-05-08,2024-01-01
+Female,Rivers,Agriculture,CAM-100335,CUS-1335,Sean Taylor,Williams PLC,1994-02-01,"34811 Murillo Extensions Apt. 148
+New Margaretport, MO 22503",(924)978-1807x62498,jonesjoseph@gmail.com,944191,2023-08-06,21,Monthly,21.77,Flat Rate,Monthly,Monthly,Consulting,True,True,35104951,38,8,Adult,C,True,630,2025-04-27,2023-09-05,2023-10-05,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100336,CUS-1336,Daniel Walters,Bishop-Moore,1996-03-03,"PSC 4263, Box 1405
+APO AE 07399",469.315.2365x46737,joel35@yahoo.com,2002337,2023-04-12,56,Quarterly,19.19,Reducing Balance,Monthly,Quarterly,Wholesale,True,True,74202252,38,13,Youth,B,False,1680,2027-11-17,2023-05-12,2023-06-11,2024-01-01
+Male,Oyo,Health,CAM-100337,CUS-1337,Cynthia Mcguire,Jackson-Woods,1987-03-10,"USCGC Barker
+FPO AA 35659",001-847-027-4960x4506,evelynnewton@hotmail.com,3986669,2023-02-11,36,Yearly,23.98,Flat Rate,Monthly,Quarterly,Services,True,True,82162231,61,4,Youth,B,False,1080,2026-01-26,2023-03-13,2023-04-12,2024-01-01
+Female,Kaduna,Health,CAM-100338,CUS-1338,Marvin Preston,Williams PLC,1997-06-16,"702 Lopez Ridges Apt. 949
+Aprilland, IL 50425",7525079429,jimmymcmahon@walker-higgins.biz,9809205,2023-10-15,11,Yearly,5.63,Flat Rate,Monthly,Monthly,Production,False,True,92846225,44,6,Adult,C,True,330,2024-09-09,2023-11-14,2023-12-14,2024-01-01
+Female,Lagos,Manufacturing,CAM-100339,CUS-1339,Kayla Collins,Harris PLC,1995-09-29,"971 Anna Roads Apt. 904
+Gregoryborough, LA 41359",(252)127-7806,arroyodaniel@gmail.com,4222946,2023-06-16,24,Quarterly,19.72,Reducing Balance,Quarterly,Quarterly,Wholesale,False,True,65146677,86,25,Adult,B,False,720,2025-06-05,2023-07-16,2023-08-15,2024-01-01
+Male,Enugu,ICT,CAM-100340,CUS-1340,Mr. Andre Graves MD,Evans and Sons,1973-06-18,"5209 Karen Haven
+Ramosside, MI 62585",074-489-1915,fryejohn@adams-vargas.com,7564400,2023-04-19,42,Quarterly,11.6,Reducing Balance,Quarterly,Quarterly,Consulting,False,True,89365744,44,5,Youth,C,False,1260,2026-09-30,2023-05-19,2023-06-18,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100341,CUS-1341,Brandon Reynolds,Wilkerson Ltd,1975-03-09,"44188 Alex Ridge Apt. 361
+New Ian, UT 78042",001-328-262-2726x80059,jwong@burke-andrews.com,724695,2023-02-05,9,Monthly,23.12,Flat Rate,Quarterly,Quarterly,Retail,True,True,30704996,74,12,Youth,C,False,270,2023-11-02,2023-03-07,2023-04-06,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100342,CUS-1342,Jose Berger,Wood-Sloan,1990-10-22,"985 Cook Neck Suite 580
+East Kevintown, MO 89060",460.298.7057,ashleyburns@henson-aguilar.com,3941628,2023-08-20,52,Yearly,10.33,Flat Rate,Quarterly,Monthly,Production,False,False,85050790,62,4,Youth,B,False,1560,2027-11-27,2023-09-19,2023-10-19,2024-01-01
+Female,Rivers,Agriculture,CAM-100343,CUS-1343,Lisa Mann,Johnson Group,1971-09-19,"7705 Wells Mountains
+South Matthewstad, IL 52702",001-827-340-3415x0325,sandyvaldez@colon-doyle.com,9990452,2023-08-17,9,Monthly,19.5,Flat Rate,Monthly,Quarterly,Wholesale,True,False,13047100,6,24,Adult,C,False,270,2024-05-13,2023-09-16,2023-10-16,2024-01-01
+Male,Kaduna,Health,CAM-100344,CUS-1344,Joshua Mathis,"Gray, Mclaughlin and Ruiz",1990-09-05,"PSC 1306, Box 3802
+APO AA 19548",(493)054-3214,williamskelly@yahoo.com,8052975,2023-12-19,25,Monthly,22.55,Reducing Balance,Quarterly,Quarterly,Wholesale,True,False,40199721,17,29,Adult,B,True,750,2026-01-07,2024-01-18,2024-02-17,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100345,CUS-1345,James Flores,Ross PLC,1990-06-13,"1755 Martin Wells Apt. 666
+North Denise, IL 66576",117-947-2956,jtaylor@hotmail.com,8623236,2023-06-13,15,Monthly,5.83,Reducing Balance,Quarterly,Quarterly,Wholesale,False,False,12531792,51,9,Youth,C,True,450,2024-09-05,2023-07-13,2023-08-12,2024-01-01
+Male,Oyo,Health,CAM-100346,CUS-1346,Gary Boyer,Dunn-Kim,1971-11-07,"962 Nicholas Overpass Suite 501
+Graychester, MD 82295",001-334-597-5123x0895,christopherhall@hotmail.com,8261850,2023-03-14,29,Yearly,12.95,Flat Rate,Monthly,Quarterly,Consulting,True,True,78002382,38,4,Adult,A,True,870,2025-07-31,2023-04-13,2023-05-13,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100347,CUS-1347,Mary Morales,Hampton Ltd,1972-12-09,"8238 Micheal Lane Suite 800
+Edwardburgh, TX 62484",896.248.3789,dorothythompson@hotmail.com,3840216,2023-05-16,59,Monthly,20.25,Reducing Balance,Quarterly,Quarterly,Consulting,False,False,97716246,24,19,Youth,C,False,1770,2028-03-20,2023-06-15,2023-07-15,2024-01-01
+Female,Enugu,Manufacturing,CAM-100348,CUS-1348,Joe Miller,Jones-Roberson,1989-08-10,"035 Allison Circles Apt. 586
+Kellybury, NE 76113",(646)138-2313x84647,pgarcia@sanchez-green.com,4333284,2023-12-19,40,Monthly,14.1,Reducing Balance,Quarterly,Quarterly,Consulting,True,False,67875125,51,24,Adult,C,False,1200,2027-04-02,2024-01-18,2024-02-17,2024-01-01
+Male,Kano,ICT,CAM-100349,CUS-1349,Mrs. Amanda Lopez,Turner Inc,1979-02-08,"47849 Morgan Spurs
+Martinfort, KS 08792",(194)404-5404x684,eevans@little-wade.com,2347865,2023-03-11,31,Monthly,10.35,Flat Rate,Monthly,Quarterly,Services,False,True,44566130,10,14,Youth,B,False,930,2025-09-26,2023-04-10,2023-05-10,2024-01-01
+Female,Rivers,Trade and Commerce,CAM-100350,CUS-1350,Kelly Wu,"Acosta, Pierce and Brooks",1996-11-23,"8106 Sullivan Course Suite 539
+North Jamesfurt, GA 68725",783-035-0442x7845,morganhunt@scott.com,8086725,2023-07-15,42,Monthly,9.4,Flat Rate,Monthly,Monthly,Wholesale,True,True,4029341,72,5,Youth,C,True,1260,2026-12-26,2023-08-14,2023-09-13,2024-01-01
+Male,Kaduna,Health,CAM-100351,CUS-1351,Lisa Meyer,"Johnson, Shea and Zavala",1997-07-08,"59731 Wesley Square
+Grantport, DE 29185",001-767-143-3763x2775,nlang@barber.net,9808092,2023-09-26,43,Monthly,7.63,Reducing Balance,Monthly,Monthly,Production,True,True,17962977,21,18,Adult,A,False,1290,2027-04-08,2023-10-26,2023-11-25,2024-01-01
+Male,Oyo,Manufacturing,CAM-100352,CUS-1352,Nathan Ward,"Anderson, Watkins and Nash",1997-12-08,"58985 Martin Lane Suite 389
+Lake Theresa, MI 19428",+1-977-811-4773x788,ehansen@davis-hudson.com,5397954,2023-02-18,26,Monthly,22.14,Reducing Balance,Quarterly,Quarterly,Consulting,True,True,29692739,70,10,Adult,A,False,780,2025-04-08,2023-03-20,2023-04-19,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100353,CUS-1353,Felicia Smith,Lloyd-Buck,1982-07-18,"USCGC Wright
+FPO AP 85721",(235)933-9073,darren98@hotmail.com,4517136,2023-11-12,59,Yearly,16.51,Flat Rate,Quarterly,Monthly,Consulting,True,True,88288194,85,25,Adult,C,False,1770,2028-09-16,2023-12-12,2024-01-11,2024-01-01
+Female,Kano,Agriculture,CAM-100354,CUS-1354,Emily Morales,"Christensen, Rodriguez and Osborne",1988-08-25,"93329 Laura Orchard
+South Jeremy, ME 33535",+1-536-591-7757x69865,patricia02@norris.com,844855,2023-05-10,45,Monthly,6.53,Reducing Balance,Monthly,Monthly,Wholesale,True,False,64200055,57,19,Adult,C,True,1350,2027-01-19,2023-06-09,2023-07-09,2024-01-01
+Male,Abuja,ICT,CAM-100355,CUS-1355,Allison Fisher,Owens-Lawrence,1987-05-16,"0617 Nancy Spur
+Lake Richard, MN 04319",074-824-8744x855,wernerdavid@wilson.com,6250283,2023-01-05,44,Quarterly,12.65,Reducing Balance,Monthly,Quarterly,Consulting,False,True,37324049,39,12,Adult,A,True,1320,2026-08-17,2023-02-04,2023-03-06,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100356,CUS-1356,Alex Brooks,Wood Ltd,1996-10-21,"1058 Mccullough Mountains
+Brookeberg, DE 18961",001-183-803-0870,harold89@pratt-zimmerman.com,1574961,2023-01-27,26,Monthly,12.35,Flat Rate,Quarterly,Monthly,Services,True,False,79936233,88,18,Adult,B,False,780,2025-03-17,2023-02-26,2023-03-28,2024-01-01
+Female,Kano,Manufacturing,CAM-100357,CUS-1357,Adam Humphrey,Miller and Sons,1973-11-01,"9468 Ann Terrace Suite 199
+Lake Joseside, OH 32786",(293)171-5312x0736,melissalee@zhang.com,5125678,2023-06-09,15,Monthly,8.63,Flat Rate,Monthly,Quarterly,Services,False,False,21625255,33,17,Youth,A,False,450,2024-09-01,2023-07-09,2023-08-08,2024-01-01
+Male,Enugu,Agriculture,CAM-100358,CUS-1358,Larry Mann,Gamble PLC,2002-06-26,"1045 Copeland Rapids
+West Thomaston, NC 07293",+1-996-766-7081,carl04@yahoo.com,2877935,2023-05-29,43,Yearly,13.71,Reducing Balance,Quarterly,Quarterly,Consulting,False,True,7369337,59,24,Adult,A,False,1290,2026-12-09,2023-06-28,2023-07-28,2024-01-01
+Male,Oyo,Manufacturing,CAM-100359,CUS-1359,Thomas Sharp,Rodriguez Ltd,1986-02-20,"34351 Nguyen Branch Apt. 539
+Tylerbury, TX 95085",001-576-364-2071x936,jennifer95@hotmail.com,1634106,2023-09-21,51,Yearly,11.64,Reducing Balance,Monthly,Quarterly,Wholesale,False,False,32687424,18,11,Youth,C,True,1530,2027-11-29,2023-10-21,2023-11-20,2024-01-01
+Female,Kano,Manufacturing,CAM-100360,CUS-1360,Rodney Hall,Hubbard-Blevins,1979-07-15,"2513 Carter Points
+Darleneview, CT 74696",001-729-454-4943x7472,tayloranderson@yang.org,8796877,2023-08-18,9,Quarterly,11.84,Reducing Balance,Monthly,Quarterly,Wholesale,True,False,51402947,56,3,Youth,C,True,270,2024-05-14,2023-09-17,2023-10-17,2024-01-01
+Male,Rivers,Agriculture,CAM-100361,CUS-1361,John Pearson,Owens Group,1987-11-10,"4540 Sharon Knolls Suite 968
+New Marymouth, MD 96597",(914)433-9626,qhiggins@gmail.com,2974968,2023-07-19,50,Quarterly,19.78,Flat Rate,Quarterly,Quarterly,Wholesale,True,True,61187251,92,23,Adult,A,True,1500,2027-08-27,2023-08-18,2023-09-17,2024-01-01
+Male,Rivers,Manufacturing,CAM-100362,CUS-1362,Adam Cline,King-White,1990-01-04,"5341 Duncan Summit Apt. 468
+Vasquezside, KS 60140",+1-026-166-6800,hansengregory@williams-buck.com,6666160,2023-02-19,25,Yearly,9.47,Reducing Balance,Monthly,Monthly,Retail,True,False,84344817,57,17,Youth,B,False,750,2025-03-10,2023-03-21,2023-04-20,2024-01-01
+Female,Abuja,Agriculture,CAM-100363,CUS-1363,Jesus Vaughn,Powell-Lynch,1991-04-30,"07331 Natalie Harbor Apt. 324
+Ramirezview, VA 62240",1013002820,thompsonjoseph@yahoo.com,6172540,2023-03-08,22,Yearly,17.84,Reducing Balance,Monthly,Quarterly,Consulting,False,False,17534442,96,1,Youth,A,True,660,2024-12-27,2023-04-07,2023-05-07,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100364,CUS-1364,Taylor Ramirez,"Jackson, Brown and Wagner",1994-07-03,"12802 Daniel Pass Apt. 149
+Johnsonside, TN 72714",(743)712-1377x768,jacquelinebruce@villa-gonzalez.info,6144807,2023-10-27,12,Monthly,16.41,Flat Rate,Monthly,Monthly,Wholesale,True,False,75336604,76,15,Adult,A,False,360,2024-10-21,2023-11-26,2023-12-26,2024-01-01
+Male,Oyo,Agriculture,CAM-100365,CUS-1365,Randy Owens,"Huff, Smith and Green",1999-07-26,"0278 Everett Mills
+Mariatown, NM 49369",892.773.4158,bianca48@wilson.biz,6472558,2023-02-27,9,Yearly,16.36,Flat Rate,Quarterly,Quarterly,Services,True,True,83054612,48,28,Adult,B,False,270,2023-11-24,2023-03-29,2023-04-28,2024-01-01
+Female,Abuja,Agriculture,CAM-100366,CUS-1366,Thomas Smith,"Richards, Bailey and Sanford",1994-04-09,"323 Leblanc Gateway Apt. 599
+Port Courtney, MO 58775",400.105.8546x9462,davidbishop@lee-robles.com,2942266,2023-09-16,34,Quarterly,18.26,Reducing Balance,Monthly,Quarterly,Production,False,True,16649817,42,9,Adult,A,True,1020,2026-07-02,2023-10-16,2023-11-15,2024-01-01
+Female,Kaduna,ICT,CAM-100367,CUS-1367,Benjamin Murphy,"Watson, Turner and Frazier",1983-01-17,"3439 Johnson Drive Suite 305
+Raymondville, NE 79752",996.221.3694x2232,jeffreycalhoun@hotmail.com,4937677,2023-12-08,19,Monthly,15.97,Flat Rate,Monthly,Quarterly,Production,False,True,9857997,27,15,Youth,A,False,570,2025-06-30,2024-01-07,2024-02-06,2024-01-01
+Male,Kaduna,Agriculture,CAM-100368,CUS-1368,Gilbert Higgins,Carpenter-Mcguire,2003-11-24,"83556 Bowers Tunnel
+East Courtneyview, CO 23023",294.284.1295x99044,nadams@rodriguez-hudson.com,5741218,2023-11-22,8,Quarterly,22.59,Flat Rate,Monthly,Monthly,Wholesale,False,False,66473608,74,28,Adult,C,True,240,2024-07-19,2023-12-22,2024-01-21,2024-01-01
+Male,Rivers,Agriculture,CAM-100369,CUS-1369,David Thomas,Nguyen-Marquez,2003-08-08,"8131 Cook Bridge
+Hesterview, MA 16426",(477)418-8373,nancy76@williams.com,5650635,2023-05-10,29,Monthly,18.51,Reducing Balance,Monthly,Quarterly,Production,False,True,31988602,52,24,Adult,B,False,870,2025-09-26,2023-06-09,2023-07-09,2024-01-01
+Female,Enugu,Trade and Commerce,CAM-100370,CUS-1370,Wendy Carroll,"Alexander, Garrett and Garcia",1996-12-26,"14937 Kevin Ridges Suite 381
+Johnsonmouth, MS 35608",+1-171-499-0358,andrew37@yahoo.com,5981140,2023-08-03,42,Yearly,15.94,Flat Rate,Monthly,Quarterly,Production,False,False,59472430,42,28,Adult,C,False,1260,2027-01-14,2023-09-02,2023-10-02,2024-01-01
+Female,Lagos,ICT,CAM-100371,CUS-1371,Charles Mitchell,Baker-Oliver,1971-06-08,"13956 Alexis Village Apt. 814
+Jamieshire, ID 75378",(190)760-9592,andrew70@carpenter.biz,7714615,2023-06-21,21,Quarterly,21.6,Flat Rate,Monthly,Quarterly,Retail,False,True,73048489,32,29,Adult,C,True,630,2025-03-12,2023-07-21,2023-08-20,2024-01-01
+Female,Enugu,Health,CAM-100372,CUS-1372,Andrew Black,Martinez Group,1985-11-13,"9267 Mary Valley Suite 266
+North Brittanyport, DC 06347",(991)358-9014x377,shawdavid@gmail.com,8510643,2023-09-15,57,Monthly,17.12,Reducing Balance,Quarterly,Quarterly,Services,True,False,70738482,26,3,Youth,B,False,1710,2028-05-21,2023-10-15,2023-11-14,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100373,CUS-1373,Eric Kennedy,Fry Inc,1970-03-03,"40473 Evans Dale Suite 682
+Walkerfort, SC 69972",4764997263,ghart@hotmail.com,5481262,2023-04-12,9,Monthly,10.82,Flat Rate,Quarterly,Monthly,Services,False,True,29355826,25,22,Adult,B,False,270,2024-01-07,2023-05-12,2023-06-11,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100374,CUS-1374,James Murray,"Glover, Obrien and Griffin",1988-04-11,"194 Nicholas Cliffs Suite 866
+Beardburgh, MS 20810",261.249.7352x48084,patrickparker@scott.com,5025208,2023-07-28,29,Yearly,9.14,Reducing Balance,Monthly,Quarterly,Retail,True,True,80490821,75,27,Youth,A,False,870,2025-12-14,2023-08-27,2023-09-26,2024-01-01
+Female,Rivers,Health,CAM-100375,CUS-1375,Jennifer Thompson,Fry-Martinez,1999-11-24,"50717 Theresa Mountains
+Carrtown, AL 00545",877-317-1822x7432,xpage@barnett.com,5790717,2023-10-18,39,Yearly,8.05,Reducing Balance,Quarterly,Monthly,Retail,True,False,66526295,23,19,Adult,C,False,1170,2026-12-31,2023-11-17,2023-12-17,2024-01-01
+Female,Kaduna,Agriculture,CAM-100376,CUS-1376,Dr. Elaine Tanner,Montgomery-Gregory,1993-11-14,"119 Justin Rapids
+Kendrahaven, WY 64703",749-151-8661x262,brewerjesus@gmail.com,1018349,2023-12-20,35,Yearly,22.99,Flat Rate,Quarterly,Quarterly,Production,True,True,28408346,98,13,Youth,B,False,1050,2026-11-04,2024-01-19,2024-02-18,2024-01-01
+Male,Oyo,Manufacturing,CAM-100377,CUS-1377,Stanley Ramos,Vasquez-Martin,1998-11-11,"9005 Duran Path
+East Cherylland, NM 19936",426-744-6141x2537,john96@yahoo.com,3381990,2023-10-13,23,Quarterly,19.2,Flat Rate,Monthly,Monthly,Consulting,False,False,4568101,57,12,Youth,C,False,690,2025-09-02,2023-11-12,2023-12-12,2024-01-01
+Female,Lagos,ICT,CAM-100378,CUS-1378,Judith Cervantes,Walker Group,1975-10-16,"857 Shaw Passage
+New Angela, SC 86242",902-851-4936x68839,mosesfelicia@yahoo.com,1297968,2023-04-26,24,Monthly,23.75,Flat Rate,Quarterly,Monthly,Production,True,True,61686581,52,20,Youth,C,False,720,2025-04-15,2023-05-26,2023-06-25,2024-01-01
+Male,Enugu,Manufacturing,CAM-100379,CUS-1379,Cameron Woods,Welch Inc,1983-10-04,"0448 Laura Way Apt. 310
+North Alexander, FL 99602",(614)493-7237,robin60@gmail.com,8392861,2023-09-21,36,Yearly,17.07,Reducing Balance,Quarterly,Quarterly,Retail,False,True,98272624,87,1,Adult,B,False,1080,2026-09-05,2023-10-21,2023-11-20,2024-01-01
+Female,Kaduna,Health,CAM-100380,CUS-1380,Kelly Rice,"Hoffman, Morgan and Clarke",1974-02-22,"3176 Meghan Ports Suite 913
+South Tammy, ID 11057",+1-847-028-0327,browntravis@yahoo.com,8967691,2023-05-30,24,Quarterly,14.47,Flat Rate,Quarterly,Quarterly,Services,False,False,53629424,93,21,Youth,A,True,720,2025-05-19,2023-06-29,2023-07-29,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100381,CUS-1381,Stanley Parrish,Hays PLC,1990-06-08,"425 Cox Haven Apt. 820
+Aguirreton, ID 76422",001-636-331-3100x4500,kellywilliams@gmail.com,6711411,2023-10-27,54,Quarterly,6.19,Reducing Balance,Quarterly,Monthly,Production,True,False,65640087,31,17,Adult,C,True,1620,2028-04-03,2023-11-26,2023-12-26,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100382,CUS-1382,Denise Barnes,"Hunt, Cooper and Smith",1989-02-13,"81656 Herrera Ford Suite 955
+East Steve, ID 31610",806.730.3819x4206,leonardrobert@lewis-green.com,3155971,2023-02-05,51,Quarterly,18.43,Flat Rate,Quarterly,Quarterly,Consulting,False,False,29207039,64,13,Adult,B,False,1530,2027-04-15,2023-03-07,2023-04-06,2024-01-01
+Male,Lagos,ICT,CAM-100383,CUS-1383,Patricia Larson,"Brown, Herrera and Hutchinson",1970-01-02,"242 Thomas Park
+Garzashire, NE 18112",+1-622-696-2891x017,sellis@hotmail.com,6109125,2023-11-29,24,Yearly,16.64,Flat Rate,Quarterly,Quarterly,Production,True,True,26423854,71,1,Adult,A,False,720,2025-11-18,2023-12-29,2024-01-28,2024-01-01
+Male,Oyo,Trade and Commerce,CAM-100384,CUS-1384,Matthew Torres,"Stanley, Anderson and Long",1999-03-10,"328 Dalton Canyon Suite 258
+South Shannonmouth, PA 80743",+1-001-456-2038x4135,william25@weber.org,3374299,2023-10-14,27,Yearly,24.8,Flat Rate,Quarterly,Quarterly,Wholesale,True,False,96082005,33,10,Adult,C,True,810,2026-01-01,2023-11-13,2023-12-13,2024-01-01
+Female,Rivers,Trade and Commerce,CAM-100385,CUS-1385,Keith Benson,Brown-Thomas,1987-02-19,"70445 Hall Terrace Apt. 079
+Mathisville, DE 57122",+1-708-986-9483x9227,monicaphillips@gmail.com,7839838,2023-10-30,29,Monthly,9.78,Reducing Balance,Quarterly,Monthly,Production,False,True,45426742,85,15,Adult,B,False,870,2026-03-18,2023-11-29,2023-12-29,2024-01-01
+Male,Oyo,ICT,CAM-100386,CUS-1386,Ryan Richard,Robles and Sons,2003-11-10,"65685 Michael Station Apt. 923
+North Paulfort, AK 93103",001-166-786-4447x204,john27@moyer-torres.com,7830292,2023-11-07,50,Monthly,15.61,Flat Rate,Monthly,Quarterly,Retail,True,False,24224699,2,27,Youth,C,True,1500,2027-12-16,2023-12-07,2024-01-06,2024-01-01
+Male,Abuja,ICT,CAM-100387,CUS-1387,Brandon Lin,"Robbins, Murphy and Hogan",1990-11-19,"0063 Casey Manor
+Lake Ronaldshire, WI 65415",001-586-698-9451,robyngibson@fuentes.com,2304673,2023-07-27,17,Yearly,18.02,Flat Rate,Monthly,Quarterly,Services,True,False,49866466,18,27,Adult,B,True,510,2024-12-18,2023-08-26,2023-09-25,2024-01-01
+Male,Kaduna,Health,CAM-100388,CUS-1388,Matthew Black,Morales and Sons,1980-04-06,"4579 Jennings Circles Suite 934
+Clarkberg, MO 55644",(540)727-2785,ugraham@yahoo.com,3438199,2023-04-16,35,Quarterly,17.89,Reducing Balance,Quarterly,Quarterly,Services,True,False,85849789,47,7,Youth,B,True,1050,2026-03-01,2023-05-16,2023-06-15,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100389,CUS-1389,Kenneth Carlson,Navarro PLC,1978-11-19,"PSC 8829, Box 1229
+APO AA 37828",9041538630,martintara@hotmail.com,8094378,2023-06-07,43,Quarterly,16.23,Reducing Balance,Quarterly,Monthly,Retail,False,False,10018205,33,28,Youth,C,False,1290,2026-12-18,2023-07-07,2023-08-06,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100390,CUS-1390,Laura Marquez,Wilson PLC,1970-02-05,"55115 Sanchez Haven Suite 991
+South Jamesborough, IN 47856",755.457.6391,angelrogers@roberts.com,9498604,2023-05-01,58,Quarterly,20.54,Flat Rate,Monthly,Quarterly,Wholesale,True,False,6928476,98,22,Youth,C,False,1740,2028-02-04,2023-05-31,2023-06-30,2024-01-01
+Male,Rivers,Health,CAM-100391,CUS-1391,Melissa Brown,Marshall-Delgado,1999-11-25,"PSC 2038, Box 4492
+APO AA 67416",+1-074-196-3218x50878,vford@rose.com,5409776,2023-02-24,36,Monthly,9.1,Flat Rate,Quarterly,Monthly,Retail,False,False,5886613,84,18,Youth,B,False,1080,2026-02-08,2023-03-26,2023-04-25,2024-01-01
+Female,Enugu,Agriculture,CAM-100392,CUS-1392,Ryan Burke,"Morris, Johnson and Vance",1981-08-05,"53818 Mendoza Drive
+Jenniferburgh, KY 48926",671.207.0945x54931,andrewibarra@smith.com,9667121,2023-01-12,41,Quarterly,19.51,Flat Rate,Quarterly,Quarterly,Production,False,True,39564874,35,16,Youth,A,True,1230,2026-05-26,2023-02-11,2023-03-13,2024-01-01
+Female,Rivers,Agriculture,CAM-100393,CUS-1393,Rose Hernandez,Cross-Erickson,1987-09-12,"907 Amanda Tunnel Apt. 892
+Elizabethside, RI 99796",001-997-889-5775x42357,joseph31@hotmail.com,3803389,2023-05-25,24,Monthly,17.39,Reducing Balance,Monthly,Monthly,Retail,True,False,82143858,51,14,Youth,C,True,720,2025-05-14,2023-06-24,2023-07-24,2024-01-01
+Male,Oyo,Agriculture,CAM-100394,CUS-1394,Sherry Norris,Krueger-Salas,2003-07-12,"8372 Melissa Springs
+Dixonchester, IN 03979",001-178-356-1043,john55@peters.com,8525407,2023-05-16,53,Monthly,22.92,Reducing Balance,Monthly,Quarterly,Retail,True,True,77831720,18,27,Youth,B,True,1590,2027-09-22,2023-06-15,2023-07-15,2024-01-01
+Female,Rivers,Health,CAM-100395,CUS-1395,Derek Davis,Hill and Sons,1989-07-31,"Unit 8503 Box 2446
+DPO AE 69861",(479)127-7743x681,buchanangeorge@hotmail.com,4854385,2023-01-03,50,Quarterly,21.94,Reducing Balance,Monthly,Quarterly,Wholesale,False,False,26873513,88,28,Adult,B,False,1500,2027-02-11,2023-02-02,2023-03-04,2024-01-01
+Female,Kano,Trade and Commerce,CAM-100396,CUS-1396,Gina Allison,Lee-Carney,2001-03-25,"43640 Deanna Lakes Suite 123
+Ortizmouth, AR 37455",+1-158-994-9028x6543,cruzcarrie@gmail.com,9277198,2023-05-24,41,Quarterly,11.3,Reducing Balance,Quarterly,Monthly,Production,False,False,58052321,72,18,Youth,A,True,1230,2026-10-05,2023-06-23,2023-07-23,2024-01-01
+Female,Kaduna,Health,CAM-100397,CUS-1397,Shane Webb,Love LLC,1975-05-15,"Unit 8593 Box 5414
+DPO AA 70045",(930)487-2951x09010,melissasimmons@gmail.com,3651882,2023-01-30,35,Yearly,10.52,Flat Rate,Quarterly,Monthly,Consulting,True,False,70302366,30,27,Adult,A,True,1050,2025-12-15,2023-03-01,2023-03-31,2024-01-01
+Female,Rivers,Health,CAM-100398,CUS-1398,Lee Martinez,Tucker Ltd,1972-11-17,"USS Edwards
+FPO AA 10917",6334933704,williamgray@yahoo.com,3710016,2023-08-25,54,Yearly,24.63,Reducing Balance,Monthly,Monthly,Consulting,True,True,93908497,44,7,Youth,A,False,1620,2028-01-31,2023-09-24,2023-10-24,2024-01-01
+Male,Kaduna,Agriculture,CAM-100399,CUS-1399,Mr. Jose Crawford PhD,Smith Group,1993-05-21,"446 French Mountain
+West Emily, TX 94394",510-594-1625x0825,timbell@santiago.org,7237320,2023-10-06,38,Quarterly,15.55,Reducing Balance,Monthly,Quarterly,Services,False,True,72438646,53,17,Youth,C,True,1140,2026-11-19,2023-11-05,2023-12-05,2024-01-01
+Female,Kano,Manufacturing,CAM-100400,CUS-1400,George Warren,"Beck, Howard and Carter",1977-02-07,"3361 Laura Centers Apt. 844
+South Kennethside, ID 44396",024.816.4432x5854,julian56@wang.com,2889383,2023-12-14,23,Monthly,23.13,Reducing Balance,Quarterly,Quarterly,Retail,False,False,74225040,10,29,Youth,B,True,690,2025-11-03,2024-01-13,2024-02-12,2024-01-01
+Female,Kano,Trade and Commerce,CAM-100401,CUS-1401,Chelsea Miller,Campbell PLC,2000-04-17,"886 Sue Motorway Apt. 827
+Lake Ronaldburgh, NM 39583",001-848-411-9323,traceycarter@stanton-kelly.com,7496746,2023-04-25,57,Monthly,8.28,Flat Rate,Monthly,Quarterly,Services,False,True,11143589,87,18,Youth,B,False,1710,2027-12-30,2023-05-25,2023-06-24,2024-01-01
+Male,Kaduna,Agriculture,CAM-100402,CUS-1402,Desiree Morgan,Gamble-Barron,2003-05-16,"51125 Oscar Forest Apt. 151
+Robertfurt, AL 16398",(093)413-2566x487,regina42@yahoo.com,664053,2023-04-14,54,Monthly,17.86,Flat Rate,Quarterly,Quarterly,Wholesale,False,False,35935757,52,12,Adult,B,False,1620,2027-09-20,2023-05-14,2023-06-13,2024-01-01
+Male,Lagos,Manufacturing,CAM-100403,CUS-1403,James Khan,Little-Townsend,1989-03-19,"488 Emily Mountain Apt. 368
+Port Benjaminport, OK 25868",+1-918-644-3291x504,watsonalexandria@simpson-collins.com,6473544,2023-04-28,33,Monthly,21.2,Reducing Balance,Quarterly,Monthly,Consulting,False,False,78310998,49,8,Adult,A,True,990,2026-01-12,2023-05-28,2023-06-27,2024-01-01
+Female,Abuja,Manufacturing,CAM-100404,CUS-1404,Shane Caldwell,Hoover-Kelley,1975-04-10,"01425 Ashley Lakes Suite 063
+Heatherville, ME 70866",001-679-224-1486x76042,ptorres@figueroa-quinn.com,5782379,2023-01-05,52,Monthly,23.95,Reducing Balance,Monthly,Quarterly,Retail,True,True,36517976,11,22,Adult,B,False,1560,2027-04-14,2023-02-04,2023-03-06,2024-01-01
+Female,Enugu,ICT,CAM-100405,CUS-1405,Hector Krause,"Gardner, Lawson and Matthews",1990-06-15,"400 Foster Ramp Apt. 793
+Matachester, WY 47372",+1-773-588-4169x913,zmartinez@hotmail.com,3042637,2023-12-26,16,Yearly,11.75,Flat Rate,Monthly,Quarterly,Wholesale,False,True,4426062,66,2,Youth,C,True,480,2025-04-19,2024-01-25,2024-02-24,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100406,CUS-1406,Kathleen Carter,Kerr-Edwards,1988-02-08,"55618 William Meadow
+Lesliemouth, OK 18829",(113)042-7699,jgiles@smith.com,8533951,2023-09-05,59,Quarterly,19.5,Flat Rate,Quarterly,Quarterly,Wholesale,False,True,10209517,58,7,Youth,A,False,1770,2028-07-10,2023-10-05,2023-11-04,2024-01-01
+Female,Lagos,Manufacturing,CAM-100407,CUS-1407,Michelle Werner,Carter-Boyd,1999-04-01,"39080 Lawson Vista
+Pierceberg, TN 75724",+1-743-911-0528x08811,pricepatricia@lopez.com,8607317,2023-12-30,50,Yearly,15.78,Flat Rate,Monthly,Quarterly,Retail,True,True,43049527,90,4,Youth,A,True,1500,2028-02-07,2024-01-29,2024-02-28,2024-01-01
+Female,Oyo,Agriculture,CAM-100408,CUS-1408,Amanda Miller,Mitchell Group,1989-02-18,"525 Christopher Route Suite 374
+Walterborough, VT 68783",+1-394-133-8764x79582,amberdougherty@roman-butler.org,4658549,2023-11-17,38,Monthly,6.21,Flat Rate,Monthly,Quarterly,Wholesale,True,False,44548791,36,18,Adult,A,False,1140,2026-12-31,2023-12-17,2024-01-16,2024-01-01
+Female,Enugu,ICT,CAM-100409,CUS-1409,Chelsey Baker,Chambers-Edwards,1982-09-06,"7747 John Flats Suite 612
+New Michael, NH 97397",738-249-6915,brownjeffrey@mercer.com,5030889,2023-05-01,22,Monthly,18.8,Flat Rate,Monthly,Quarterly,Retail,False,True,12127222,33,28,Youth,A,True,660,2025-02-19,2023-05-31,2023-06-30,2024-01-01
+Male,Enugu,Trade and Commerce,CAM-100410,CUS-1410,Nancy Palmer,"Osborn, Moyer and Reed",1982-03-23,"95869 Mann Gardens Apt. 483
+Lake Scott, MS 93321",3587985631,webblawrence@west.info,8911039,2023-10-13,11,Monthly,18.8,Flat Rate,Monthly,Quarterly,Retail,False,True,61193912,47,6,Adult,C,False,330,2024-09-07,2023-11-12,2023-12-12,2024-01-01
+Female,Lagos,Health,CAM-100411,CUS-1411,Ashlee Sellers,Vasquez-Perkins,1973-06-12,"252 Bowman Bridge Suite 948
+Clarkland, KY 40214",(633)633-5218x54062,sblack@hotmail.com,9535616,2023-05-29,9,Monthly,23.61,Flat Rate,Quarterly,Monthly,Production,True,False,36512811,13,27,Adult,B,False,270,2024-02-23,2023-06-28,2023-07-28,2024-01-01
+Female,Rivers,Agriculture,CAM-100412,CUS-1412,Kim Cooper,Maldonado-Mcbride,1997-04-23,"35232 Mark Trafficway
+Riveraland, VT 05736",1520391665,morganamanda@clay.org,9462049,2023-03-25,25,Quarterly,14.95,Flat Rate,Quarterly,Quarterly,Services,False,True,91155041,40,9,Youth,C,False,750,2025-04-13,2023-04-24,2023-05-24,2024-01-01
+Male,Oyo,Manufacturing,CAM-100413,CUS-1413,Eric Rivers,Thomas Inc,1984-06-16,"8454 Jennings Port
+Taylorville, CT 11049",659.109.4971x219,lewisjulie@salinas.com,8784960,2023-08-19,53,Monthly,9.61,Reducing Balance,Quarterly,Quarterly,Wholesale,False,True,15655842,89,27,Youth,B,False,1590,2027-12-26,2023-09-18,2023-10-18,2024-01-01
+Male,Oyo,Manufacturing,CAM-100414,CUS-1414,Guy Peterson,Benjamin-Collier,1993-03-15,"423 Chelsea Ville
+Lake Julie, MI 98492",8431841491,phillipsangela@yahoo.com,2549949,2023-10-15,52,Quarterly,5.89,Reducing Balance,Quarterly,Quarterly,Wholesale,True,True,48754929,68,9,Adult,C,False,1560,2028-01-22,2023-11-14,2023-12-14,2024-01-01
+Male,Kano,Agriculture,CAM-100415,CUS-1415,Alex Ortega,Aguilar-Fernandez,2004-10-12,"7951 Cynthia Island
+Amberside, IL 09386",674-516-5405x2906,dana59@yahoo.com,8888512,2023-06-10,32,Monthly,13.31,Reducing Balance,Monthly,Quarterly,Production,False,True,13290492,42,14,Adult,A,False,960,2026-01-25,2023-07-10,2023-08-09,2024-01-01
+Male,Enugu,Manufacturing,CAM-100416,CUS-1416,Dennis Mercado,Crawford Inc,1988-05-31,"USNS Johnson
+FPO AE 53565",333-224-1301x340,slittle@hotmail.com,1768300,2023-09-29,20,Quarterly,11.04,Reducing Balance,Monthly,Monthly,Production,True,False,51347456,19,8,Adult,A,False,600,2025-05-21,2023-10-29,2023-11-28,2024-01-01
+Female,Lagos,ICT,CAM-100417,CUS-1417,Scott Maldonado,Williams-Williams,1974-06-17,"1788 Joshua Crest
+Alexanderland, WI 23275",+1-290-897-7381x83869,zbennett@yahoo.com,2447763,2023-02-07,11,Yearly,20.22,Reducing Balance,Quarterly,Monthly,Production,True,False,39581619,82,19,Youth,C,True,330,2024-01-03,2023-03-09,2023-04-08,2024-01-01
+Female,Kano,Trade and Commerce,CAM-100418,CUS-1418,Lisa Mendoza,Scott PLC,1970-05-05,"459 Diana Cove
+New Ethanland, DC 45074",411.496.0606x261,nortonshannon@burke.org,8154502,2023-08-14,52,Monthly,12.09,Reducing Balance,Quarterly,Monthly,Consulting,True,True,91774932,94,3,Youth,C,True,1560,2027-11-21,2023-09-13,2023-10-13,2024-01-01
+Female,Kaduna,ICT,CAM-100419,CUS-1419,Harold Allen,Harris Group,1970-07-28,"482 Stephanie Garden Suite 004
+East Julia, MO 25715",(369)901-5404,kim54@yahoo.com,4382149,2023-05-22,19,Quarterly,23.98,Flat Rate,Monthly,Monthly,Consulting,True,True,59470428,19,18,Youth,B,False,570,2024-12-12,2023-06-21,2023-07-21,2024-01-01
+Female,Abuja,Manufacturing,CAM-100420,CUS-1420,Peter Jackson,Cannon-Lee,1976-08-13,"4737 Benjamin Corner Suite 955
+Bellport, GA 38540",(967)392-6918x69835,michaelsmith@gmail.com,5373062,2023-10-19,16,Yearly,24.25,Flat Rate,Quarterly,Monthly,Consulting,False,False,67955748,58,5,Youth,C,False,480,2025-02-10,2023-11-18,2023-12-18,2024-01-01
+Female,Oyo,Health,CAM-100421,CUS-1421,Brian Conrad MD,Lara-Krueger,1987-03-06,"12581 Rivera Villages
+South Matthewtown, WA 52966",1705695498,pamela86@flores.biz,7545209,2023-05-31,44,Monthly,17.42,Reducing Balance,Quarterly,Monthly,Retail,True,True,69115328,23,14,Youth,C,True,1320,2027-01-10,2023-06-30,2023-07-30,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100422,CUS-1422,Seth Miller,"Reid, Ruiz and Smith",1987-11-25,"Unit 8551 Box 0009
+DPO AA 30426",157.899.2011,yvette08@kennedy-valentine.com,8939469,2023-04-24,14,Monthly,23.57,Reducing Balance,Monthly,Quarterly,Wholesale,False,True,79086898,54,28,Youth,B,True,420,2024-06-17,2023-05-24,2023-06-23,2024-01-01
+Male,Kaduna,Trade and Commerce,CAM-100423,CUS-1423,Jennifer Jarvis MD,"Williams, Malone and Bennett",1990-07-02,"605 Marks Plain
+North Jamesport, NH 62395",021-868-2458x070,anthony20@jones-collins.info,8178073,2023-08-25,31,Monthly,20.22,Flat Rate,Quarterly,Monthly,Services,False,True,35399680,80,4,Adult,B,False,930,2026-03-12,2023-09-24,2023-10-24,2024-01-01
+Female,Rivers,Agriculture,CAM-100424,CUS-1424,Rachel Wolfe,Compton-Willis,1972-02-14,"727 Hahn Lock Suite 644
+Port Kyle, IL 99422",+1-410-604-8705x010,jamesevans@rodriguez.com,5345710,2023-03-07,21,Quarterly,15.94,Flat Rate,Monthly,Monthly,Retail,False,True,84164500,65,7,Adult,B,True,630,2024-11-26,2023-04-06,2023-05-06,2024-01-01
+Male,Abuja,Agriculture,CAM-100425,CUS-1425,Andrea Woods,Reid PLC,2003-03-12,"322 Harvey Bypass Apt. 511
+Elizabethchester, TN 21861",8612509830,thomasjones@hotmail.com,4500737,2023-12-27,10,Quarterly,8.61,Flat Rate,Monthly,Quarterly,Wholesale,False,True,70270004,12,20,Adult,C,True,300,2024-10-22,2024-01-26,2024-02-25,2024-01-01
+Male,Kaduna,Health,CAM-100426,CUS-1426,Desiree Powers,"Clayton, Wilson and Howard",1980-12-03,"21526 Katherine Fall
+Port Jasonhaven, AK 30767",6428330395,james50@clark-jones.com,9609609,2023-12-07,57,Yearly,14.17,Reducing Balance,Quarterly,Monthly,Wholesale,False,True,62139023,24,25,Youth,B,False,1710,2028-08-12,2024-01-06,2024-02-05,2024-01-01
+Female,Kaduna,Trade and Commerce,CAM-100427,CUS-1427,Marcus Nolan,Wilson Group,2000-04-22,"85848 Caroline Inlet
+Webermouth, LA 85160",316-287-5827x49902,amypadilla@hotmail.com,7758746,2023-09-15,15,Quarterly,16.22,Flat Rate,Monthly,Quarterly,Production,True,True,55944811,34,28,Adult,A,False,450,2024-12-08,2023-10-15,2023-11-14,2024-01-01
+Male,Abuja,Health,CAM-100428,CUS-1428,Carl Rodriguez,Brown Inc,1993-04-24,"265 Patrick Estates
+Greenville, IN 99798",061-971-8546x3693,timothy96@hotmail.com,1943717,2023-09-06,55,Quarterly,22.28,Reducing Balance,Quarterly,Quarterly,Production,True,True,13042682,53,12,Youth,A,False,1650,2028-03-13,2023-10-06,2023-11-05,2024-01-01
+Female,Abuja,Agriculture,CAM-100429,CUS-1429,Michelle Hardin,Williams Ltd,2005-03-18,"5808 Pamela Fort Suite 064
+West Angelaview, AL 20763",517-365-1224x97740,wbaldwin@shaw.org,4909352,2023-11-27,8,Monthly,14.63,Reducing Balance,Monthly,Monthly,Retail,True,True,45778108,8,2,Youth,A,True,240,2024-07-24,2023-12-27,2024-01-26,2024-01-01
+Male,Kaduna,Agriculture,CAM-100430,CUS-1430,Ethan Brown,Martinez Group,2004-02-21,"500 Tyler Garden Suite 921
+South Monica, MO 57908",001-814-503-1494x802,lori23@king.biz,5611142,2023-11-19,18,Monthly,22.95,Flat Rate,Quarterly,Quarterly,Production,True,False,62564533,18,11,Adult,C,False,540,2025-05-12,2023-12-19,2024-01-18,2024-01-01
+Female,Abuja,Trade and Commerce,CAM-100431,CUS-1431,Ricky Castaneda,Wheeler-Dixon,1993-09-01,"7580 Smith Alley
+Kimberlyfort, UT 16315",+1-343-949-9679x4142,bethany20@mueller-jacobs.com,8921928,2023-06-29,48,Monthly,18.49,Flat Rate,Quarterly,Monthly,Wholesale,False,False,58817319,57,14,Youth,A,False,1440,2027-06-08,2023-07-29,2023-08-28,2024-01-01
+Male,Kaduna,ICT,CAM-100432,CUS-1432,Donna Walter,Turner-Brown,1976-06-01,"USCGC Khan
+FPO AE 65480",+1-107-518-4610x75038,salinasjanice@sanchez-johnson.info,9215633,2023-07-09,54,Monthly,7.74,Reducing Balance,Quarterly,Monthly,Production,True,False,52596687,5,22,Adult,C,True,1620,2027-12-15,2023-08-08,2023-09-07,2024-01-01
+Female,Kaduna,Manufacturing,CAM-100433,CUS-1433,Patrick Gallagher,Brooks-Ryan,2003-04-29,"PSC 1495, Box 2171
+APO AE 69935",956-144-9381x90372,staceyfoley@gmail.com,7406571,2023-06-03,35,Monthly,24.9,Flat Rate,Monthly,Quarterly,Consulting,False,True,95666267,26,23,Adult,C,False,1050,2026-04-18,2023-07-03,2023-08-02,2024-01-01
+Female,Rivers,Agriculture,CAM-100434,CUS-1434,Rebecca Nixon,Hart-Hamilton,1978-04-29,"034 Henderson Divide Suite 742
+Lake Courtneymouth, AK 33690",001-961-087-3936,pgonzales@morse.com,9252967,2023-07-15,59,Monthly,15.54,Flat Rate,Monthly,Quarterly,Production,False,True,85505216,30,16,Youth,A,True,1770,2028-05-19,2023-08-14,2023-09-13,2024-01-01
+Female,Lagos,Agriculture,CAM-100435,CUS-1435,Jennifer Mclaughlin,Stein Inc,1974-11-07,"735 Jasmin Summit
+South Jasmineview, MT 17406",+1-088-538-4161x608,burnskimberly@gmail.com,1808507,2023-11-07,50,Monthly,12.84,Reducing Balance,Quarterly,Monthly,Wholesale,True,False,12589887,54,20,Adult,B,True,1500,2027-12-16,2023-12-07,2024-01-06,2024-01-01
+Female,Kaduna,ICT,CAM-100436,CUS-1436,Kimberly Smith,Rodriguez-Cox,1975-03-21,"165 Cole Stravenue Apt. 987
+Adamfurt, NV 44721",103.823.4261x902,jeffersonrichard@gmail.com,4566621,2023-09-19,11,Yearly,18.18,Flat Rate,Monthly,Quarterly,Retail,True,True,14679338,13,29,Adult,C,True,330,2024-08-14,2023-10-19,2023-11-18,2024-01-01
+Female,Kano,ICT,CAM-100437,CUS-1437,Michelle Bryant,Gonzales and Sons,1973-02-25,"PSC 3647, Box 0003
+APO AA 69088",(178)588-3081x34490,johnsonrichard@powers-moore.com,9831795,2023-05-23,22,Yearly,7.18,Reducing Balance,Quarterly,Quarterly,Services,True,False,63766928,83,6,Adult,A,True,660,2025-03-13,2023-06-22,2023-07-22,2024-01-01
+Male,Oyo,Health,CAM-100438,CUS-1438,Tina Davis,Wu-Moore,1977-10-10,"949 Hall Villages Apt. 114
+Lake Daniel, DC 44414",462.317.7588,megan73@gmail.com,600734,2023-12-08,50,Yearly,17.73,Reducing Balance,Quarterly,Monthly,Production,True,True,32601080,29,23,Adult,C,True,1500,2028-01-16,2024-01-07,2024-02-06,2024-01-01
+Male,Enugu,Health,CAM-100439,CUS-1439,Vickie Obrien,"Morales, Bowman and Vasquez",1998-03-03,"368 James Stravenue Suite 561
+Michellefurt, CA 10639",001-352-368-9143x371,adam53@yahoo.com,9046310,2023-11-12,56,Yearly,14.96,Flat Rate,Monthly,Monthly,Wholesale,False,False,95335226,3,4,Youth,B,True,1680,2028-06-18,2023-12-12,2024-01-11,2024-01-01
+Male,Lagos,Manufacturing,CAM-100440,CUS-1440,Michael Brown,Smith-Sullivan,2002-06-12,"9640 Maria Lane
+East Allisonhaven, FL 11230",+1-373-034-0048x4068,carriebrown@gmail.com,3351274,2023-04-11,58,Monthly,13.13,Reducing Balance,Quarterly,Quarterly,Services,False,False,58656406,90,15,Adult,B,False,1740,2028-01-15,2023-05-11,2023-06-10,2024-01-01
+Female,Lagos,Manufacturing,CAM-100441,CUS-1441,Ian Soto,Barajas LLC,1986-04-04,"02783 Rodriguez Courts
+West Jamesstad, MN 43171",001-419-978-1926,thomasstanley@yahoo.com,1725811,2023-09-01,24,Yearly,24.06,Reducing Balance,Monthly,Monthly,Services,True,False,53727750,58,24,Adult,A,False,720,2025-08-21,2023-10-01,2023-10-31,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100442,CUS-1442,Joseph Baxter,Myers-Riggs,1986-11-23,"21974 Stacey Camp
+North Danielhaven, OR 60680",001-158-354-2734,joshuapatton@hotmail.com,3581091,2023-01-12,47,Monthly,15.45,Flat Rate,Quarterly,Monthly,Consulting,False,True,52335659,76,25,Adult,C,False,1410,2026-11-22,2023-02-11,2023-03-13,2024-01-01
+Female,Rivers,Health,CAM-100443,CUS-1443,Matthew Mosley,Stephens LLC,1981-10-27,"896 Dennis Ramp Suite 140
+Paigeview, MT 16833",+1-638-102-6193x4781,petersonangela@richardson-chavez.biz,4329049,2023-08-27,40,Yearly,9.38,Flat Rate,Monthly,Monthly,Services,False,False,54296372,2,1,Youth,C,True,1200,2026-12-09,2023-09-26,2023-10-26,2024-01-01
+Female,Kaduna,Agriculture,CAM-100444,CUS-1444,Jason Johnston,Nelson-Tucker,1992-02-27,"80470 Cook Place Suite 952
+East Thomas, MI 01039",(451)548-8076x044,caitlynneal@meyer.biz,2368670,2023-02-18,51,Quarterly,14.18,Flat Rate,Quarterly,Monthly,Wholesale,False,True,14602694,75,7,Adult,C,False,1530,2027-04-28,2023-03-20,2023-04-19,2024-01-01
+Male,Rivers,Health,CAM-100445,CUS-1445,Caleb Rodgers,Camacho-Dunn,1978-03-27,"USS Carr
+FPO AE 05676",001-249-565-2923x1359,currydustin@yahoo.com,7765406,2023-02-11,31,Yearly,23.39,Reducing Balance,Quarterly,Monthly,Wholesale,True,True,17927403,28,25,Youth,C,True,930,2025-08-29,2023-03-13,2023-04-12,2024-01-01
+Male,Kaduna,Agriculture,CAM-100446,CUS-1446,Bruce Frederick,"Brown, Freeman and Watts",2000-06-13,"44060 Kelly Club
+East Josephstad, WY 98413",001-485-443-0522x6855,chadgoodman@watson.biz,5313673,2023-06-15,56,Yearly,8.52,Reducing Balance,Monthly,Monthly,Production,False,True,35150798,82,12,Adult,A,False,1680,2028-01-20,2023-07-15,2023-08-14,2024-01-01
+Female,Rivers,ICT,CAM-100447,CUS-1447,Holly Rodriguez,"Walsh, Norris and Davis",2000-05-22,"872 Samantha Road
+West Kathleen, OK 64477",001-230-912-8299x42139,pmiller@yahoo.com,5255469,2023-03-23,10,Monthly,9.28,Flat Rate,Quarterly,Monthly,Production,True,True,16671009,77,10,Adult,B,True,300,2024-01-17,2023-04-22,2023-05-22,2024-01-01
+Male,Rivers,Health,CAM-100448,CUS-1448,David Young,Alvarez Ltd,1998-05-19,"353 Dennis Orchard
+Lake Tiffany, HI 77080",(170)152-8140,riverabrian@austin-harvey.com,9821425,2023-10-18,34,Yearly,5.26,Reducing Balance,Quarterly,Quarterly,Production,True,True,10821549,86,5,Adult,A,False,1020,2026-08-03,2023-11-17,2023-12-17,2024-01-01
+Female,Oyo,ICT,CAM-100449,CUS-1449,Julie Calderon,Thomas Ltd,1978-10-10,"426 Lee Manor Suite 090
+Port Deannastad, UT 60988",647.432.6950,williamhiggins@yahoo.com,8051989,2023-06-07,42,Quarterly,5.28,Flat Rate,Monthly,Monthly,Services,False,True,66496620,76,12,Youth,C,True,1260,2026-11-18,2023-07-07,2023-08-06,2024-01-01
+Female,Kano,Manufacturing,CAM-100450,CUS-1450,Pamela Kelly,Johnson-Carter,1977-02-03,"631 Michael Overpass
+North Rickey, WV 53041",+1-553-844-0508x146,terrellmariah@hotmail.com,4835702,2023-08-04,25,Monthly,21.59,Flat Rate,Quarterly,Quarterly,Services,False,True,80686659,2,18,Youth,C,False,750,2025-08-23,2023-09-03,2023-10-03,2024-01-01
+Female,Rivers,Manufacturing,CAM-100451,CUS-1451,Kayla Vasquez,Mcdonald-Montgomery,1988-06-15,"364 Vaughn Drives Apt. 096
+Sellersshire, CO 54017",656-547-3847x99281,vperez@abbott-whitaker.com,8474411,2023-06-07,54,Monthly,19.64,Reducing Balance,Monthly,Quarterly,Consulting,True,False,21485901,7,10,Youth,B,True,1620,2027-11-13,2023-07-07,2023-08-06,2024-01-01
+Female,Oyo,Trade and Commerce,CAM-100452,CUS-1452,Michelle Dickson,"Deleon, Perry and Delgado",1983-10-13,"75637 Jody Drives
+North Brendaton, OR 38386",+1-934-747-0960x66160,steven41@gmail.com,3462732,2023-05-14,26,Yearly,12.1,Flat Rate,Quarterly,Quarterly,Production,False,False,59145933,26,6,Youth,C,False,780,2025-07-02,2023-06-13,2023-07-13,2024-01-01
+Female,Abuja,Health,CAM-100453,CUS-1453,William Gutierrez,Sellers Inc,1995-06-01,"605 Jessica Springs
+Port Ariana, MD 40759",001-920-790-1884x1515,yphillips@mendoza-harris.biz,2492825,2023-03-08,15,Monthly,18.97,Reducing Balance,Monthly,Monthly,Retail,False,False,36157583,90,28,Youth,A,True,450,2024-05-31,2023-04-07,2023-05-07,2024-01-01
+Male,Kano,ICT,CAM-100454,CUS-1454,Trevor Santos,Ruiz PLC,1979-09-29,"4861 Brian Keys
+West Dana, VA 80825",+1-973-273-3672x54290,johnsontony@gmail.com,4332978,2023-12-02,10,Monthly,12.9,Reducing Balance,Quarterly,Monthly,Consulting,True,True,17589702,88,12,Youth,A,False,300,2024-09-27,2024-01-01,2024-01-31,2024-01-01
+Male,Rivers,Agriculture,CAM-100455,CUS-1455,Robert Johnston,"Aguirre, Cannon and Thompson",1990-04-06,"66458 Jackson Row
+Erinville, CT 57559",345-650-2704x136,psmith@hotmail.com,6652941,2023-01-07,41,Monthly,24.06,Flat Rate,Quarterly,Quarterly,Retail,True,True,18091794,76,7,Adult,B,False,1230,2026-05-21,2023-02-06,2023-03-08,2024-01-01
+Female,Enugu,Manufacturing,CAM-100456,CUS-1456,Tyler Hayden,Shaw-Haas,1981-12-03,"7031 Pamela Vista Apt. 735
+Friedmanhaven, ME 57813",222-567-5686,scott20@yahoo.com,4615811,2023-01-14,11,Monthly,24.34,Reducing Balance,Quarterly,Monthly,Services,True,True,59704449,16,18,Youth,A,False,330,2023-12-10,2023-02-13,2023-03-15,2024-01-01
+Female,Lagos,Manufacturing,CAM-100457,CUS-1457,Eric Williams,Brown-Rocha,1984-05-24,"54702 Gardner Turnpike
+West Thomasstad, WV 46358",+1-136-938-1230x4243,lestercrystal@carroll-scott.com,9483212,2023-03-14,31,Monthly,12.86,Flat Rate,Monthly,Quarterly,Consulting,True,True,50604169,23,2,Adult,A,True,930,2025-09-29,2023-04-13,2023-05-13,2024-01-01
+Male,Abuja,Agriculture,CAM-100458,CUS-1458,Sierra King,Hoover-Gonzalez,2002-04-28,"242 Christopher Highway
+North Brianview, ME 13136",0204664940,amanda22@hotmail.com,3674108,2023-06-12,9,Monthly,22.08,Reducing Balance,Monthly,Monthly,Consulting,False,False,31092273,40,10,Youth,A,True,270,2024-03-08,2023-07-12,2023-08-11,2024-01-01
+Male,Abuja,ICT,CAM-100459,CUS-1459,Melissa Simpson,Smith and Sons,1989-10-31,"2262 Michelle Stravenue
+New Christopherstad, CT 01084",(421)026-7063x254,kimgutierrez@yahoo.com,3231638,2023-03-07,44,Quarterly,20.46,Reducing Balance,Monthly,Monthly,Wholesale,False,True,43665616,60,15,Youth,A,True,1320,2026-10-17,2023-04-06,2023-05-06,2024-01-01
+Female,Oyo,ICT,CAM-100460,CUS-1460,David James,"Lee, Harris and Medina",1987-12-09,"8935 Ward Ranch
+Cummingsland, MT 52344",001-039-324-0676,jefferylarson@gmail.com,764500,2023-12-13,44,Yearly,11.2,Reducing Balance,Monthly,Quarterly,Services,True,False,16367204,73,12,Youth,C,True,1320,2027-07-25,2024-01-12,2024-02-11,2024-01-01
+Male,Abuja,Health,CAM-100461,CUS-1461,Darrell Gomez,Kelly Ltd,1993-01-26,"349 Kenneth Plain
+Michaelside, DC 96785",649.924.2739,moonnicholas@yahoo.com,3476031,2023-05-10,55,Quarterly,9.64,Flat Rate,Quarterly,Quarterly,Services,True,True,76394251,32,26,Adult,A,True,1650,2027-11-15,2023-06-09,2023-07-09,2024-01-01
+Female,Kano,Health,CAM-100462,CUS-1462,Mr. John Williams,Esparza LLC,1978-11-05,"43962 Salazar Crossing
+Whitakerhaven, MO 21668",(628)917-9978x966,sacevedo@hotmail.com,9527890,2023-07-25,40,Monthly,14.16,Reducing Balance,Quarterly,Quarterly,Consulting,True,False,67242949,15,17,Youth,B,False,1200,2026-11-06,2023-08-24,2023-09-23,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100463,CUS-1463,Jason Thompson,Austin Group,1971-10-26,"6319 Rosales Forge
+New Michael, IL 65018",001-193-674-6930x7352,warderica@yahoo.com,7012427,2023-10-03,6,Monthly,20.63,Flat Rate,Monthly,Monthly,Services,False,True,90988447,13,4,Youth,B,True,180,2024-03-31,2023-11-02,2023-12-02,2024-01-01
+Female,Rivers,Manufacturing,CAM-100464,CUS-1464,Julie Mendoza,Love-Mcfarland,2000-01-23,"823 Miller Lane
+Sydneystad, MD 71951",+1-824-151-9024x72807,melissa42@mendoza.biz,3403633,2023-09-13,29,Yearly,24.2,Reducing Balance,Monthly,Quarterly,Consulting,True,False,23277544,5,7,Adult,A,False,870,2026-01-30,2023-10-13,2023-11-12,2024-01-01
+Male,Enugu,Health,CAM-100465,CUS-1465,Brian Scott,Olson-Lynch,1998-06-10,"92493 Thomas Drive
+Lake Michael, ID 38013",114-456-1885x20318,johnbishop@willis-flynn.net,6211813,2023-09-23,41,Quarterly,20.27,Reducing Balance,Monthly,Monthly,Wholesale,False,True,90194387,75,9,Adult,B,False,1230,2027-02-04,2023-10-23,2023-11-22,2024-01-01
+Female,Lagos,ICT,CAM-100466,CUS-1466,James Patrick,Snow Ltd,1969-08-06,"286 Welch Prairie
+West Steven, MA 90844",0245651535,perrybrooke@yahoo.com,2440369,2023-01-25,11,Yearly,22.1,Flat Rate,Quarterly,Monthly,Consulting,True,False,32548096,74,19,Adult,A,True,330,2023-12-21,2023-02-24,2023-03-26,2024-01-01
+Male,Oyo,Agriculture,CAM-100467,CUS-1467,Donald Garcia,Mckinney Ltd,2001-04-18,"684 Allen Canyon Apt. 235
+Port Matthewberg, CT 99264",(072)977-3000,sullivanjoshua@hicks-stewart.org,4448242,2023-10-08,46,Quarterly,17.06,Flat Rate,Monthly,Monthly,Services,True,True,69840500,52,28,Adult,B,False,1380,2027-07-19,2023-11-07,2023-12-07,2024-01-01
+Male,Lagos,ICT,CAM-100468,CUS-1468,Juan Rogers,"Combs, Fletcher and Campbell",2000-04-21,"0728 Brandon Valleys
+Michaelberg, UT 41981",001-064-644-8355x13024,kennethperez@sharp-thompson.net,8627125,2023-09-10,59,Monthly,21.71,Flat Rate,Monthly,Quarterly,Services,True,False,53017938,77,27,Youth,B,True,1770,2028-07-15,2023-10-10,2023-11-09,2024-01-01
+Female,Abuja,Manufacturing,CAM-100469,CUS-1469,Kenneth Robinson,Morris-Martinez,1983-02-27,"01542 Matthew Run Apt. 890
+New Kenneth, NE 66755",0511567314,kimberlycampbell@massey-petersen.com,1717060,2023-11-06,51,Yearly,20.69,Flat Rate,Quarterly,Quarterly,Consulting,False,False,12149777,41,23,Adult,A,True,1530,2028-01-14,2023-12-06,2024-01-05,2024-01-01
+Male,Enugu,ICT,CAM-100470,CUS-1470,Lisa Harris,Bauer-Caldwell,1981-05-17,"179 Daniel Park Suite 126
+Haleville, AZ 66545",354-884-6133,timothy12@gmail.com,1531519,2023-10-16,49,Yearly,12.54,Flat Rate,Quarterly,Quarterly,Consulting,False,True,9553925,53,7,Youth,A,True,1470,2027-10-25,2023-11-15,2023-12-15,2024-01-01
+Female,Lagos,Trade and Commerce,CAM-100471,CUS-1471,David Pham,Hurst Group,1987-12-06,"96723 Colon Points Apt. 581
+East Edward, IA 17855",+1-071-904-2677x65231,robert36@yahoo.com,9677960,2023-06-13,36,Monthly,16.04,Reducing Balance,Monthly,Monthly,Consulting,False,False,33209516,50,23,Youth,C,False,1080,2026-05-28,2023-07-13,2023-08-12,2024-01-01
+Male,Kano,Manufacturing,CAM-100472,CUS-1472,Lisa Williams,Perez and Sons,1991-07-10,"178 Daniel Forges Apt. 123
+Williston, HI 94712",069.085.7269x448,jasonsolis@yahoo.com,5178714,2023-04-05,25,Yearly,21.1,Reducing Balance,Quarterly,Monthly,Production,True,True,38771094,15,2,Adult,A,True,750,2025-04-24,2023-05-05,2023-06-04,2024-01-01
+Female,Rivers,Agriculture,CAM-100473,CUS-1473,Miguel Rhodes,Luna-Wong,1972-05-03,"17602 Heather Islands Suite 657
+South Garymouth, MN 76823",772-906-9781,andrewthomas@gmail.com,8609698,2023-09-27,29,Quarterly,5.92,Flat Rate,Monthly,Quarterly,Services,False,True,59203222,7,6,Youth,A,True,870,2026-02-13,2023-10-27,2023-11-26,2024-01-01
+Male,Abuja,Trade and Commerce,CAM-100474,CUS-1474,Karen Hernandez,"Price, Ford and Green",1980-11-17,"USNS English
+FPO AE 88164",+1-416-242-3583x01661,jthomas@garcia.com,1890281,2023-11-17,30,Quarterly,21.16,Reducing Balance,Quarterly,Monthly,Services,False,True,98197068,40,18,Adult,C,True,900,2026-05-05,2023-12-17,2024-01-16,2024-01-01
+Female,Enugu,Manufacturing,CAM-100475,CUS-1475,Ronald Moore,Boyd LLC,1979-05-10,"155 Lynn Springs Apt. 008
+West Amyside, WI 62303",410-977-1816x436,torresjustin@nguyen.com,4441106,2023-04-20,41,Quarterly,8.56,Reducing Balance,Monthly,Monthly,Production,True,False,79951366,28,6,Youth,A,False,1230,2026-09-01,2023-05-20,2023-06-19,2024-01-01
+Male,Lagos,Agriculture,CAM-100476,CUS-1476,Diana Fuentes,Moore Ltd,1980-02-18,"92230 Sean Mountains Suite 840
+Davisfort, AZ 60586",8870981056,ethan96@mendoza.com,2822466,2023-12-02,26,Quarterly,15.29,Reducing Balance,Monthly,Quarterly,Consulting,True,False,48894926,32,13,Adult,A,True,780,2026-01-20,2024-01-01,2024-01-31,2024-01-01
+Female,Oyo,Trade and Commerce,CAM-100477,CUS-1477,Alicia Nguyen,Archer-Long,1970-10-19,"0045 Kathy Ville
+West Shelby, VA 31404",(863)247-1212x3037,brett21@ramirez.com,8278748,2023-11-06,35,Monthly,21.17,Flat Rate,Monthly,Quarterly,Wholesale,False,True,71289003,99,26,Adult,C,False,1050,2026-09-21,2023-12-06,2024-01-05,2024-01-01
+Male,Kano,Trade and Commerce,CAM-100478,CUS-1478,Gloria Bullock,Ritter-Fowler,2002-06-28,"22931 Hernandez Corners Suite 268
+Lake Timothy, NY 22983",+1-197-762-8224x538,samantha70@gmail.com,8599932,2023-08-26,29,Yearly,10.08,Reducing Balance,Monthly,Quarterly,Consulting,False,True,5719194,15,19,Adult,A,False,870,2026-01-12,2023-09-25,2023-10-25,2024-01-01
+Female,Kano,Manufacturing,CAM-100479,CUS-1479,Kristen Thornton,Gillespie Group,1989-01-07,"07863 Jonathan Center Suite 717
+Jesseview, IN 27794",(509)361-5108,dmiddleton@travis-jacobs.com,2351317,2023-01-25,49,Quarterly,9.92,Reducing Balance,Quarterly,Monthly,Consulting,False,False,38838169,85,2,Adult,A,True,1470,2027-02-03,2023-02-24,2023-03-26,2024-01-01
+Female,Lagos,Health,CAM-100480,CUS-1480,Brittany Wilson,Walker-Murillo,2003-04-10,"223 Jesse Brooks
+Maryborough, HI 98180",806.281.5092x4500,ehuff@gmail.com,2446830,2023-05-21,47,Monthly,13.06,Reducing Balance,Quarterly,Monthly,Production,False,False,70541536,70,12,Adult,C,False,1410,2027-03-31,2023-06-20,2023-07-20,2024-01-01
+Female,Rivers,Trade and Commerce,CAM-100481,CUS-1481,Madison Jimenez,"Harris, Thornton and Ward",1971-01-29,"3525 John Island Suite 635
+South Candicetown, HI 28359",163-135-8283x103,jkramer@tucker-schneider.info,3114150,2023-04-27,35,Yearly,22.89,Flat Rate,Quarterly,Monthly,Services,True,False,52895822,65,15,Adult,C,False,1050,2026-03-12,2023-05-27,2023-06-26,2024-01-01
+Male,Lagos,Trade and Commerce,CAM-100482,CUS-1482,Andrew Lopez,Hall LLC,1970-09-06,"1825 Nicole Squares Apt. 892
+Port Amytown, WY 92965",508.483.9974x2706,edwardsmadison@jackson.com,7738987,2023-01-25,27,Yearly,5.01,Reducing Balance,Quarterly,Monthly,Consulting,True,True,53954211,4,14,Youth,B,True,810,2025-04-14,2023-02-24,2023-03-26,2024-01-01
+Female,Abuja,Agriculture,CAM-100483,CUS-1483,Sean Mckay,Gardner Ltd,1970-08-29,"17380 Sandra Circle Apt. 343
+North Julianshire, IL 87271",920.764.7830,dickersonnoah@yahoo.com,5160061,2023-03-20,33,Monthly,23.03,Reducing Balance,Monthly,Monthly,Services,True,True,41412278,11,6,Youth,A,True,990,2025-12-04,2023-04-19,2023-05-19,2024-01-01
+Male,Lagos,ICT,CAM-100484,CUS-1484,Anthony Newton,Rich-Miller,1982-05-22,"15639 Tanya Pine
+Clarkborough, UT 48611",(575)033-0811,wfields@gmail.com,3105214,2023-03-09,12,Monthly,8.08,Flat Rate,Monthly,Quarterly,Retail,False,True,75949887,26,18,Youth,B,True,360,2024-03-03,2023-04-08,2023-05-08,2024-01-01
+Female,Kano,Manufacturing,CAM-100485,CUS-1485,Joe Moreno,Brady-Flores,1979-02-05,"Unit 9741 Box 8846
+DPO AA 61409",(281)604-8600x155,jason82@gmail.com,8423641,2023-06-22,40,Quarterly,24.8,Flat Rate,Quarterly,Monthly,Services,False,True,96803162,61,5,Adult,B,False,1200,2026-10-04,2023-07-22,2023-08-21,2024-01-01
+Male,Enugu,Manufacturing,CAM-100486,CUS-1486,Dr. Joseph Edwards,"Thompson, Hodges and Cunningham",1995-11-09,"568 Linda Oval
+East Jameston, NC 04019",(793)752-4208x8230,abaker@graves-montgomery.biz,2729180,2023-01-12,33,Yearly,24.1,Reducing Balance,Quarterly,Monthly,Wholesale,True,True,46150968,37,18,Youth,C,True,990,2025-09-28,2023-02-11,2023-03-13,2024-01-01
+Female,Lagos,Health,CAM-100487,CUS-1487,Belinda Huff,Gray-Bauer,1979-01-30,"02041 David Fields
+Brianfurt, NV 22136",878-299-3175,christopheralexander@hotmail.com,9884451,2023-10-15,19,Yearly,14.89,Reducing Balance,Quarterly,Monthly,Wholesale,True,False,81268932,23,3,Adult,A,False,570,2025-05-07,2023-11-14,2023-12-14,2024-01-01
+Male,Rivers,Health,CAM-100488,CUS-1488,James Wells,"Moore, Rivera and Mcdaniel",1982-08-20,"7883 Greene Meadow Apt. 795
+East Laurenshire, OR 65602",001-656-659-7676x629,wschmidt@gmail.com,4688891,2023-05-08,15,Monthly,15.25,Flat Rate,Quarterly,Quarterly,Consulting,False,True,71574460,93,3,Youth,A,False,450,2024-07-31,2023-06-07,2023-07-07,2024-01-01
+Male,Enugu,Manufacturing,CAM-100489,CUS-1489,Haley Jones,Kennedy LLC,1991-11-05,"3230 Deleon Plains Suite 691
+Timothyside, AL 34505",128.910.3123x37386,yrichards@hotmail.com,9514653,2023-04-06,21,Yearly,14.63,Flat Rate,Quarterly,Quarterly,Services,False,False,17842433,85,22,Youth,C,False,630,2024-12-26,2023-05-06,2023-06-05,2024-01-01
+Female,Oyo,Health,CAM-100490,CUS-1490,Thomas Jones,"Odonnell, Wong and Jones",2002-09-01,"6161 Robert Passage
+New Jaybury, NE 62623",358-592-8456x2855,loretta67@mitchell.com,4531419,2023-04-02,21,Quarterly,17.71,Flat Rate,Monthly,Quarterly,Consulting,True,False,60050102,91,22,Adult,B,False,630,2024-12-22,2023-05-02,2023-06-01,2024-01-01
+Male,Kaduna,Agriculture,CAM-100491,CUS-1491,Natalie Nelson,Martin Group,1992-03-01,"0098 Donna Street Suite 798
+Keithberg, VT 17011",(746)200-6677,alexander11@gmail.com,4995511,2023-05-21,59,Yearly,6.81,Flat Rate,Monthly,Monthly,Production,True,True,73513977,40,10,Youth,C,False,1770,2028-03-25,2023-06-20,2023-07-20,2024-01-01
+Male,Lagos,Manufacturing,CAM-100492,CUS-1492,Jennifer Banks,Matthews-Berry,1991-03-18,"Unit 4016 Box 5726
+DPO AE 95717",993-108-0978,andrereyes@jones-johnson.com,1924945,2023-01-31,36,Monthly,5.65,Flat Rate,Monthly,Quarterly,Wholesale,True,False,66134752,77,19,Youth,A,True,1080,2026-01-15,2023-03-02,2023-04-01,2024-01-01
+Female,Rivers,Health,CAM-100493,CUS-1493,Michele Morris,Clark-Paul,1989-10-18,"Unit 6925 Box 9998
+DPO AP 84831",389.812.0014x493,torresrobert@hotmail.com,2863999,2023-11-30,47,Monthly,6.15,Flat Rate,Quarterly,Quarterly,Consulting,False,True,36968399,23,3,Youth,C,True,1410,2027-10-10,2023-12-30,2024-01-29,2024-01-01
+Male,Enugu,Manufacturing,CAM-100494,CUS-1494,Travis Hendrix,Campbell-Carter,1996-08-31,"1345 Chapman Curve Apt. 361
+West Chad, NH 81529",827-217-6461x25142,dpeterson@martinez.com,9609096,2023-01-20,30,Quarterly,13.89,Flat Rate,Quarterly,Quarterly,Production,False,False,55719638,16,29,Adult,A,False,900,2025-07-08,2023-02-19,2023-03-21,2024-01-01
+Male,Rivers,ICT,CAM-100495,CUS-1495,Brian Black,Flores and Sons,1990-04-19,"7267 Paul Unions
+Jonathanberg, WI 78476",353.233.9103x92627,ryanmiranda@bell.org,5290691,2023-05-26,18,Quarterly,10.51,Reducing Balance,Quarterly,Monthly,Consulting,False,True,30417654,94,12,Youth,B,False,540,2024-11-16,2023-06-25,2023-07-25,2024-01-01
+Male,Oyo,Trade and Commerce,CAM-100496,CUS-1496,Tara Hernandez,Gutierrez PLC,1972-11-28,"528 Esparza Knolls Apt. 650
+Tranburgh, MN 05754",297.153.4288x05661,vcohen@wells.org,9307673,2023-11-12,11,Yearly,17.44,Flat Rate,Quarterly,Quarterly,Services,False,True,40620879,61,29,Adult,A,True,330,2024-10-07,2023-12-12,2024-01-11,2024-01-01
+Female,Kano,Manufacturing,CAM-100497,CUS-1497,Sean Davidson,Castillo LLC,1994-11-08,"70555 Sandra Island
+Anthonyfort, SD 87582",(827)208-1563,sramirez@krueger.org,4725889,2023-06-09,49,Yearly,24.85,Flat Rate,Monthly,Monthly,Services,False,False,42411036,68,16,Youth,B,True,1470,2027-06-18,2023-07-09,2023-08-08,2024-01-01
+Male,Rivers,Trade and Commerce,CAM-100498,CUS-1498,Shannon Williams,"Higgins, Hess and Graves",1978-07-30,"65828 Weaver Crescent Suite 822
+West Michael, AR 46078",+1-816-046-9167,nguyensamantha@taylor.info,3592195,2023-12-15,14,Monthly,12.73,Reducing Balance,Monthly,Monthly,Services,False,True,79180450,80,17,Youth,B,False,420,2025-02-07,2024-01-14,2024-02-13,2024-01-01
+Female,Enugu,Health,CAM-100499,CUS-1499,Shirley Long,"King, Griffin and Sanders",1998-09-04,"60692 Pierce Turnpike
+East Christinefort, PA 84189",(796)916-3244x5457,ksmith@gmail.com,789102,2023-02-12,50,Quarterly,16.48,Flat Rate,Quarterly,Quarterly,Services,True,False,13462734,31,7,Youth,A,False,1500,2027-03-23,2023-03-14,2023-04-13,2024-01-01
