@@ -4,3 +4,5 @@ scikit-learn
 plotly
 joblib
 vanna[chromadb,openai]
+pysqlite3-binary
+

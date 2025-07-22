@@ -1,10 +1,13 @@
+__import__('pysqlite3')
+
 import streamlit as st
 from vanna.chromadb import ChromaDB_VectorStore
 from vanna.openai import OpenAI_Chat
 
 import os 
-from dotenv import load_dotenv
-load_dotenv()
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 # Load the OpenAI API key from environment variables
 
