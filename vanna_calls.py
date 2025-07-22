@@ -6,9 +6,13 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+# Load the OpenAI API key from environment variables
+
 OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY")
+
 if not OPENAI_API_KEY:
     raise ValueError("Please set the OPENAI_API_KEY environment variable.")
+
 
 
 class MyVanna(ChromaDB_VectorStore, OpenAI_Chat):
