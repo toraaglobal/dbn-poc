@@ -8,9 +8,9 @@ from sklearn.preprocessing import LabelEncoder
 import pandas as pd
 import numpy as np
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 
 st.set_page_config(page_title="MSME Loan Dashboard", layout="wide")
@@ -127,6 +127,7 @@ with st.form("predict_form"):
     age = col3.slider("Business Age (years)", 1, 30, 5)
     employees = col1.slider("Number of Employees", 1, 100, 5)
     green = col2.selectbox("Green Energy MSME?", ["Yes", "No"])
+    ternor_type = col3.selectbox("Tenor Type", ["M", "Q"])
 
     submitted = st.form_submit_button("Predict")
     if submitted:
@@ -135,13 +136,15 @@ with st.form("predict_form"):
             'Sector': sector,
             'State': state,
             'StartUp': startup,
-            'Tenor': tenor,
+            'Tenor': tenor, 
+            'TenorType': ternor_type,
             'AmountGranted': amount,
-            'InterestRate': rate,
+            'Rate': rate,
             'MSMEAnnualTurnover': turnover,
             'Age': age,
             'NumberOfEmployees': employees,
-            'green_energy/energy_efficiency': green
+            'green_energy/energy_efficiency': green,
+          
         }])
 
         for col in input_df.select_dtypes(include='object').columns:

@@ -5,4 +5,9 @@ plotly
 joblib
 vanna[chromadb,openai]
 pysqlite3-binary
+prophet
+matplotlib
+seaborn
+scikit-learn
+xlsxwriter
 
